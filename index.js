@@ -34,6 +34,30 @@ function extractComponents(desc) {
   return '';
 }
 
+function markdownForDay(day) {
+  let md = `# ${day.date}\n`;
+  md += `\n**Napi összesített tápérték:**\n`;
+  md += `- Kalória: ${day.nutritions.calories} kcal\n`;
+  md += `- Zsír: ${day.nutritions.lipids} g\n`;
+  md += `- Szénhidrát: ${day.nutritions.carbohydrate} g\n`;
+  md += `- Rost: ${day.nutritions.fiber} g\n`;
+  md += `- Nátrium: ${day.nutritions.natrium} mg\n`;
+  md += `\n**Ételek:**\n`;
+  for (const item of day.menu) {
+    const n = item.nutritions || {};
+    md += `- ${item.name} (`;
+    md += [
+      n.calories !== null && n.calories !== undefined ? `${n.calories} kcal` : null,
+      n.lipids !== null && n.lipids !== undefined ? `${n.lipids}g zsír` : null,
+      n.carbohydrate !== null && n.carbohydrate !== undefined ? `${n.carbohydrate}g szénhidrát` : null,
+      n.fiber !== null && n.fiber !== undefined ? `${n.fiber}g rost` : null,
+      n.natrium !== null && n.natrium !== undefined ? `${n.natrium}mg nátrium` : null
+    ].filter(Boolean).join(', ');
+    md += ")\n";
+  }
+  return md;
+}
+
 async function fetchAllMenus() {
   try {
     const { data } = await axios.get(URL);
@@ -92,7 +116,10 @@ async function fetchAllMenus() {
       day.nutritions = summary;
     }
 
-    console.log(JSON.stringify(days, null, 2));
+    // Instead of logging the array, log markdown for each day
+    for (const day of days) {
+      console.log(markdownForDay(day));
+    }
   } catch (error) {
     console.error('Error fetching menu:', error.message);
   }

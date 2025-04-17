@@ -3,6 +3,7 @@
 
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs');
 
 const URL = 'https://fitfoodway.hu/programok/fogyj-egeszsegesen';
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
@@ -117,9 +118,13 @@ async function fetchAllMenus() {
     }
 
     // Instead of logging the array, log markdown for each day
+    let allMarkdown = '';
     for (const day of days) {
-      console.log(markdownForDay(day));
+      allMarkdown += markdownForDay(day) + '\n';
     }
+    // Write to public/menu.md
+    fs.writeFileSync('public/menu.md', allMarkdown);
+    console.log('Markdown written to public/menu.md');
   } catch (error) {
     console.error('Error fetching menu:', error.message);
   }

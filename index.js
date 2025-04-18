@@ -78,14 +78,58 @@ function markdownForDay(day) {
     return diff > 0 ? `${diff} ${unit}` : '0';
   }
   let md = `# ${day.date}\n`;
-  md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig |\n`;
-  md += `|--------------|-------------|----------|------------------|\n`;
-  md += `| Kalória      | ${round1(day.nutritions.calories)} kcal (${percent(day.nutritions.calories, dailyRecommended.calories)}%) | ${round1(dailyRecommended.calories)} kcal | ${missing(day.nutritions.calories, dailyRecommended.calories, 'kcal')} |\n`;
-  md += `| Fehérje      | ${round1(day.nutritions.protein)} g (${percent(day.nutritions.protein, dailyRecommended.protein)}%) | ${round1(dailyRecommended.protein)} g | ${missing(day.nutritions.protein, dailyRecommended.protein, 'g')} |\n`;
-  md += `| Zsír         | ${round1(day.nutritions.lipids)} g (${percent(day.nutritions.lipids, dailyRecommended.lipids)}%) | ${round1(dailyRecommended.lipids)} g | ${missing(day.nutritions.lipids, dailyRecommended.lipids, 'g')} |\n`;
-  md += `| Szénhidrát   | ${round1(day.nutritions.carbohydrate)} g (${percent(day.nutritions.carbohydrate, dailyRecommended.carbohydrate)}%) | ${round1(dailyRecommended.carbohydrate)} g | ${missing(day.nutritions.carbohydrate, dailyRecommended.carbohydrate, 'g')} |\n`;
-  md += `| Rost         | ${round1(day.nutritions.fiber)} g (${percent(day.nutritions.fiber, dailyRecommended.fiber)}%) | ${round1(dailyRecommended.fiber)} g | ${missing(day.nutritions.fiber, dailyRecommended.fiber, 'g')} |\n`;
-  md += `| Nátrium      | ${round1(day.nutritions.natrium)} mg (${percent(day.nutritions.natrium, dailyRecommended.natrium)}%) | ${round1(dailyRecommended.natrium)} mg | ${missing(day.nutritions.natrium, dailyRecommended.natrium, 'mg')} |\n`;
+
+  // Calculate missing nutrients
+  const missingNutrients = {
+    calories: Math.max(0, dailyRecommended.calories - (day.nutritions.calories || 0)),
+    protein: Math.max(0, dailyRecommended.protein - (day.nutritions.protein || 0)),
+    lipids: Math.max(0, dailyRecommended.lipids - (day.nutritions.lipids || 0)),
+    carbohydrate: Math.max(0, dailyRecommended.carbohydrate - (day.nutritions.carbohydrate || 0)),
+    fiber: Math.max(0, dailyRecommended.fiber - (day.nutritions.fiber || 0)),
+    natrium: Math.max(0, dailyRecommended.natrium - (day.nutritions.natrium || 0)),
+  };
+  const suggestions = bestFoodCombination(missingNutrients);
+
+  // Calculate totals with extra food
+  const extraTotals = { calories: 0, protein: 0, lipids: 0, carbohydrate: 0, fiber: 0, natrium: 0 };
+  for (const food of suggestions) {
+    extraTotals.calories += (food.calories || 0) * food.count;
+    extraTotals.protein += (food.protein || 0) * food.count;
+    extraTotals.lipids += (food.lipids || 0) * food.count;
+    extraTotals.carbohydrate += (food.carbohydrate || 0) * food.count;
+    extraTotals.fiber += (food.fiber || 0) * food.count;
+    extraTotals.natrium += (food.natrium || 0) * food.count;
+  }
+
+  function withExtra(val, extra) {
+    if (val == null && extra == null) return '';
+    const sum = round1((val || 0) + (extra || 0));
+    return `${sum} (${percent(sum, dailyRecommended[thisKey])}%)`;
+  }
+
+  md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+`;
+  md += `|--------------|-------------|----------|------------------|---------------------|
+`;
+  const keys = [
+    { key: 'calories', label: 'Kalória', unit: 'kcal' },
+    { key: 'protein', label: 'Fehérje', unit: 'g' },
+    { key: 'lipids', label: 'Zsír', unit: 'g' },
+    { key: 'carbohydrate', label: 'Szénhidrát', unit: 'g' },
+    { key: 'fiber', label: 'Rost', unit: 'g' },
+    { key: 'natrium', label: 'Nátrium', unit: 'mg' },
+  ];
+  for (const { key: thisKey, label, unit } of keys) {
+    const consumed = round1(day.nutritions[thisKey]);
+    const consumedPercent = percent(day.nutritions[thisKey], dailyRecommended[thisKey]);
+    const recommended = round1(dailyRecommended[thisKey]);
+    const missingVal = missing(day.nutritions[thisKey], dailyRecommended[thisKey], unit);
+    const totalWithExtra = round1((day.nutritions[thisKey] || 0) + (extraTotals[thisKey] || 0));
+    const totalWithExtraPercent = percent(totalWithExtra, dailyRecommended[thisKey]);
+    md += `| ${label.padEnd(12)} | ${consumed} ${unit} (${consumedPercent}%) | ${recommended} ${unit} | ${missingVal} | ${totalWithExtra} ${unit} (${totalWithExtraPercent}%) |
+`;
+  }
+
   md += `\n**Ételek:**\n`;
   for (const item of day.menu) {
     const n = item.nutritions || {};
@@ -114,16 +158,6 @@ function markdownForDay(day) {
       .join(", ");
     md += ")\n";
   }
-  // Calculate missing nutrients
-  const missingNutrients = {
-    calories: Math.max(0, dailyRecommended.calories - (day.nutritions.calories || 0)),
-    protein: Math.max(0, dailyRecommended.protein - (day.nutritions.protein || 0)),
-    lipids: Math.max(0, dailyRecommended.lipids - (day.nutritions.lipids || 0)),
-    carbohydrate: Math.max(0, dailyRecommended.carbohydrate - (day.nutritions.carbohydrate || 0)),
-    fiber: Math.max(0, dailyRecommended.fiber - (day.nutritions.fiber || 0)),
-    natrium: Math.max(0, dailyRecommended.natrium - (day.nutritions.natrium || 0)),
-  };
-  const suggestions = bestFoodCombination(missingNutrients);
   if (suggestions.length > 0) {
     md += `\n---\n\n**Javasolt kiegészítő ételek a cél eléréséhez:**\n`;
     for (const food of suggestions) {

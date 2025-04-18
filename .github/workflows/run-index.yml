@@ -1,0 +1,25 @@
+name: Run index.js nightly
+
+on:
+  schedule:
+    # Runs every night at 9 PM
+    - cron: '0 21 * * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run index.js with parameter 5
+        run: node index.js 5

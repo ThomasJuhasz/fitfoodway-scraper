@@ -7,6 +7,7 @@ const fs = require("fs");
 const path = require("path");
 const dailyRecommended = require("./dailyRecommended");
 const bestFoodCombination = require("./bestFoodCombination");
+const additionalFoodItems = require("./additionalFoodItems");
 
 const URL = "https://fitfoodway.hu/programok/fogyj-egeszsegesen";
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
@@ -67,7 +68,7 @@ function round1(val) {
 }
 
 // prettier-ignore
-function markdownForDay(day) {
+async function markdownForDay(day) {
   function percent(val, target) {
     if (val == null || target == null) return '';
     return target > 0 ? Math.round((val / target) * 100) : 0;
@@ -88,7 +89,7 @@ function markdownForDay(day) {
     fiber: Math.max(0, dailyRecommended.fiber - (day.nutritions.fiber || 0)),
     natrium: Math.max(0, dailyRecommended.natrium - (day.nutritions.natrium || 0)),
   };
-  const suggestions = bestFoodCombination(missingNutrients);
+  const suggestions = await bestFoodCombination(missingNutrients, additionalFoodItems);
 
   // Calculate totals with extra food
   const extraTotals = { calories: 0, protein: 0, lipids: 0, carbohydrate: 0, fiber: 0, natrium: 0 };
@@ -174,14 +175,14 @@ function markdownForDay(day) {
 }
 
 async function fetchAllMenus() {
-  try {
-    const days = await fetchDays();
-    await fetchMenuDetails(days);
-    summarizeNutritions(days);
-    writeMarkdown(days);
-  } catch (error) {
-    console.error("Error fetching menu:", error.message);
-  }
+  // try {
+  const days = await fetchDays();
+  await fetchMenuDetails(days);
+  summarizeNutritions(days);
+  await writeMarkdown(days);
+  // } catch (error) {
+  //   console.error("Error fetching menu:", error.message);
+  // }
 }
 
 async function fetchDays() {
@@ -272,10 +273,10 @@ function summarizeNutritions(days) {
   }
 }
 
-function writeMarkdown(days) {
+async function writeMarkdown(days) {
   let allMarkdown = "";
   for (const day of days) {
-    allMarkdown += markdownForDay(day) + "\n";
+    allMarkdown += (await markdownForDay(day)) + "\n";
   }
   // Write to docs/index.md instead of README.md
   fs.mkdirSync("docs", { recursive: true });

@@ -5,11 +5,12 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const path = require("path");
-const dailyRecommended = require("./dailyRecommended");
+const config = require("./config");
 const bestFoodCombination = require("./bestFoodCombination");
-const additionalFoodItems = require("./additionalFoodItems");
 
-const URL = "https://fitfoodway.hu/programok/fogyj-egeszsegesen";
+const URL = config.URL;
+const dailyRecommended = config.dailyRecommended;
+const additionalFoodItems = config.additionalFoodItems;
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
 
 function extractNutritions(desc) {

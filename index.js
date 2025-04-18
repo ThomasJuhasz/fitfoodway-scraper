@@ -194,9 +194,9 @@ function writeMarkdown(days) {
     allMarkdown += markdownForDay(day) + "\n";
   }
   // Write to public/index.md instead of README.md
-  fs.mkdirSync("public", { recursive: true });
-  fs.writeFileSync("public/index.md", allMarkdown);
-  console.log("Markdown written to public/index.md");
+  fs.mkdirSync("docs", { recursive: true });
+  fs.writeFileSync("docs/index.md", allMarkdown);
+  console.log("Markdown written to docs/index.md");
 }
 
 fetchAllMenus();

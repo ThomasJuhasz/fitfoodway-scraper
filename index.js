@@ -11,21 +11,26 @@ const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
 function extractNutritions(desc) {
   // Hungarian nutrition keywords and regexes
   const regexes = {
-    calories: /kalória\s*[:]??\s*(\d+)\s*kcal/i,
-    lipids: /(zsír|lipid(?:ek)?)\s*[:]??\s*(\d+)\s*g/i, // match 'zsír', 'lipid', 'lipidek'
-    carbohydrate: /szénhidrát(?:ok)?\s*[:]??\s*(\d+)\s*g/i,
-    fiber: /rost\s*[:]??\s*(\d+)\s*g/i,
-    natrium: /nátrium\s*[:]??\s*(\d+)\s*mg/i,
+    calories: /kalória\s*[:]??\s*([\d.,]+)\s*kcal/i,
+    lipids: /(zsír|lipid(?:ek)?)\s*[:]??\s*([\d.,]+)\s*g/i, // match 'zsír', 'lipid', 'lipidek'
+    carbohydrate: /szénhidrát(?:ok)?\s*[:]??\s*([\d.,]+)\s*g/i,
+    fiber: /rost\s*[:]??\s*([\d.,]+)\s*g/i,
+    natrium: /nátrium\s*[:]??\s*([\d.,]+)\s*mg/i,
   };
   const nutritions = {};
   for (const [key, regex] of Object.entries(regexes)) {
     const match = desc.match(regex);
-    // For lipids, the value is in the second group
-    if (key === 'lipids') {
-      nutritions[key] = match ? parseInt(match[2], 10) : null;
-    } else {
-      nutritions[key] = match ? parseInt(match[1], 10) : null;
+    let value = null;
+    if (match) {
+      // For lipids, the value is in the second group
+      const raw = key === 'lipids' ? match[2] : match[1];
+      if (raw) {
+        // Replace comma with dot, parse as float, then floor to int
+        const num = Math.floor(parseFloat(raw.replace(',', '.')));
+        value = isNaN(num) ? null : num;
+      }
     }
+    nutritions[key] = value;
   }
   return nutritions;
 }

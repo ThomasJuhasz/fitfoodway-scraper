@@ -13,10 +13,11 @@ function extractNutritions(desc) {
   const regexes = {
     // Robust: match 'kalória' or 'kalóriák', optional colon/whitespace, number always in group 1
     calories: /kalóri[áa]+k?\s*:?\s*([\d.,]+)/i,
-    lipids: /(zsír|lipid(?:ek)?)\s*:?(\s*[\d.,]+)\s*g/i,
-    carbohydrate: /szénhidrát(?:ok)?\s*:?(\s*[\d.,]+)\s*g/i,
-    fiber: /rost(?:ok)?\s*:?(\s*[\d.,]+)\s*g/i,
-    natrium: /nátrium\s*:?(\s*[\d.,]+)\s*mg/i,
+    protein: /fehérj[ée]k?\s*[:]?(\s*[\d.,]+)\s*g?/i,
+    lipids: /(zsír|lipid(?:ek)?)\s*[:]?(\s*[\d.,]+)\s*g/i,
+    carbohydrate: /szénhidrát(?:ok)?\s*[:]?(\s*[\d.,]+)\s*g/i,
+    fiber: /rost(?:ok)?\s*[:]?(\s*[\d.,]+)\s*g/i,
+    natrium: /nátrium\s*[:]?(\s*[\d.,]+)\s*mg/i,
   };
   const nutritions = {};
   for (const [key, regex] of Object.entries(regexes)) {
@@ -56,6 +57,7 @@ function markdownForDay(day) {
   let md = `# ${day.date}\n`;
   md += `\n**Napi összesített tápérték:**\n`;
   md += `- Kalória: ${day.nutritions.calories} kcal\n`;
+  md += `- Fehérje: ${day.nutritions.protein} g\n`;
   md += `- Zsír: ${day.nutritions.lipids} g\n`;
   md += `- Szénhidrát: ${day.nutritions.carbohydrate} g\n`;
   md += `- Rost: ${day.nutritions.fiber} g\n`;
@@ -67,6 +69,9 @@ function markdownForDay(day) {
     md += [
       n.calories !== null && n.calories !== undefined
         ? `${n.calories} kcal`
+        : null,
+      n.protein !== null && n.protein !== undefined
+        ? `${n.protein}g fehérje`
         : null,
       n.lipids !== null && n.lipids !== undefined ? `${n.lipids}g zsír` : null,
       n.carbohydrate !== null && n.carbohydrate !== undefined
@@ -161,6 +166,7 @@ function summarizeNutritions(days) {
   for (const day of days) {
     const summary = {
       calories: 0,
+      protein: 0,
       lipids: 0,
       carbohydrate: 0,
       fiber: 0,

@@ -193,8 +193,10 @@ function writeMarkdown(days) {
   for (const day of days) {
     allMarkdown += markdownForDay(day) + "\n";
   }
-  fs.writeFileSync("README.md", allMarkdown);
-  console.log("Markdown written to README.md");
+  // Write to public/index.md instead of README.md
+  fs.mkdirSync("public", { recursive: true });
+  fs.writeFileSync("public/index.md", allMarkdown);
+  console.log("Markdown written to public/index.md");
 }
 
 fetchAllMenus();

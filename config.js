@@ -1,13 +1,20 @@
+prompt = `
+    Please recommend a combination of these foods to best cover the missing nutrients, without exceeding the recommended daily values.
+    Never go above 110% of the daily recommended values. Please ensure that you hit at least 90% of the daily recommended values for each nutrient.
+    Please prefer the foods with "shake" in their name.
+  `;
+
 module.exports = {
   URL: "https://fitfoodway.hu/programok/fogyj-egeszsegesen",
   dailyRecommended: {
-    calories: 2550,
-    protein: 230, // in grams
+    calories: 2100,
+    protein: 215, // in grams
     lipids: 85, // fats in grams
     carbohydrate: 225, // in grams
     fiber: 40, // in grams
     natrium: 2300, // in milligrams (sodium)
   },
+  prompt: prompt,
   additionalFoodItems: [
     {
       name: "Görög joghurt (200g, zsírszegény)",

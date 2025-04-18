@@ -1,4 +1,5 @@
 const { GoogleGenerativeAI } = require("@google/generative-ai");
+const config = require("./config");
 
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
@@ -9,7 +10,7 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
  * @returns {Promise<string>} A recommendation from Gemini.
  */
 async function bestFoodCombination(missing, foodList) {
-  const prompt = `
+  let prompt = `
   I have the following missing nutrients for today: ${JSON.stringify(
     missing,
     null,
@@ -19,11 +20,9 @@ async function bestFoodCombination(missing, foodList) {
     foodList,
     null,
     2
-  )}
-  Please recommend a combination of these foods to best cover the missing nutrients, without exceeding the recommended daily values.
-  Never go above 110% of the daily recommended values. Please ensure that you hit at least 90% of the daily recommended values for each nutrient.
-  Please prefer the foods with "shake" in their name.
-
+  )}`;
+  prompt += config.prompt;
+  prompt += `
   Respond with a javascript array of recomended list of additional foods in the same format as the food list provided. Nothing else, only the array, similar to this: 
   [{
     name: "Fibershake",

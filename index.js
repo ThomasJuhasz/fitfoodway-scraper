@@ -212,7 +212,6 @@ function extractMenu($, dayDiv) {
   $(dayDiv)
     .find(".box-menu")
     .each((j, menuDiv) => {
-      if (j >= 5) return false;
       const name = $(menuDiv)
         .find(".box-menu-description")
         .first()

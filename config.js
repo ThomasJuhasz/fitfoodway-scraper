@@ -1,7 +1,7 @@
 prompt = `
     Please recommend a combination of these foods to best cover the missing nutrients, without exceeding the recommended daily values.
     Never go above 110% of the daily recommended values. Please ensure that you hit at least 90% of the daily recommended values for each nutrient.
-    Please prefer the foods with "shake" in their name.
+    Please prefer the foods with the low effort. It's okay to add higher effort foods sometimes, but not too much.
   `;
 
 module.exports = {
@@ -18,6 +18,7 @@ module.exports = {
   additionalFoodItems: [
     {
       name: "Görög joghurt (200g, zsírszegény)",
+      effort: 0,
       calories: 130,
       protein: 20,
       lipids: 0.5,
@@ -27,6 +28,7 @@ module.exports = {
     },
     {
       name: "Főtt tojás (2 darab)",
+      effort: 1,
       calories: 155,
       protein: 13,
       lipids: 11,
@@ -36,6 +38,7 @@ module.exports = {
     },
     {
       name: "Fehérjepor shake (1 adag vízzel)",
+      effort: 0,
       calories: 120,
       protein: 24,
       lipids: 1.5,
@@ -45,6 +48,7 @@ module.exports = {
     },
     {
       name: "Pöttyös Protein Turó Rudi natúr",
+      effort: 0,
       calories: 145,
       protein: 9.2,
       lipids: 8,
@@ -54,6 +58,7 @@ module.exports = {
     },
     {
       name: "Milbona High Protein Cottage Cheese (250g)",
+      effort: 0,
       calories: 225,
       protein: 32,
       lipids: 10,
@@ -63,6 +68,7 @@ module.exports = {
     },
     {
       name: "Csirkemell (100g, sült)",
+      effort: 2,
       calories: 165,
       protein: 31,
       lipids: 3.5,
@@ -72,6 +78,7 @@ module.exports = {
     },
     {
       name: "Tonhal konzerv (100g, vízben)",
+      effort: 0,
       calories: 213,
       protein: 24,
       lipids: 13,
@@ -81,6 +88,7 @@ module.exports = {
     },
     {
       name: "Fibershake",
+      effort: 0,
       calories: 133,
       protein: 20,
       lipids: 1.4,

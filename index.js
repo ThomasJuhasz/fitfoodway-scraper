@@ -65,15 +65,26 @@ function round1(val) {
   return Math.round(val * 10) / 10;
 }
 
+// prettier-ignore
 function markdownForDay(day) {
+  function percent(val, target) {
+    if (val == null || target == null) return '';
+    return target > 0 ? Math.round((val / target) * 100) : 0;
+  }
+  function missing(val, target, unit) {
+    if (val == null || target == null) return '';
+    const diff = round1(target - val);
+    return diff > 0 ? `${diff} ${unit}` : '0';
+  }
   let md = `# ${day.date}\n`;
-  md += `\n**Napi összesített tápérték:**\n`;
-  md += `- Kalória: ${round1(day.nutritions.calories)} kcal (${percentOfRecommended(day.nutritions.calories, dailyRecommended.calories)}%)\n`;
-  md += `- Fehérje: ${round1(day.nutritions.protein)} g (${percentOfRecommended(day.nutritions.protein, dailyRecommended.protein)}%)\n`;
-  md += `- Zsír: ${round1(day.nutritions.lipids)} g (${percentOfRecommended(day.nutritions.lipids, dailyRecommended.lipids)}%)\n`;
-  md += `- Szénhidrát: ${round1(day.nutritions.carbohydrate)} g (${percentOfRecommended(day.nutritions.carbohydrate, dailyRecommended.carbohydrate)}%)\n`;
-  md += `- Rost: ${round1(day.nutritions.fiber)} g (${percentOfRecommended(day.nutritions.fiber, dailyRecommended.fiber)}%)\n`;
-  md += `- Nátrium: ${round1(day.nutritions.natrium)} mg (${percentOfRecommended(day.nutritions.natrium, dailyRecommended.natrium)}%)\n`;
+  md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig |\n`;
+  md += `|--------------|-------------|----------|------------------|\n`;
+  md += `| Kalória      | ${round1(day.nutritions.calories)} kcal (${percent(day.nutritions.calories, dailyRecommended.calories)}%) | ${round1(dailyRecommended.calories)} kcal | ${missing(day.nutritions.calories, dailyRecommended.calories, 'kcal')} |\n`;
+  md += `| Fehérje      | ${round1(day.nutritions.protein)} g (${percent(day.nutritions.protein, dailyRecommended.protein)}%) | ${round1(dailyRecommended.protein)} g | ${missing(day.nutritions.protein, dailyRecommended.protein, 'g')} |\n`;
+  md += `| Zsír         | ${round1(day.nutritions.lipids)} g (${percent(day.nutritions.lipids, dailyRecommended.lipids)}%) | ${round1(dailyRecommended.lipids)} g | ${missing(day.nutritions.lipids, dailyRecommended.lipids, 'g')} |\n`;
+  md += `| Szénhidrát   | ${round1(day.nutritions.carbohydrate)} g (${percent(day.nutritions.carbohydrate, dailyRecommended.carbohydrate)}%) | ${round1(dailyRecommended.carbohydrate)} g | ${missing(day.nutritions.carbohydrate, dailyRecommended.carbohydrate, 'g')} |\n`;
+  md += `| Rost         | ${round1(day.nutritions.fiber)} g (${percent(day.nutritions.fiber, dailyRecommended.fiber)}%) | ${round1(dailyRecommended.fiber)} g | ${missing(day.nutritions.fiber, dailyRecommended.fiber, 'g')} |\n`;
+  md += `| Nátrium      | ${round1(day.nutritions.natrium)} mg (${percent(day.nutritions.natrium, dailyRecommended.natrium)}%) | ${round1(dailyRecommended.natrium)} mg | ${missing(day.nutritions.natrium, dailyRecommended.natrium, 'mg')} |\n`;
   md += `\n**Ételek:**\n`;
   for (const item of day.menu) {
     const n = item.nutritions || {};
@@ -85,11 +96,15 @@ function markdownForDay(day) {
       n.protein !== null && n.protein !== undefined
         ? `${round1(n.protein)}g fehérje`
         : null,
-      n.lipids !== null && n.lipids !== undefined ? `${round1(n.lipids)}g zsír` : null,
+      n.lipids !== null && n.lipids !== undefined
+        ? `${round1(n.lipids)}g zsír`
+        : null,
       n.carbohydrate !== null && n.carbohydrate !== undefined
         ? `${round1(n.carbohydrate)}g szénhidrát`
         : null,
-      n.fiber !== null && n.fiber !== undefined ? `${round1(n.fiber)}g rost` : null,
+      n.fiber !== null && n.fiber !== undefined
+        ? `${round1(n.fiber)}g rost`
+        : null,
       n.natrium !== null && n.natrium !== undefined
         ? `${round1(n.natrium)}mg nátrium`
         : null,

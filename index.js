@@ -101,12 +101,6 @@ function markdownForDay(day) {
     extraTotals.natrium += (food.natrium || 0) * food.count;
   }
 
-  function withExtra(val, extra) {
-    if (val == null && extra == null) return '';
-    const sum = round1((val || 0) + (extra || 0));
-    return `${sum} (${percent(sum, dailyRecommended[thisKey])}%)`;
-  }
-
   md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
 `;
   md += `|--------------|-------------|----------|------------------|---------------------|
@@ -161,17 +155,19 @@ function markdownForDay(day) {
   if (suggestions.length > 0) {
     md += `\n---\n\n**Javasolt kiegészítő ételek a cél eléréséhez:**\n`;
     for (const food of suggestions) {
-      const total = (key) => round1((food[key] || 0) * food.count);
-      md += `- ${food.name} × ${food.count} (` +
-        [
-          total('calories') ? `${total('calories')} kcal` : null,
-          total('protein') ? `${total('protein')}g fehérje` : null,
-          total('lipids') ? `${total('lipids')}g zsír` : null,
-          total('carbohydrate') ? `${total('carbohydrate')}g szénhidrát` : null,
-          total('fiber') ? `${total('fiber')}g rost` : null,
-          total('natrium') ? `${total('natrium')}mg nátrium` : null,
-        ].filter(Boolean).join(', ') +
-        `)\n`;
+      if (food.count > 0) {
+        const total = (key) => round1((food[key] || 0) * food.count);
+        md += `- ${food.name} × ${food.count} (` +
+          [
+            total('calories') ? `${total('calories')} kcal` : null,
+            total('protein') ? `${total('protein')}g fehérje` : null,
+            total('lipids') ? `${total('lipids')}g zsír` : null,
+            total('carbohydrate') ? `${total('carbohydrate')}g szénhidrát` : null,
+            total('fiber') ? `${total('fiber')}g rost` : null,
+            total('natrium') ? `${total('natrium')}mg nátrium` : null,
+          ].filter(Boolean).join(', ') +
+          `)\n`;
+      }
     }
   }
   return md;

@@ -6,6 +6,7 @@ const cheerio = require("cheerio");
 const fs = require("fs");
 const path = require("path");
 const dailyRecommended = require("./dailyRecommended");
+const bestFoodCombination = require("./bestFoodCombination");
 
 const URL = "https://fitfoodway.hu/programok/fogyj-egeszsegesen";
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
@@ -112,6 +113,32 @@ function markdownForDay(day) {
       .filter(Boolean)
       .join(", ");
     md += ")\n";
+  }
+  // Calculate missing nutrients
+  const missingNutrients = {
+    calories: Math.max(0, dailyRecommended.calories - (day.nutritions.calories || 0)),
+    protein: Math.max(0, dailyRecommended.protein - (day.nutritions.protein || 0)),
+    lipids: Math.max(0, dailyRecommended.lipids - (day.nutritions.lipids || 0)),
+    carbohydrate: Math.max(0, dailyRecommended.carbohydrate - (day.nutritions.carbohydrate || 0)),
+    fiber: Math.max(0, dailyRecommended.fiber - (day.nutritions.fiber || 0)),
+    natrium: Math.max(0, dailyRecommended.natrium - (day.nutritions.natrium || 0)),
+  };
+  const suggestions = bestFoodCombination(missingNutrients);
+  if (suggestions.length > 0) {
+    md += `\n---\n\n**Javasolt kiegészítő ételek a cél eléréséhez:**\n`;
+    for (const food of suggestions) {
+      const total = (key) => round1((food[key] || 0) * food.count);
+      md += `- ${food.name} × ${food.count} (` +
+        [
+          total('calories') ? `${total('calories')} kcal` : null,
+          total('protein') ? `${total('protein')}g fehérje` : null,
+          total('lipids') ? `${total('lipids')}g zsír` : null,
+          total('carbohydrate') ? `${total('carbohydrate')}g szénhidrát` : null,
+          total('fiber') ? `${total('fiber')}g rost` : null,
+          total('natrium') ? `${total('natrium')}mg nátrium` : null,
+        ].filter(Boolean).join(', ') +
+        `)\n`;
+    }
   }
   return md;
 }

@@ -102,7 +102,7 @@ async function markdownForDay(day) {
     extraTotals.fiber += (food.fiber || 0) * food.count;
     extraTotals.natrium += (food.natrium || 0) * food.count;
   }
-
+  
   md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
 `;
   md += `|--------------|-------------|----------|------------------|---------------------|

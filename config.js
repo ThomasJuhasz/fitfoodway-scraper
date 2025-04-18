@@ -1,20 +1,49 @@
 prompt = `
-    Please recommend a combination of these foods to best cover the missing nutrients, without exceeding the recommended daily values.
-    Never go above 110% of the daily recommended values. Please ensure that you hit at least 90% of the daily recommended values for each nutrient.
-    Please prefer the foods with the low effort. It's okay to add higher effort foods sometimes, but not too much.
-  `;
+Objective: You are given a list of available food items with their nutritional information. I need you to recommend a combination of these foods that will add up to the missing nutrients for today, as described below.
+
+Conditions:
+- The total calories from the selected foods must not exceed the missing calories by more than 10% (i.e., no more than 110% of the missing calories).
+- Other nutrients (protein, fat, carbs, fiber, natrium) should be optimized to the extent possible but may be sacrificed if needed to stay within the calorie limit.
+- Prefer foods with low effort, but it's acceptable to add higher-effort foods occasionally if they provide a significant benefit.
+- You can select only 1 food if that already exceeds the missing calories.
+`;
 
 module.exports = {
   URL: "https://fitfoodway.hu/programok/fogyj-egeszsegesen",
   dailyRecommended: {
-    calories: 2100,
-    protein: 215, // in grams
-    lipids: 85, // fats in grams
-    carbohydrate: 225, // in grams
-    fiber: 40, // in grams
+    calories: 1548,
+    protein: 200, // in grams
+    lipids: 50, // fats in grams
+    carbohydrate: 73, // in grams
+    fiber: 25, // in grams
     natrium: 2300, // in milligrams (sodium)
   },
   prompt: prompt,
+  useGemini: false,
+  defaultAdditionalFoodItems: [
+    {
+      name: "Fehérjepor shake (1 adag vízzel)",
+      effort: 0,
+      calories: 120,
+      protein: 24,
+      lipids: 1.5,
+      carbohydrate: 2,
+      fiber: 0,
+      natrium: 150,
+      count: 1,
+    },
+    {
+      name: "Fibershake",
+      effort: 0,
+      calories: 133,
+      protein: 20,
+      lipids: 1.4,
+      carbohydrate: 8.4,
+      fiber: 10.2,
+      natrium: 390,
+      count: 1,
+    },
+  ],
   additionalFoodItems: [
     {
       name: "Görög joghurt (200g, zsírszegény)",

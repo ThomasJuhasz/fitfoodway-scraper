@@ -10,7 +10,17 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
  * @returns {Promise<string>} A recommendation from Gemini.
  */
 async function bestFoodCombination(missing, foodList) {
-  let prompt = `
+  return config.useGemini
+    ? await getBestFoodCombinationFromGoogleGemini(missing, foodList)
+    : config.defaultAdditionalFoodItems;
+}
+
+async function getBestFoodCombinationFromGoogleGemini(missing, foodList) {
+  let prompt = "";
+
+  prompt += config.prompt;
+
+  prompt += `
   I have the following missing nutrients for today: ${JSON.stringify(
     missing,
     null,
@@ -21,7 +31,6 @@ async function bestFoodCombination(missing, foodList) {
     null,
     2
   )}`;
-  prompt += config.prompt;
   prompt += `
   Respond with a javascript array of recomended list of additional foods in the same format as the food list provided. Nothing else, only the array, similar to this: 
   [{

@@ -40,12 +40,31 @@ async function bestFoodCombination(missing, foodList) {
   const response = await model.generateContent(prompt);
   const result = response.response.text();
   const cleanedResult = result.split("\n").slice(1, -1).join("\n");
-  const bestFoodCombinationArray = JSON.parse(cleanedResult).map((item) => ({
-    ...item,
-    count: item.count || 1, // Default count to 1 if not provided
-  }));
-  console.log(bestFoodCombinationArray);
-  return bestFoodCombinationArray;
+
+  let bestFoodCombinationArray = [];
+  try {
+    bestFoodCombinationArray = JSON.parse(cleanedResult).map((item) => ({
+      ...item,
+      count: item.count || 1, // Default count to 1 if not provided
+    }));
+  } catch (error) {
+    console.error("Failed to parse best food combination result:", error);
+  }
+
+  const summarizedRecommendations = bestFoodCombinationArray.reduce(
+    (acc, item) => {
+      const existing = acc.find((food) => food.name === item.name);
+      if (existing) {
+        existing.count += item.count;
+      } else {
+        acc.push({ ...item });
+      }
+      return acc;
+    },
+    []
+  );
+
+  return summarizedRecommendations;
 }
 
 module.exports = bestFoodCombination;

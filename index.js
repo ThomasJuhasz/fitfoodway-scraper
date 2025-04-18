@@ -154,7 +154,7 @@ async function markdownForDay(day) {
     md += ")\n";
   }
   if (suggestions.length > 0) {
-    md += `\n---\n\n**Javasolt kiegészítő ételek a cél eléréséhez:**\n`;
+    md += `\n\n**Javasolt kiegészítő ételek a cél eléréséhez:**\n`;
     for (const food of suggestions) {
       if (food.count > 0) {
         const total = (key) => round1((food[key] || 0) * food.count);

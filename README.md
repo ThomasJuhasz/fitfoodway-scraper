@@ -29,5 +29,5 @@ npm test
 
 ## Output
 
-- The generated markdown can be found in `public/index.md`.
+- The generated markdown can be found in `docs/index.md`.
 - Test coverage reports are available in the `coverage/` directory after running tests.

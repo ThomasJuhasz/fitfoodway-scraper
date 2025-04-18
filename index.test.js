@@ -36,6 +36,7 @@ describe("Nutrition Extraction", () => {
       "Kalória: 1445 kcal, Zsír: 58 g, Szénhidrát: 182 g, Rost: 37 g, Nátrium: 4301 mg";
     expect(extractNutritions(desc)).toEqual({
       calories: 1445,
+      protein: null,
       lipids: 58,
       carbohydrate: 182,
       fiber: 37,
@@ -46,6 +47,7 @@ describe("Nutrition Extraction", () => {
     const desc = "Kalória: 1000 kcal";
     expect(extractNutritions(desc)).toEqual({
       calories: 1000,
+      protein: null,
       lipids: null,
       carbohydrate: null,
       fiber: null,
@@ -57,6 +59,7 @@ describe("Nutrition Extraction", () => {
       "Hozzávalók: karfiol, burgonya, hagyma, olívaolaj, majonéz, só, bors, citromlé, padlizsán, paprika, paradicsom, telemea sajt, teljes kiőrlésű kenyér. Kalória 196 fehérje 3,9 g, szénhidrát 23,4 g, lipid 10,1 g, rost 4,8 g, nátrium 393 mg. Allergének: glutén, tej, tojás, mustár.";
     expect(extractNutritions(desc)).toEqual({
       calories: 196,
+      protein: 3,
       lipids: 10,
       carbohydrate: 23,
       fiber: 4,
@@ -81,6 +84,7 @@ describe("Component Extraction", () => {
 
     expect(extractNutritions(desc)).toEqual({
       calories: 255,
+      protein: 12,
       lipids: 19,
       carbohydrate: 10,
       fiber: 3,

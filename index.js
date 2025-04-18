@@ -11,11 +11,12 @@ const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
 function extractNutritions(desc) {
   // Hungarian nutrition keywords and regexes
   const regexes = {
-    calories: /kalória\s*[:]??\s*([\d.,]+)\s*kcal/i,
-    lipids: /(zsír|lipid(?:ek)?)\s*[:]??\s*([\d.,]+)\s*g/i, // match 'zsír', 'lipid', 'lipidek'
-    carbohydrate: /szénhidrát(?:ok)?\s*[:]??\s*([\d.,]+)\s*g/i,
-    fiber: /rost\s*[:]??\s*([\d.,]+)\s*g/i,
-    natrium: /nátrium\s*[:]??\s*([\d.,]+)\s*mg/i,
+    // Match 'kalória' followed by a number, optionally followed by 'kcal' (with or without colon/whitespace)
+    calories: /kalória\s*[:]?(\s*[\d.,]+)/i,
+    lipids: /(zsír|lipid(?:ek)?)\s*[:]?(\s*[\d.,]+)\s*g/i,
+    carbohydrate: /szénhidrát(?:ok)?\s*[:]?(\s*[\d.,]+)\s*g/i,
+    fiber: /rost\s*[:]?(\s*[\d.,]+)\s*g/i,
+    natrium: /nátrium\s*[:]?(\s*[\d.,]+)\s*mg/i,
   };
   const nutritions = {};
   for (const [key, regex] of Object.entries(regexes)) {

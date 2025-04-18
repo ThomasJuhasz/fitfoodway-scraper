@@ -75,6 +75,18 @@ describe("Component Extraction", () => {
     const desc = "Kalória: 1000 kcal";
     expect(extractComponents(desc)).toBe("");
   });
+  it("extracts nutrition and components from Fritatta gombával és minisaláta description", () => {
+    const desc =
+      "Összetevők és tápértékre vonatkozó állítások: -Fritatta gombával és minisaláta: tojás, tej, só és bors, (salátakeverék, paradicsom, uborka, olajbogyó, kukorica, olaj olajbogyó, ecet, só, bors) Súly: 200g kalóriák: 255 kcal Fehérjék: 12 g, lipidek: 19 g, szénhidrát: 10 g, rostok: 3 g, nátrium: 2362 mg *A menük tartalmazhatnak mélyhűtött terméket/ mélyhűtött termékből készülhetnek. *Allergének: tojás, tejtermék,";
+
+    expect(extractNutritions(desc)).toEqual({
+      calories: 255,
+      lipids: 19,
+      carbohydrate: 10,
+      fiber: 3,
+      natrium: 2362,
+    });
+  });
 });
 
 describe("Markdown Generation", () => {

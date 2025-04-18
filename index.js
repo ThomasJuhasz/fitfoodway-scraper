@@ -5,6 +5,7 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const path = require("path");
+const dailyRecommended = require("./dailyRecommended");
 
 const URL = "https://fitfoodway.hu/programok/fogyj-egeszsegesen";
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
@@ -54,33 +55,43 @@ function extractComponents(desc) {
   return "";
 }
 
+function percentOfRecommended(actual, recommended) {
+  if (!recommended || recommended === 0 || actual == null) return null;
+  return Math.round((actual / recommended) * 100);
+}
+
+function round1(val) {
+  if (val == null) return val;
+  return Math.round(val * 10) / 10;
+}
+
 function markdownForDay(day) {
   let md = `# ${day.date}\n`;
   md += `\n**Napi összesített tápérték:**\n`;
-  md += `- Kalória: ${day.nutritions.calories} kcal\n`;
-  md += `- Fehérje: ${day.nutritions.protein} g\n`;
-  md += `- Zsír: ${day.nutritions.lipids} g\n`;
-  md += `- Szénhidrát: ${day.nutritions.carbohydrate} g\n`;
-  md += `- Rost: ${day.nutritions.fiber} g\n`;
-  md += `- Nátrium: ${day.nutritions.natrium} mg\n`;
+  md += `- Kalória: ${round1(day.nutritions.calories)} kcal (${percentOfRecommended(day.nutritions.calories, dailyRecommended.calories)}%)\n`;
+  md += `- Fehérje: ${round1(day.nutritions.protein)} g (${percentOfRecommended(day.nutritions.protein, dailyRecommended.protein)}%)\n`;
+  md += `- Zsír: ${round1(day.nutritions.lipids)} g (${percentOfRecommended(day.nutritions.lipids, dailyRecommended.lipids)}%)\n`;
+  md += `- Szénhidrát: ${round1(day.nutritions.carbohydrate)} g (${percentOfRecommended(day.nutritions.carbohydrate, dailyRecommended.carbohydrate)}%)\n`;
+  md += `- Rost: ${round1(day.nutritions.fiber)} g (${percentOfRecommended(day.nutritions.fiber, dailyRecommended.fiber)}%)\n`;
+  md += `- Nátrium: ${round1(day.nutritions.natrium)} mg (${percentOfRecommended(day.nutritions.natrium, dailyRecommended.natrium)}%)\n`;
   md += `\n**Ételek:**\n`;
   for (const item of day.menu) {
     const n = item.nutritions || {};
     md += `- ${item.name} (`;
     md += [
       n.calories !== null && n.calories !== undefined
-        ? `${n.calories} kcal`
+        ? `${round1(n.calories)} kcal`
         : null,
       n.protein !== null && n.protein !== undefined
-        ? `${n.protein}g fehérje`
+        ? `${round1(n.protein)}g fehérje`
         : null,
-      n.lipids !== null && n.lipids !== undefined ? `${n.lipids}g zsír` : null,
+      n.lipids !== null && n.lipids !== undefined ? `${round1(n.lipids)}g zsír` : null,
       n.carbohydrate !== null && n.carbohydrate !== undefined
-        ? `${n.carbohydrate}g szénhidrát`
+        ? `${round1(n.carbohydrate)}g szénhidrát`
         : null,
-      n.fiber !== null && n.fiber !== undefined ? `${n.fiber}g rost` : null,
+      n.fiber !== null && n.fiber !== undefined ? `${round1(n.fiber)}g rost` : null,
       n.natrium !== null && n.natrium !== undefined
-        ? `${n.natrium}mg nátrium`
+        ? `${round1(n.natrium)}mg nátrium`
         : null,
     ]
       .filter(Boolean)

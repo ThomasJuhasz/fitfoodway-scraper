@@ -209,18 +209,18 @@
 # 07/05/2025
 
 **Napi összesített tápérték:**
-- Kalória: 0 kcal
+- Kalória: 1577 kcal
 - Zsír: 63 g
 - Szénhidrát: 186 g
-- Rost: 0 g
+- Rost: 61 g
 - Nátrium: 7178 mg
 
 **Ételek:**
-- Fritatta gombával és minisaláta 200g (19g zsír, 10g szénhidrát, 2362mg nátrium)
-- Brokkolikrémleves 350ml (11g zsír, 25g szénhidrát, 1089mg nátrium)
-- Csirkecombok mediterrán zöldfűszerekkel Tabulé salátával 250g (19g zsír, 77g szénhidrát, 1414mg nátrium)
-- Chia puding fekete csokoládéval és meggyel 120g (10g zsír, 36g szénhidrát, 4mg nátrium)
-- Tofu nyárs rizzsel, brokkoli, laskagomba és cukkíni 250g (4g zsír, 38g szénhidrát, 2309mg nátrium)
+- Fritatta gombával és minisaláta 200g (255 kcal, 19g zsír, 10g szénhidrát, 3g rost, 2362mg nátrium)
+- Brokkolikrémleves 350ml (239 kcal, 11g zsír, 25g szénhidrát, 13g rost, 1089mg nátrium)
+- Csirkecombok mediterrán zöldfűszerekkel Tabulé salátával 250g (632 kcal, 19g zsír, 77g szénhidrát, 29g rost, 1414mg nátrium)
+- Chia puding fekete csokoládéval és meggyel 120g (249 kcal, 10g zsír, 36g szénhidrát, 9g rost, 4mg nátrium)
+- Tofu nyárs rizzsel, brokkoli, laskagomba és cukkíni 250g (202 kcal, 4g zsír, 38g szénhidrát, 7g rost, 2309mg nátrium)
 
 # 08/05/2025
 
@@ -257,64 +257,64 @@
 # 12/05/2025
 
 **Napi összesített tápérték:**
-- Kalória: 0 kcal
+- Kalória: 1379 kcal
 - Zsír: 25 g
 - Szénhidrát: 193 g
-- Rost: 0 g
+- Rost: 41 g
 - Nátrium: 6139 mg
 
 **Ételek:**
-- Zabkása diófélékkel, banánnal és fügével 200g (9g zsír, 34g szénhidrát, 2mg nátrium)
-- Zöldségleves 350ml (1g zsír, 66g szénhidrát, 2858mg nátrium)
-- Teljes kiőrlésű penne erdei gombával és prosciutto 250g (8g zsír, 49g szénhidrát, 213mg nátrium)
-- Friss sajttorta 120g (7g zsír, 22g szénhidrát, 22mg nátrium)
-- "Caponata" csirkehússal: Olasz  csirkepörkölt, padlizsán, cukkíni, paprika, paradicsom és bazsalikom 250g (22g szénhidrát, 3044mg nátrium)
+- Zabkása diófélékkel, banánnal és fügével 200g (279 kcal, 9g zsír, 34g szénhidrát, 4g rost, 2mg nátrium)
+- Zöldségleves 350ml (314 kcal, 1g zsír, 66g szénhidrát, 19g rost, 2858mg nátrium)
+- Teljes kiőrlésű penne erdei gombával és prosciutto 250g (373 kcal, 8g zsír, 49g szénhidrát, 7g rost, 213mg nátrium)
+- Friss sajttorta 120g (152 kcal, 7g zsír, 22g szénhidrát, 4g rost, 22mg nátrium)
+- "Caponata" csirkehússal: Olasz  csirkepörkölt, padlizsán, cukkíni, paprika, paradicsom és bazsalikom 250g (261 kcal, 22g szénhidrát, 7g rost, 3044mg nátrium)
 
 # 13/05/2025
 
 **Napi összesített tápérték:**
-- Kalória: 0 kcal
+- Kalória: 1137 kcal
 - Zsír: 44 g
 - Szénhidrát: 141 g
-- Rost: 0 g
+- Rost: 27 g
 - Nátrium: 8762 mg
 
 **Ételek:**
-- Angol reggeli 200g (12g zsír, 46g szénhidrát, 2789mg nátrium)
-- Gombakrémleves 350ml (14g zsír, 20g szénhidrát, 1109mg nátrium)
-- Chia puding tiramisuval 120g (1g zsír, 30g szénhidrát, 2mg nátrium)
-- Süllő filé borsópürével, brokkoli és bébi répa 250g (6g zsír, 23g szénhidrát, 1987mg nátrium)
-- Falafel, zöldbabbal, zellerrel és édes-savanyú szósszal 250g (11g zsír, 22g szénhidrát, 2875mg nátrium)
+- Angol reggeli 200g (328 kcal, 12g zsír, 46g szénhidrát, 6g rost, 2789mg nátrium)
+- Gombakrémleves 350ml (230 kcal, 14g zsír, 20g szénhidrát, 3g rost, 1109mg nátrium)
+- Chia puding tiramisuval 120g (114 kcal, 1g zsír, 30g szénhidrát, 3g rost, 2mg nátrium)
+- Süllő filé borsópürével, brokkoli és bébi répa 250g (197 kcal, 6g zsír, 23g szénhidrát, 6g rost, 1987mg nátrium)
+- Falafel, zöldbabbal, zellerrel és édes-savanyú szósszal 250g (268 kcal, 11g zsír, 22g szénhidrát, 9g rost, 2875mg nátrium)
 
 # 14/05/2025
 
 **Napi összesített tápérték:**
-- Kalória: 0 kcal
+- Kalória: 1370 kcal
 - Zsír: 88 g
 - Szénhidrát: 167 g
-- Rost: 0 g
+- Rost: 37 g
 - Nátrium: 6198 mg
 
 **Ételek:**
-- Teljes kiőrlésű kenyér krémsajttal, joghurttal, pestoval, paprikacsíkokkal és olajbogyóval 200g (15g zsír, 26g szénhidrát, 2245mg nátrium)
-- Borjú gulyás 350ml (26g zsír, 52g szénhidrát, 3154mg nátrium)
-- Pulykamell répapürével zellerrel és céklasaláta csicseriborsóval 250g (17g zsír, 60g szénhidrát, 782mg nátrium)
-- Zöld smoothie 330ml (1g zsír, 17g szénhidrát, 13mg nátrium)
-- 4 sajtos saláta 250g (29g zsír, 12g szénhidrát, 4mg nátrium)
+- Teljes kiőrlésű kenyér krémsajttal, joghurttal, pestoval, paprikacsíkokkal és olajbogyóval 200g (275 kcal, 15g zsír, 26g szénhidrát, 8g rost, 2245mg nátrium)
+- Borjú gulyás 350ml (325 kcal, 26g zsír, 52g szénhidrát, 8g rost, 3154mg nátrium)
+- Pulykamell répapürével zellerrel és céklasaláta csicseriborsóval 250g (330 kcal, 17g zsír, 60g szénhidrát, 16g rost, 782mg nátrium)
+- Zöld smoothie 330ml (75 kcal, 1g zsír, 17g szénhidrát, 3g rost, 13mg nátrium)
+- 4 sajtos saláta 250g (365 kcal, 29g zsír, 12g szénhidrát, 2g rost, 4mg nátrium)
 
 # 15/05/2025
 
 **Napi összesített tápérték:**
-- Kalória: 0 kcal
+- Kalória: 1472 kcal
 - Zsír: 49 g
 - Szénhidrát: 138 g
-- Rost: 0 g
+- Rost: 22 g
 - Nátrium: 7349 mg
 
 **Ételek:**
-- Mozzarellás burrito, avokádó, vörösbab, rizs és paradicsom salsa 200g (14g zsír, 56g szénhidrát, 1025mg nátrium)
-- Hideg gazpacho (spanyol zöldségleves) rákkal 350ml (13g zsír, 27g szénhidrát, 2671mg nátrium)
-- Chili con carne 250g (8g zsír, 23g szénhidrát, 995mg nátrium)
-- Lime torta mascarponéval 120g (340mg nátrium)
-- Csirkemell Provence fűszernövényekkel, sajtmártással, barna rizzsel és serpenyőben sült zöldségekkel 250g (14g zsír, 32g szénhidrát, 2318mg nátrium)
+- Mozzarellás burrito, avokádó, vörösbab, rizs és paradicsom salsa 200g (316 kcal, 14g zsír, 56g szénhidrát, 2g rost, 1025mg nátrium)
+- Hideg gazpacho (spanyol zöldségleves) rákkal 350ml (287 kcal, 13g zsír, 27g szénhidrát, 4g rost, 2671mg nátrium)
+- Chili con carne 250g (284 kcal, 8g zsír, 23g szénhidrát, 8g rost, 995mg nátrium)
+- Lime torta mascarponéval 120g (223 kcal, 340mg nátrium)
+- Csirkemell Provence fűszernövényekkel, sajtmártással, barna rizzsel és serpenyőben sült zöldségekkel 250g (362 kcal, 14g zsír, 32g szénhidrát, 8g rost, 2318mg nátrium)
 

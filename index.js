@@ -4,6 +4,7 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
+const path = require("path");
 
 const URL = "https://fitfoodway.hu/programok/fogyj-egeszsegesen";
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
@@ -197,6 +198,13 @@ function writeMarkdown(days) {
   fs.mkdirSync("docs", { recursive: true });
   fs.writeFileSync("docs/index.md", allMarkdown);
   console.log("Markdown written to docs/index.md");
+
+  // Silence Jekyll SCSS error by ensuring an empty style.scss exists
+  const scssPath = "docs/assets/css/style.scss";
+  fs.mkdirSync(path.dirname(scssPath), { recursive: true });
+  if (!fs.existsSync(scssPath)) {
+    fs.writeFileSync(scssPath, "");
+  }
 }
 
 fetchAllMenus();

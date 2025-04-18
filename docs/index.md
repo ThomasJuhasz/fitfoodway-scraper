@@ -9,6 +9,9 @@
 | Rost         | 21.1 g (84%) | 25 g | 3.9 g | 31.3 g (125%) |
 | Nátrium      | 2984 mg (130%) | 2300 mg | 0 | 3524 mg (153%) |
 
+**Summary of Nutrients:** Calories: 1380 kcal, Protein: 81.7 g, Fat: 83.7 g, Carbohydrates: 121.7 g, Fiber: 21.1 g, Sodium: 2984 mg
+
+
 **Ételek:**
 - Karfiolmassza kesudióval és padlizsánkrémmel, paradicsommal, paprikával és telemeával 200g (196 kcal, 3.9g fehérje, 10.1g zsír, 23.4g szénhidrát, 4.8g rost, 393mg nátrium)
 - Krémleves kukorica, sárgarépa és paradicsomlé 350ml (235 kcal, 6.2g fehérje, 5.3g zsír, 43.1g szénhidrát, 6.5g rost, 651mg nátrium)
@@ -31,6 +34,9 @@
 | Szénhidrát   | 182 g (249%) | 73 g | 0 | 192.4 g (264%) |
 | Rost         | 37 g (148%) | 25 g | 0 | 47.2 g (189%) |
 | Nátrium      | 4301 mg (187%) | 2300 mg | 0 | 4841 mg (210%) |
+
+**Summary of Nutrients:** Calories: 1445 kcal, Protein: 56 g, Fat: 58 g, Carbohydrates: 182 g, Fiber: 37 g, Sodium: 4301 mg
+
 
 **Ételek:**
 - Sült kenyér kenhető tojással, spenóttal, paradicsommal, feta sajttal és káposztasalátával olíva keverékkel 200g (270 kcal, 11g fehérje, 10g zsír, 35g szénhidrát, 11g rost, 1320mg nátrium)
@@ -55,6 +61,9 @@
 | Rost         | 23 g (92%) | 25 g | 2 g | 33.2 g (133%) |
 | Nátrium      | 6323 mg (275%) | 2300 mg | 0 | 6863 mg (298%) |
 
+**Summary of Nutrients:** Calories: 1496 kcal, Protein: 68 g, Fat: 65 g, Carbohydrates: 143 g, Fiber: 23 g, Sodium: 6323 mg
+
+
 **Ételek:**
 - Chia puding joghurttal, étcsokoládéval, mogyoróval és kesudióval 200g (282 kcal, 18g fehérje, 20g zsír, 18g szénhidrát, 3g rost, 1145mg nátrium)
 - Sárga bableves 350ml (226 kcal, 5g fehérje, 10g zsír, 28g szénhidrát, 2g rost, 2875mg nátrium)
@@ -78,6 +87,9 @@
 | Rost         | 36 g (144%) | 25 g | 0 | 46.2 g (185%) |
 | Nátrium      | 3988 mg (173%) | 2300 mg | 0 | 4528 mg (197%) |
 
+**Summary of Nutrients:** Calories: 1435 kcal, Protein: 59 g, Fat: 67 g, Carbohydrates: 147 g, Fiber: 36 g, Sodium: 3988 mg
+
+
 **Ételek:**
 - Szendvics csirkemellel, tofuval, paprikával és olajbogyó és uborka keverékével 200g (312 kcal, 12g fehérje, 12g zsír, 34g szénhidrát, 6g rost, 789mg nátrium)
 - Burgonya, paszternák és gorgonzola krémleves 350ml (302 kcal, 12g fehérje, 13g zsír, 36g szénhidrát, 11g rost, 1102mg nátrium)
@@ -100,6 +112,9 @@
 | Szénhidrát   | 97 g (133%) | 73 g | 0 | 107.4 g (147%) |
 | Rost         | 37 g (148%) | 25 g | 0 | 47.2 g (189%) |
 | Nátrium      | 1806 mg (79%) | 2300 mg | 494 mg | 2346 mg (102%) |
+
+**Summary of Nutrients:** Calories: 1460 kcal, Protein: 67 g, Fat: 68 g, Carbohydrates: 97 g, Fiber: 37 g, Sodium: 1806 mg
+
 
 **Ételek:**
 - Frittata sajttal, zöldhagymával és kaporral 200g (350 kcal, 20g fehérje, 28g zsír, 4g szénhidrát, 2g rost, 650mg nátrium)

@@ -102,7 +102,7 @@ async function markdownForDay(day) {
     extraTotals.fiber += (food.fiber || 0) * food.count;
     extraTotals.natrium += (food.natrium || 0) * food.count;
   }
-  
+
   md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
 `;
   md += `|--------------|-------------|----------|------------------|---------------------|
@@ -125,6 +125,17 @@ async function markdownForDay(day) {
     md += `| ${label.padEnd(12)} | ${consumed} ${unit} (${consumedPercent}%) | ${recommended} ${unit} | ${missingVal} | ${totalWithExtra} ${unit} (${totalWithExtraPercent}%) |
 `;
   }
+
+  // Add a simple summary line above the "Ételek" section
+  const nutrientSummary = [
+    `Calories: ${round1(day.nutritions.calories || 0)} kcal`,
+    `Protein: ${round1(day.nutritions.protein || 0)} g`,
+    `Fat: ${round1(day.nutritions.lipids || 0)} g`,
+    `Carbohydrates: ${round1(day.nutritions.carbohydrate || 0)} g`,
+    `Fiber: ${round1(day.nutritions.fiber || 0)} g`,
+    `Sodium: ${round1(day.nutritions.natrium || 0)} mg`
+  ];
+  md += `\n**Summary of Nutrients:** ${nutrientSummary.join(", ")}\n\n`;
 
   md += `\n**Ételek:**\n`;
   for (const item of day.menu) {

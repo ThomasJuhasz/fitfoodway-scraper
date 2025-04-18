@@ -28,7 +28,7 @@ function extractNutritions(desc) {
       const raw = key === "lipids" ? match[2] : match[1];
       if (raw) {
         // Replace comma with dot, parse as float, then floor to int
-        const num = Math.floor(parseFloat(raw.replace(",", ".")));
+        const num = parseFloat(raw.replace(",", "."));
         value = isNaN(num) ? null : num;
       }
     }

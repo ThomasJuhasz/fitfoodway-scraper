@@ -59,10 +59,10 @@ describe("Nutrition Extraction", () => {
       "Hozzávalók: karfiol, burgonya, hagyma, olívaolaj, majonéz, só, bors, citromlé, padlizsán, paprika, paradicsom, telemea sajt, teljes kiőrlésű kenyér. Kalória 196 fehérje 3,9 g, szénhidrát 23,4 g, lipid 10,1 g, rost 4,8 g, nátrium 393 mg. Allergének: glutén, tej, tojás, mustár.";
     expect(extractNutritions(desc)).toEqual({
       calories: 196,
-      protein: 3,
-      lipids: 10,
-      carbohydrate: 23,
-      fiber: 4,
+      protein: 3.9,
+      lipids: 10.1,
+      carbohydrate: 23.4,
+      fiber: 4.8,
       natrium: 393,
     });
   });

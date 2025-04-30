@@ -25,9 +25,13 @@ jobs:
       - name: Run index.js with parameter 5
         run: node index.js 5
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: docs
-          allow_empty_commit: true
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit and Push Changes
+        run: |
+          git add docs/index.md
+          git commit -m "Update docs/index.md [skip ci]" || echo "No changes to commit"
+          git push

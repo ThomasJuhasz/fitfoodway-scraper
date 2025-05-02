@@ -3,5 +3,6 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
+show_title: false
 include:
   - assets/css/style.scss

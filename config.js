@@ -11,11 +11,11 @@ Conditions:
 module.exports = {
   URL: "https://fitfoodway.hu/programok/fogyj-egeszsegesen",
   dailyRecommended: {
-    calories: 1548,
-    protein: 200, // in grams
-    lipids: 50, // fats in grams
-    carbohydrate: 73, // in grams
-    fiber: 25, // in grams
+    calories: 2000,
+    protein: 180, // in grams
+    lipids: 70, // fats in grams
+    carbohydrate: 160, // in grams
+    fiber: 30, // in grams
     natrium: 2300, // in milligrams (sodium)
   },
   prompt: prompt,

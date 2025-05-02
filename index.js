@@ -260,38 +260,67 @@ async function fetchMenuDetails(days) {
 
 function summarizeNutritions(days) {
   for (const day of days) {
-    const summary = {
-      calories: 0,
-      protein: 0,
-      lipids: 0,
-      carbohydrate: 0,
-      fiber: 0,
-      natrium: 0,
-    };
-    for (const item of day.menu) {
-      if (item.nutritions) {
-        for (const key of Object.keys(summary)) {
-          if (
-            typeof item.nutritions[key] === "number" &&
-            !isNaN(item.nutritions[key])
-          ) {
-            summary[key] += item.nutritions[key];
-          }
-        }
-      }
+    day.nutritions = calculateDayNutritionSummary(day.menu);
+  }
+}
+
+function calculateDayNutritionSummary(menu) {
+  const summary = {
+    calories: 0,
+    protein: 0,
+    lipids: 0,
+    carbohydrate: 0,
+    fiber: 0,
+    natrium: 0,
+  };
+  for (const item of menu) {
+    if (item.nutritions) {
+      addItemNutritionsToSummary(item.nutritions, summary);
     }
-    day.nutritions = summary;
+  }
+  return summary;
+}
+
+function addItemNutritionsToSummary(nutritions, summary) {
+  for (const key of Object.keys(summary)) {
+    if (typeof nutritions[key] === "number" && !isNaN(nutritions[key])) {
+      summary[key] += nutritions[key];
+    }
   }
 }
 
 async function writeMarkdown(days) {
+  // Add dailyRecommended values to the top of the markdown
+  let dailyRecommendedMarkdown = `# Daily Recommended Nutritional Values\n\n`;
+
+  for (const [key, value] of Object.entries(dailyRecommended)) {
+    let unit;
+    if (key === "natrium") {
+      unit = "mg";
+    } else if (key === "calories") {
+      unit = "kcal";
+    } else {
+      unit = "g";
+    }
+    dailyRecommendedMarkdown += `- ${
+      key.charAt(0).toUpperCase() + key.slice(1)
+    }: ${value} ${unit}\n`;
+  }
+
+  dailyRecommendedMarkdown += `\n---\n\n`;
+
+  // Generate markdown for all days
   let allMarkdown = "";
   for (const day of days) {
     allMarkdown += (await markdownForDay(day)) + "\n";
   }
+
+  // Combine dailyRecommendedMarkdown and allMarkdown
+  const finalMarkdown = dailyRecommendedMarkdown + allMarkdown;
+
   // Write to docs/index.md instead of README.md
   fs.mkdirSync("docs", { recursive: true });
-  fs.writeFileSync("docs/index.md", allMarkdown);
+  fs.writeFileSync("docs/index.md", finalMarkdown);
   console.log("Markdown written to docs/index.md");
 
   // Silence Jekyll SCSS error by ensuring an empty style.scss exists

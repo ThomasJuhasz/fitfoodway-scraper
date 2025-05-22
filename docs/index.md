@@ -9,32 +9,6 @@
 
 ---
 
-# 22/05/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1496 kcal (75%) | 2000 kcal | 504 kcal | 1749 kcal (87%) |
-| Fehérje      | 68 g (38%) | 180 g | 112 g | 112 g (62%) |
-| Zsír         | 65 g (93%) | 70 g | 5 g | 67.9 g (97%) |
-| Szénhidrát   | 143 g (89%) | 160 g | 17 g | 153.4 g (96%) |
-| Rost         | 23 g (77%) | 30 g | 7 g | 33.2 g (111%) |
-| Nátrium      | 6323 mg (275%) | 2300 mg | 0 | 6863 mg (298%) |
-
-**Summary of Nutrients:** Calories: 1496 kcal, Protein: 68 g, Fat: 65 g, Carbohydrates: 143 g, Fiber: 23 g, Sodium: 6323 mg
-
-
-**Ételek:**
-- Spenót tojással és sajttal 200g (282 kcal, 18g fehérje, 20g zsír, 18g szénhidrát, 3g rost, 1145mg nátrium)
-- Paradicsomleves rizzsel 350ml (226 kcal, 5g fehérje, 10g zsír, 28g szénhidrát, 2g rost, 2875mg nátrium)
-- Teljes kiőrlésű penne tészta marha raguval (309 kcal, 25g fehérje, 8g zsír, 23g szénhidrát, 8g rost, 995mg nátrium)
-- Smoothie banánnal, zabbal és mandulatejjel 330ml (381 kcal, 5g fehérje, 13g zsír, 42g szénhidrát, 2g rost, 390mg nátrium)
-- Joghurtban és lime-ban pácolt csirkecomb filé rizzsel és zöldségekkel  350g (298 kcal, 15g fehérje, 14g zsír, 32g szénhidrát, 8g rost, 918mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 23/05/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Wokban készült marhahús csíkok pirított zöldségekkel 250g (268 kcal, 23g fehérje, 11g zsír, 22g szénhidrát, 9g rost, 2875mg nátrium)
 - Tápióka puding szentjánoskenyérrel és meggyel 120g (206 kcal, 2g fehérje, 2g zsír, 24g szénhidrát, 2g rost, 2mg nátrium)
 - Csirke curry kókusztejjel, gyömbér és rizs kardamommal 250g (338 kcal, 23g fehérje, 18g zsír, 50g szénhidrát, 4g rost, 2350mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 28/05/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1476 kcal (74%) | 2000 kcal | 524 kcal | 1729 kcal (86%) |
+| Fehérje      | 50 g (28%) | 180 g | 130 g | 94 g (52%) |
+| Zsír         | 76 g (109%) | 70 g | 0 | 78.9 g (113%) |
+| Szénhidrát   | 135 g (84%) | 160 g | 25 g | 145.4 g (91%) |
+| Rost         | 25 g (83%) | 30 g | 5 g | 35.2 g (117%) |
+| Nátrium      | 7670 mg (333%) | 2300 mg | 0 | 8210 mg (357%) |
+
+**Summary of Nutrients:** Calories: 1476 kcal, Protein: 50 g, Fat: 76 g, Carbohydrates: 135 g, Fiber: 25 g, Sodium: 7670 mg
+
+
+**Ételek:**
+- Guacamole, főtt tojás, paradicsomszósz és kétszersült 200g (248 kcal, 9g fehérje, 15g zsír, 26g szénhidrát, 8g rost, 1245mg nátrium)
+- Mexikói leves 350g (378 kcal, 2g fehérje, 17g zsír, 34g szénhidrát, 2g rost, 2501mg nátrium)
+- Mexikói saláta tonhallal 250g (233 kcal, 16g fehérje, 13g zsír, 35g szénhidrát, 6g rost, 1458mg nátrium)
+- Trópusi smoothie 330ml (261 kcal, 3g fehérje, 2g zsír, 15g szénhidrát, 4g rost, 10mg nátrium)
+- Sertésszelet hajdina rizottóval feta sajttal, cukkinivel és szárított paradicsommal 250g (356 kcal, 20g fehérje, 29g zsír, 25g szénhidrát, 5g rost, 2456mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

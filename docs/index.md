@@ -9,32 +9,6 @@
 
 ---
 
-# 04/06/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1230 kcal (62%) | 2000 kcal | 770 kcal | 1483 kcal (74%) |
-| Fehérje      | 59 g (33%) | 180 g | 121 g | 103 g (57%) |
-| Zsír         | 52 g (74%) | 70 g | 18 g | 54.9 g (78%) |
-| Szénhidrát   | 159 g (99%) | 160 g | 1 g | 169.4 g (106%) |
-| Rost         | 51 g (170%) | 30 g | 0 | 61.2 g (204%) |
-| Nátrium      | 8537 mg (371%) | 2300 mg | 0 | 9077 mg (395%) |
-
-**Summary of Nutrients:** Calories: 1230 kcal, Protein: 59 g, Fat: 52 g, Carbohydrates: 159 g, Fiber: 51 g, Sodium: 8537 mg
-
-
-**Ételek:**
-- Hummus guacamole és tabouleh salátával 200g (255 kcal, 12g fehérje, 19g zsír, 10g szénhidrát, 3g rost, 2362mg nátrium)
-- Brokkolikrémleves póréhagymával és parmezánnal 350ml (239 kcal, 10g fehérje, 11g zsír, 25g szénhidrát, 13g rost, 1089mg nátrium)
-- Gyümölcssaláta mentával és bazsalikommal 120g (249 kcal, 7g fehérje, 10g zsír, 36g szénhidrát, 9g rost, 4mg nátrium)
-- Teriyaki lazac filé szezámmal és vadrizzsel, tarka paprikával, sárgarépával és zöldbabbal 250g (202 kcal, 16g fehérje, 4g zsír, 38g szénhidrát, 7g rost, 2309mg nátrium)
-- Szója-lencsepörkölt 250g (285 kcal, 14g fehérje, 8g zsír, 50g szénhidrát, 19g rost, 2773mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 05/06/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -113,26 +87,52 @@
 - Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
 - Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
 
-# 09/06/2025
+# 10/06/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
 |--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1379 kcal (69%) | 2000 kcal | 621 kcal | 1632 kcal (82%) |
-| Fehérje      | 86 g (48%) | 180 g | 94 g | 130 g (72%) |
-| Zsír         | 30 g (43%) | 70 g | 40 g | 32.9 g (47%) |
-| Szénhidrát   | 193 g (121%) | 160 g | 0 | 203.4 g (127%) |
-| Rost         | 41 g (137%) | 30 g | 0 | 51.2 g (171%) |
-| Nátrium      | 6139 mg (267%) | 2300 mg | 0 | 6679 mg (290%) |
+| Kalória      | 1537 kcal (77%) | 2000 kcal | 463 kcal | 1790 kcal (90%) |
+| Fehérje      | 45 g (25%) | 180 g | 135 g | 89 g (49%) |
+| Zsír         | 53 g (76%) | 70 g | 17 g | 55.9 g (80%) |
+| Szénhidrát   | 169 g (106%) | 160 g | 0 | 179.4 g (112%) |
+| Rost         | 31 g (103%) | 30 g | 0 | 41.2 g (137%) |
+| Nátrium      | 9746 mg (424%) | 2300 mg | 0 | 10286 mg (447%) |
 
-**Summary of Nutrients:** Calories: 1379 kcal, Protein: 86 g, Fat: 30 g, Carbohydrates: 193 g, Fiber: 41 g, Sodium: 6139 mg
+**Summary of Nutrients:** Calories: 1537 kcal, Protein: 45 g, Fat: 53 g, Carbohydrates: 169 g, Fiber: 31 g, Sodium: 9746 mg
 
 
 **Ételek:**
-- Zab joghurttal, chiával, cseresznyével, mandulapehellyel és cukormentes lekvárral 200g (279 kcal, 10g fehérje, 9g zsír, 34g szénhidrát, 4g rost, 2mg nátrium)
-- Paraszt marhahúsleves 350ml (314 kcal, 12g fehérje, 1g zsír, 66g szénhidrát, 19g rost, 2858mg nátrium)
-- Gnocchi di patate paradicsomszósszal, friss mozzarellával és bazsalikommal 250g (373 kcal, 24g fehérje, 8g zsír, 49g szénhidrát, 7g rost, 213mg nátrium)
-- Teljes kiőrlésű keksz joghurttal, sajttal és szentjánoskenyérrel 120g (152 kcal, 5g fehérje, 7g zsír, 22g szénhidrát, 4g rost, 22mg nátrium)
-- Csirkemell gorgonzola szósszal és dióval, párolt spenót bulgurral és mandulával 250g (261 kcal, 35g fehérje, 5g zsír, 22g szénhidrát, 7g rost, 3044mg nátrium)
+- Frittata bélszínnel, telemea sajttal és zöldhagymával, brokkolival, póréhagymával, koktélparadicsommal, olajbogyóval 200g (328 kcal, 9g fehérje, 12g zsír, 46g szénhidrát, 6g rost, 2789mg nátrium)
+- Krémes gombaleves szarvasgombával 350ml (230 kcal, 6g fehérje, 14g zsír, 20g szénhidrát, 3g rost, 1109mg nátrium)
+- Csicseriborsó húsgombóc maghéjban barna szósszal, rizs paradicsommal és zöldbabbal növényi tejszínes szószban 250g (668 kcal, 14g fehérje, 20g zsír, 50g szénhidrát, 13g rost, 3859mg nátrium)
+- Sütőben sült alma fahéjas szósszal 120g (114 kcal, 1g fehérje, 1g zsír, 30g szénhidrát, 3g rost, 2mg nátrium)
+- Marha raguval, bulgurral és paradicsomszósszal töltött paprika 250g (197 kcal, 15g fehérje, 6g zsír, 23g szénhidrát, 6g rost, 1987mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 11/06/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1458 kcal (73%) | 2000 kcal | 542 kcal | 1711 kcal (86%) |
+| Fehérje      | 66 g (37%) | 180 g | 114 g | 110 g (61%) |
+| Zsír         | 88 g (126%) | 70 g | 0 | 90.9 g (130%) |
+| Szénhidrát   | 167 g (104%) | 160 g | 0 | 177.4 g (111%) |
+| Rost         | 37 g (123%) | 30 g | 0 | 47.2 g (157%) |
+| Nátrium      | 6198.1 mg (269%) | 2300 mg | 0 | 6738.1 mg (293%) |
+
+**Summary of Nutrients:** Calories: 1458 kcal, Protein: 66 g, Fat: 88 g, Carbohydrates: 167 g, Fiber: 37 g, Sodium: 6198.1 mg
+
+
+**Ételek:**
+- Krémsajttrió teljes kiőrlésű kenyérkrémmel és főtt tojással, tarka paprikával, uborkával és tökmaggal 200g (275 kcal, 9g fehérje, 15g zsír, 26g szénhidrát, 8g rost, 2245mg nátrium)
+- Radauteana leves 350ml (325 kcal, 18g fehérje, 26g zsír, 52g szénhidrát, 8g rost, 3154mg nátrium)
+- Fűszeres pulykamell burgonyával, sárgarépával, zellerrel és paszternákkal sütőben 250g (330 kcal, 17g fehérje, 17g zsír, 60g szénhidrát, 16g rost, 782mg nátrium)
+- Smoothie banánnal és eperrel 330 ml (163 kcal, 2g fehérje, 1g zsír, 17g szénhidrát, 3g rost, 13mg nátrium)
+- Falafel tabbouleh salátával és grillezett haloumival (365 kcal, 20g fehérje, 29g zsír, 12g szénhidrát, 2g rost, 4.1mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

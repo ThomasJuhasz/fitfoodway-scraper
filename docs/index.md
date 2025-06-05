@@ -9,32 +9,6 @@
 
 ---
 
-# 05/06/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1226 kcal (61%) | 2000 kcal | 774 kcal | 1479 kcal (74%) |
-| Fehérje      | 65 g (36%) | 180 g | 115 g | 109 g (61%) |
-| Zsír         | 43 g (61%) | 70 g | 27 g | 45.9 g (66%) |
-| Szénhidrát   | 129 g (81%) | 160 g | 31 g | 139.4 g (87%) |
-| Rost         | 28 g (93%) | 30 g | 2 g | 38.2 g (127%) |
-| Nátrium      | 25749 mg (1120%) | 2300 mg | 0 | 26289 mg (1143%) |
-
-**Summary of Nutrients:** Calories: 1226 kcal, Protein: 65 g, Fat: 43 g, Carbohydrates: 129 g, Fiber: 28 g, Sodium: 25749 mg
-
-
-**Ételek:**
-- Padlizsán saláta feta sajttal, sült paprikával, koktélparadicsommal, zöld olívabogyóval és kapribogyóval 200g (204 kcal, 13g fehérje, 12g zsír, 20g szénhidrát, 5g rost, 451mg nátrium)
-- Fasírt leves 350ml (181 kcal, 16g fehérje, 8g zsír, 11g szénhidrát, 4g rost, 18734mg nátrium)
-- Pácolt marha steak sült burgonyával, karfiollal és spenóttal 250g (397 kcal, 19g fehérje, 14g zsír, 44g szénhidrát, 11g rost, 3914mg nátrium)
-- Tápióka puding őszibarackkal 120g (123 kcal, 1g fehérje, 1g zsír, 25g szénhidrát, 3g rost, 0mg nátrium)
-- Saláta füstölt csirkemellel, mozzarellával, koktélparadicsommal, egész dióval, szőlővel és olívaolajos pesto szósszal 250g (321 kcal, 16g fehérje, 8g zsír, 29g szénhidrát, 5g rost, 2650mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 06/06/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Fűszeres pulykamell burgonyával, sárgarépával, zellerrel és paszternákkal sütőben 250g (330 kcal, 17g fehérje, 17g zsír, 60g szénhidrát, 16g rost, 782mg nátrium)
 - Smoothie banánnal és eperrel 330 ml (163 kcal, 2g fehérje, 1g zsír, 17g szénhidrát, 3g rost, 13mg nátrium)
 - Falafel tabbouleh salátával és grillezett haloumival (365 kcal, 20g fehérje, 29g zsír, 12g szénhidrát, 2g rost, 4.1mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 12/06/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1472 kcal (74%) | 2000 kcal | 528 kcal | 1725 kcal (86%) |
+| Fehérje      | 65 g (36%) | 180 g | 115 g | 109 g (61%) |
+| Zsír         | 49 g (70%) | 70 g | 21 g | 51.9 g (74%) |
+| Szénhidrát   | 138 g (86%) | 160 g | 22 g | 148.4 g (93%) |
+| Rost         | 22 g (73%) | 30 g | 8 g | 32.2 g (107%) |
+| Nátrium      | 7349 mg (320%) | 2300 mg | 0 | 7889 mg (343%) |
+
+**Summary of Nutrients:** Calories: 1472 kcal, Protein: 65 g, Fat: 49 g, Carbohydrates: 138 g, Fiber: 22 g, Sodium: 7349 mg
+
+
+**Ételek:**
+- Quesadilla csirkemellel, sajttal és babaspenóttal, paradicsomos salsával, vörösbabbal és kukoricával 200g (316 kcal, 16g fehérje, 14g zsír, 56g szénhidrát, 2g rost, 1025mg nátrium)
+- Karfiol krémleves szalonnával és apróra vágott kesudióval 350ml (287 kcal, 4g fehérje, 13g zsír, 27g szénhidrát, 4g rost, 2671mg nátrium)
+- Paella garnélarákkal és tőkehalfilével 250g (284 kcal, 25g fehérje, 8g zsír, 23g szénhidrát, 8g rost, 995mg nátrium)
+- Banánkenyér áfonya és cseresznye szósszal 120g (223 kcal, 3g fehérje, 340mg nátrium)
+- Sült csirkemell édesburgonyapürével, gombával, brokkolival, olajbogyóval és gránátalmás vörösboros szósszal 250g (362 kcal, 17g fehérje, 14g zsír, 32g szénhidrát, 8g rost, 2318mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

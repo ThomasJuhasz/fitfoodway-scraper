@@ -9,32 +9,6 @@
 
 ---
 
-# 24/07/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1422 kcal (71%) | 2000 kcal | 578 kcal | 1675 kcal (84%) |
-| Fehérje      | 56 g (31%) | 180 g | 124 g | 100 g (56%) |
-| Zsír         | 52 g (74%) | 70 g | 18 g | 54.9 g (78%) |
-| Szénhidrát   | 148 g (93%) | 160 g | 12 g | 158.4 g (99%) |
-| Rost         | 39 g (130%) | 30 g | 0 | 49.2 g (164%) |
-| Nátrium      | 9351 mg (407%) | 2300 mg | 0 | 9891 mg (430%) |
-
-**Summary of Nutrients:** Calories: 1422 kcal, Protein: 56 g, Fat: 52 g, Carbohydrates: 148 g, Fiber: 39 g, Sodium: 9351 mg
-
-
-**Ételek:**
-- Buggyantott tojás 200g (331 kcal, 12g fehérje, 15g zsír, 18g szénhidrát, 6g rost, 2394mg nátrium)
-- Karalábé leves csirkével és sárgarépával  350 ml (348 kcal, 7g fehérje, 10g zsír, 24g szénhidrát, 11g rost, 2718mg nátrium)
-- Tejbegríz kókuszreszelékkel és eperrel 120g (175 kcal, 5g fehérje, 1g zsír, 22g szénhidrát, 4g rost, 2mg nátrium)
-- Cézár saláta 250g (250 kcal, 15g fehérje, 8g zsír, 27g szénhidrát, 5g rost, 2650mg nátrium)
-- Szójafasírt rukkola salátával édesburgonyával, krémfehér sajt, parmezán, aszalt szilvával, koktélparadicsommal, tökmaggal és demiglace szósszal 250g (318 kcal, 17g fehérje, 18g zsír, 57g szénhidrát, 13g rost, 1587mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 25/07/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Egész penne putáni vörösbabbal, kalamata olajbogyóval, paradicsommal és kapribogyóval 250g (370 kcal, 27g fehérje, 7g zsír, 71g szénhidrát, 11g rost, 737mg nátrium)
 - Chia puding eperrel és kókusztejjel 120g (214 kcal, 1g fehérje, 0g zsír, 30g szénhidrát, 2g rost, 2mg nátrium)
 - Csirkemell salátakeverékkel rukkolával, zellerrel, gránátalmával, mandulapehellyel, füstölt sajttal, parmezánnal és zöldhagymával, olívaszósszal 250g (586 kcal, 14g fehérje, 20g zsír, 51g szénhidrát, 13g rost, 859mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 30/07/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1230 kcal (62%) | 2000 kcal | 770 kcal | 1483 kcal (74%) |
+| Fehérje      | 59 g (33%) | 180 g | 121 g | 103 g (57%) |
+| Zsír         | 52 g (74%) | 70 g | 18 g | 54.9 g (78%) |
+| Szénhidrát   | 159 g (99%) | 160 g | 1 g | 169.4 g (106%) |
+| Rost         | 51 g (170%) | 30 g | 0 | 61.2 g (204%) |
+| Nátrium      | 8537 mg (371%) | 2300 mg | 0 | 9077 mg (395%) |
+
+**Summary of Nutrients:** Calories: 1230 kcal, Protein: 59 g, Fat: 52 g, Carbohydrates: 159 g, Fiber: 51 g, Sodium: 8537 mg
+
+
+**Ételek:**
+- Hummus guacamole és tabouleh salátával 200g (255 kcal, 12g fehérje, 19g zsír, 10g szénhidrát, 3g rost, 2362mg nátrium)
+- Brokkolikrémleves póréhagymával és parmezánnal 350ml (239 kcal, 10g fehérje, 11g zsír, 25g szénhidrát, 13g rost, 1089mg nátrium)
+- Gyümölcssaláta mentával és bazsalikommal 120g (249 kcal, 7g fehérje, 10g zsír, 36g szénhidrát, 9g rost, 4mg nátrium)
+- Teriyaki lazac filé szezámmal és vadrizzsel, tarka paprikával, sárgarépával és zöldbabbal 250g (202 kcal, 16g fehérje, 4g zsír, 38g szénhidrát, 7g rost, 2309mg nátrium)
+- Szója-lencsepörkölt 250g (285 kcal, 14g fehérje, 8g zsír, 50g szénhidrát, 19g rost, 2773mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

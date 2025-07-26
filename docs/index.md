@@ -9,32 +9,6 @@
 
 ---
 
-# 25/07/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1300 kcal (65%) | 2000 kcal | 700 kcal | 1553 kcal (78%) |
-| Fehérje      | 69 g (38%) | 180 g | 111 g | 113 g (63%) |
-| Zsír         | 59 g (84%) | 70 g | 11 g | 61.9 g (88%) |
-| Szénhidrát   | 193 g (121%) | 160 g | 0 | 203.4 g (127%) |
-| Rost         | 27 g (90%) | 30 g | 3 g | 37.2 g (124%) |
-| Nátrium      | 10762 mg (468%) | 2300 mg | 0 | 11302 mg (491%) |
-
-**Summary of Nutrients:** Calories: 1300 kcal, Protein: 69 g, Fat: 59 g, Carbohydrates: 193 g, Fiber: 27 g, Sodium: 10762 mg
-
-
-**Ételek:**
-- Gombapástétom kesudióval, tofukrém spenóttal, karamellizált lilahagymával és szárított paradicsommal 200g (338 kcal, 12g fehérje, 12g zsír, 34g szénhidrát, 6g rost, 2789mg nátrium)
-- Borsóleves teljes kiőrlésű galuskával 350ml (351 kcal, 18g fehérje, 15g zsír, 66g szénhidrát, 3g rost, 3109mg nátrium)
-- Afrikai lecsó csirkével 250g (268 kcal, 17g fehérje, 8g zsír, 49g szénhidrát, 9g rost, 2875mg nátrium)
-- Teljes kiőrlésű keksz joghurttal, túróval és szentjánoskenyérrel 120g (151 kcal, 2g fehérje, 10g zsír, 22g szénhidrát, 3g rost, 2mg nátrium)
-- Tőkehalfilé parmezános bundában, gombás rizottóval 250g (192 kcal, 20g fehérje, 14g zsír, 22g szénhidrát, 6g rost, 1987mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 26/07/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Gyümölcssaláta mentával és bazsalikommal 120g (249 kcal, 7g fehérje, 10g zsír, 36g szénhidrát, 9g rost, 4mg nátrium)
 - Teriyaki lazac filé szezámmal és vadrizzsel, tarka paprikával, sárgarépával és zöldbabbal 250g (202 kcal, 16g fehérje, 4g zsír, 38g szénhidrát, 7g rost, 2309mg nátrium)
 - Szója-lencsepörkölt 250g (285 kcal, 14g fehérje, 8g zsír, 50g szénhidrát, 19g rost, 2773mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 31/07/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1226 kcal (61%) | 2000 kcal | 774 kcal | 1479 kcal (74%) |
+| Fehérje      | 65 g (36%) | 180 g | 115 g | 109 g (61%) |
+| Zsír         | 43 g (61%) | 70 g | 27 g | 45.9 g (66%) |
+| Szénhidrát   | 129 g (81%) | 160 g | 31 g | 139.4 g (87%) |
+| Rost         | 28 g (93%) | 30 g | 2 g | 38.2 g (127%) |
+| Nátrium      | 25749 mg (1120%) | 2300 mg | 0 | 26289 mg (1143%) |
+
+**Summary of Nutrients:** Calories: 1226 kcal, Protein: 65 g, Fat: 43 g, Carbohydrates: 129 g, Fiber: 28 g, Sodium: 25749 mg
+
+
+**Ételek:**
+- Padlizsán saláta feta sajttal, sült paprikával, koktélparadicsommal, zöld olívabogyóval és kapribogyóval 200g (204 kcal, 13g fehérje, 12g zsír, 20g szénhidrát, 5g rost, 451mg nátrium)
+- Fasírt leves 350ml (181 kcal, 16g fehérje, 8g zsír, 11g szénhidrát, 4g rost, 18734mg nátrium)
+- Pácolt marha steak sült burgonyával, karfiollal és spenóttal 250g (397 kcal, 19g fehérje, 14g zsír, 44g szénhidrát, 11g rost, 3914mg nátrium)
+- Tápióka puding őszibarackkal 120g (123 kcal, 1g fehérje, 1g zsír, 25g szénhidrát, 3g rost, 0mg nátrium)
+- Saláta füstölt csirkemellel, mozzarellával, koktélparadicsommal, egész dióval, szőlővel és olívaolajos pesto szósszal 250g (321 kcal, 16g fehérje, 8g zsír, 29g szénhidrát, 5g rost, 2650mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

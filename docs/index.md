@@ -9,32 +9,6 @@
 
 ---
 
-# 02/08/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1388 kcal (69%) | 2000 kcal | 612 kcal | 1641 kcal (82%) |
-| Fehérje      | 72 g (40%) | 180 g | 108 g | 116 g (64%) |
-| Zsír         | 56 g (80%) | 70 g | 14 g | 58.9 g (84%) |
-| Szénhidrát   | 130 g (81%) | 160 g | 30 g | 140.4 g (88%) |
-| Rost         | 21 g (70%) | 30 g | 9 g | 31.2 g (104%) |
-| Nátrium      | 1901 mg (83%) | 2300 mg | 399 mg | 2441 mg (106%) |
-
-**Summary of Nutrients:** Calories: 1388 kcal, Protein: 72 g, Fat: 56 g, Carbohydrates: 130 g, Fiber: 21 g, Sodium: 1901 mg
-
-
-**Ételek:**
-- Sült burgonya krokett spanyol salátával 200g (248 kcal, 8g fehérje, 10g zsír, 35g szénhidrát, 4g rost, 400mg nátrium)
-- Paszternákkrémleves gorgonzolával, dióval és pisztáciával 350 ml (258 kcal, 8g fehérje, 15g zsír, 25g szénhidrát, 5g rost, 500mg nátrium)
-- Csirkepörkölt padlizsánnal, paprikával, paradicsommal, lencsével és bazsalikommal 250g (244 kcal, 25g fehérje, 5g zsír, 15g szénhidrát, 5g rost, 400mg nátrium)
-- Gyümölcssaláta 120g (223 kcal, 1g fehérje, 1g zsír, 35g szénhidrát, 2g rost, 1mg nátrium)
-- Sült marhahúsgombóc zöldségekkel és tejszínes szósszal 250g (415 kcal, 30g fehérje, 25g zsír, 20g szénhidrát, 5g rost, 600mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 04/08/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Paella garnélarákkal és tőkehalfilével 250g (284 kcal, 25g fehérje, 8g zsír, 23g szénhidrát, 8g rost, 995mg nátrium)
 - Banánkenyér áfonya és cseresznye szósszal 120g (223 kcal, 3g fehérje, 340mg nátrium)
 - Sült csirkemell édesburgonyapürével, gombával, brokkolival, olajbogyóval és gránátalmás vörösboros szósszal 250g (362 kcal, 17g fehérje, 14g zsír, 32g szénhidrát, 8g rost, 2318mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 08/08/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1284 kcal (64%) | 2000 kcal | 716 kcal | 1537 kcal (77%) |
+| Fehérje      | 69 g (38%) | 180 g | 111 g | 113 g (63%) |
+| Zsír         | 59 g (84%) | 70 g | 11 g | 61.9 g (88%) |
+| Szénhidrát   | 193 g (121%) | 160 g | 0 | 203.4 g (127%) |
+| Rost         | 27 g (90%) | 30 g | 3 g | 37.2 g (124%) |
+| Nátrium      | 10762 mg (468%) | 2300 mg | 0 | 11302 mg (491%) |
+
+**Summary of Nutrients:** Calories: 1284 kcal, Protein: 69 g, Fat: 59 g, Carbohydrates: 193 g, Fiber: 27 g, Sodium: 10762 mg
+
+
+**Ételek:**
+- Teljes kiőrlésű fehérje palacsinta édes sajttal, mazsolával és juharsziruppal 200g (358 kcal, 12g fehérje, 12g zsír, 34g szénhidrát, 6g rost, 2789mg nátrium)
+- Csirkeleves tárkonnyal és gombával 350ml (351 kcal, 18g fehérje, 15g zsír, 66g szénhidrát, 3g rost, 3109mg nátrium)
+- Marha steak demiglace szósszal, paszternákpürével, sárgarépával, cukkinivel és céklával 250g (268 kcal, 17g fehérje, 8g zsír, 49g szénhidrát, 9g rost, 2875mg nátrium)
+- Joghurt és mangó parfé 120g (115 kcal, 2g fehérje, 10g zsír, 22g szénhidrát, 3g rost, 2mg nátrium)
+- 4 sajt saláta 250 g (192 kcal, 20g fehérje, 14g zsír, 22g szénhidrát, 6g rost, 1987mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

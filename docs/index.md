@@ -13,22 +13,22 @@
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
 |--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1379 kcal (69%) | 2000 kcal | 621 kcal | 1632 kcal (82%) |
-| Fehérje      | 86 g (48%) | 180 g | 94 g | 130 g (72%) |
-| Zsír         | 30 g (43%) | 70 g | 40 g | 32.9 g (47%) |
-| Szénhidrát   | 193 g (121%) | 160 g | 0 | 203.4 g (127%) |
-| Rost         | 41 g (137%) | 30 g | 0 | 51.2 g (171%) |
-| Nátrium      | 6139 mg (267%) | 2300 mg | 0 | 6679 mg (290%) |
+| Kalória      | 0 kcal (0%) | 2000 kcal | 2000 kcal | 253 kcal (13%) |
+| Fehérje      | 0 g (0%) | 180 g | 180 g | 44 g (24%) |
+| Zsír         | 0 g (0%) | 70 g | 70 g | 2.9 g (4%) |
+| Szénhidrát   | 0 g (0%) | 160 g | 160 g | 10.4 g (7%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| Nátrium      | 0 mg (0%) | 2300 mg | 2300 mg | 540 mg (23%) |
 
-**Summary of Nutrients:** Calories: 1379 kcal, Protein: 86 g, Fat: 30 g, Carbohydrates: 193 g, Fiber: 41 g, Sodium: 6139 mg
+**Summary of Nutrients:** Calories: 0 kcal, Protein: 0 g, Fat: 0 g, Carbohydrates: 0 g, Fiber: 0 g, Sodium: 0 mg
 
 
 **Ételek:**
-- Zab joghurttal, chiával, cseresznyével, mandulapehellyel és cukormentes lekvárral 200g (279 kcal, 10g fehérje, 9g zsír, 34g szénhidrát, 4g rost, 2mg nátrium)
-- Paraszt marhahúsleves 350ml (314 kcal, 12g fehérje, 1g zsír, 66g szénhidrát, 19g rost, 2858mg nátrium)
-- Gnocchi di patate paradicsomszósszal, friss mozzarellával és bazsalikommal 250g (373 kcal, 24g fehérje, 8g zsír, 49g szénhidrát, 7g rost, 213mg nátrium)
-- Teljes kiőrlésű keksz joghurttal, sajttal és szentjánoskenyérrel 120g (152 kcal, 5g fehérje, 7g zsír, 22g szénhidrát, 4g rost, 22mg nátrium)
-- Csirkemell gorgonzola szósszal és dióval, párolt spenót bulgurral és mandulával 250g (261 kcal, 35g fehérje, 5g zsír, 22g szénhidrát, 7g rost, 3044mg nátrium)
+- Zab joghurttal, chiával, cseresznyével, mandulapehellyel és cukormentes lekvárral 200g ()
+- Paraszt marhahúsleves 350ml ()
+- Gnocchi di patate paradicsomszósszal, friss mozzarellával és bazsalikommal 250g ()
+- Teljes kiőrlésű keksz joghurttal, sajttal és szentjánoskenyérrel 120g ()
+- Csirkemell gorgonzola szósszal és dióval, párolt spenót bulgurral és mandulával 250g ()
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

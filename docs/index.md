@@ -9,32 +9,6 @@
 
 ---
 
-# 12/08/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1377 kcal (69%) | 2000 kcal | 623 kcal | 1630 kcal (82%) |
-| Fehérje      | 60 g (33%) | 180 g | 120 g | 104 g (58%) |
-| Zsír         | 54 g (77%) | 70 g | 16 g | 56.9 g (81%) |
-| Szénhidrát   | 109 g (68%) | 160 g | 51 g | 119.4 g (75%) |
-| Rost         | 27 g (90%) | 30 g | 3 g | 37.2 g (124%) |
-| Nátrium      | 7434 mg (323%) | 2300 mg | 0 | 7974 mg (347%) |
-
-**Summary of Nutrients:** Calories: 1377 kcal, Protein: 60 g, Fat: 54 g, Carbohydrates: 109 g, Fiber: 27 g, Sodium: 7434 mg
-
-
-**Ételek:**
-- Frittata paprikával, koktélparadicsommal és bébispenóttal articsóka salátával, sült kapia borssal, olajbogyóval, kecskesajttal és pesto rossóval 200g (243 kcal, 11g fehérje, 16g zsír, 20g szénhidrát, 6g rost, 989mg nátrium)
-- saláta leves 350 ml (319 kcal, 17g fehérje, 11g zsír, 20g szénhidrát, 3g rost, 1542mg nátrium)
-- Thai mangó csirke kesudióval és vadrizzsel lime-mal 250g (304 kcal, 14g fehérje, 16g zsír, 16g szénhidrát, 9g rost, 1175mg nátrium)
-- Energizáló cukorkák, cseresznyével és csokoládéval 120g (114 kcal, 3g fehérje, 5g zsír, 30g szénhidrát, 3g rost, 1741mg nátrium)
-- Marha steak gombával és tárkonnyal, sárgarépapürével koktélparadicsommal, zellerrel és hagymával sütőben 250g (397 kcal, 15g fehérje, 6g zsír, 23g szénhidrát, 6g rost, 1987mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 13/08/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Marha gulyás burgonyával és vörösbabbal 250g (350 kcal, 25g fehérje, 15g zsír, 25g szénhidrát, 6g rost, 350mg nátrium)
 - Sült sütőtök vaníliaszósszal 120g (162 kcal, 1g fehérje, 0g zsír, 18g szénhidrát, 2g rost, 5mg nátrium)
 - Saláta bivalymozzarellával, paradicsom, olajbogyó és articsóka keverékével 250g (320 kcal, 13g fehérje, 17g zsír, 18g szénhidrát, 22g rost, 245mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 18/08/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1126 kcal (56%) | 2000 kcal | 874 kcal | 1379 kcal (69%) |
+| Fehérje      | 40 g (22%) | 180 g | 140 g | 84 g (47%) |
+| Zsír         | 46 g (66%) | 70 g | 24 g | 48.9 g (70%) |
+| Szénhidrát   | 174 g (109%) | 160 g | 0 | 184.4 g (115%) |
+| Rost         | 47 g (157%) | 30 g | 0 | 57.2 g (191%) |
+| Nátrium      | 2922 mg (127%) | 2300 mg | 0 | 3462 mg (151%) |
+
+**Summary of Nutrients:** Calories: 1126 kcal, Protein: 40 g, Fat: 46 g, Carbohydrates: 174 g, Fiber: 47 g, Sodium: 2922 mg
+
+
+**Ételek:**
+- Zabkása mogyoróvajjal, banán, kókusz és chia maggal 200g (200 kcal, 10g fehérje, 9g zsír, 34g szénhidrát, 4g rost, 2mg nátrium)
+- Köményleves tojással 350ml (198 kcal, 2g fehérje, 14g zsír, 16g szénhidrát, 14g rost, 196mg nátrium)
+- Tortellini ricottaval és spenóttal, sajtmártással 250g (297 kcal, 15g fehérje, 6g zsír, 23g szénhidrát, 6g rost, 1987mg nátrium)
+- Quinoa puding ananásszál és málnával 120g (114 kcal, 1g fehérje, 1g zsír, 30g szénhidrát, 3g rost, 2mg nátrium)
+- Pulykamell tagliata rukkola salátával, gránával, gombával, cukkinivel, retekkel, koktélparadicsommal és balzsamecetes sóssszall 250g (317 kcal, 12g fehérje, 16g zsír, 71g szénhidrát, 20g rost, 735mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

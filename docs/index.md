@@ -9,32 +9,6 @@
 
 ---
 
-# 13/08/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1445 kcal (72%) | 2000 kcal | 555 kcal | 1698 kcal (85%) |
-| Fehérje      | 56 g (31%) | 180 g | 124 g | 100 g (56%) |
-| Zsír         | 58 g (83%) | 70 g | 12 g | 60.9 g (87%) |
-| Szénhidrát   | 182 g (114%) | 160 g | 0 | 192.4 g (120%) |
-| Rost         | 37 g (123%) | 30 g | 0 | 47.2 g (157%) |
-| Nátrium      | 4301 mg (187%) | 2300 mg | 0 | 4841 mg (210%) |
-
-**Summary of Nutrients:** Calories: 1445 kcal, Protein: 56 g, Fat: 58 g, Carbohydrates: 182 g, Fiber: 37 g, Sodium: 4301 mg
-
-
-**Ételek:**
-- Sült kenyér kenhető tojással, spenóttal, paradicsommal, feta sajttal és káposztasalátával olíva keverékkel 200g (270 kcal, 11g fehérje, 10g zsír, 35g szénhidrát, 11g rost, 1320mg nátrium)
-- Zellerkrémleves, sült alma, cékla és zöldségkrém 350ml (324 kcal, 6g fehérje, 20g zsír, 31g szénhidrát, 3g rost, 1332mg nátrium)
-- Lassan sült sertéshús zöldbabbal, sült paradicsommal, karamellizált hagymával és szivárványsalátával 250g (348 kcal, 23g fehérje, 21g zsír, 15g szénhidrát, 6g rost, 835mg nátrium)
-- Raffaello cukorka kókuszos mandulával 120g (114 kcal, 1g fehérje, 1g zsír, 30g szénhidrát, 3g rost, 2mg nátrium)
-- Lencse és bulgur húsgombóc pirított burgonyával, cukkinivel, koktélparadicsommal, szárított paradicsommal, olajbogyóval és kapribogyóval sütőben 250g (389 kcal, 15g fehérje, 6g zsír, 71g szénhidrát, 14g rost, 812mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 14/08/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Tortellini ricottaval és spenóttal, sajtmártással 250g (297 kcal, 15g fehérje, 6g zsír, 23g szénhidrát, 6g rost, 1987mg nátrium)
 - Quinoa puding ananásszál és málnával 120g (114 kcal, 1g fehérje, 1g zsír, 30g szénhidrát, 3g rost, 2mg nátrium)
 - Pulykamell tagliata rukkola salátával, gránával, gombával, cukkinivel, retekkel, koktélparadicsommal és balzsamecetes sóssszall 250g (317 kcal, 12g fehérje, 16g zsír, 71g szénhidrát, 20g rost, 735mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 19/08/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1474 kcal (74%) | 2000 kcal | 526 kcal | 1727 kcal (86%) |
+| Fehérje      | 60 g (33%) | 180 g | 120 g | 104 g (58%) |
+| Zsír         | 53 g (76%) | 70 g | 17 g | 55.9 g (80%) |
+| Szénhidrát   | 143 g (89%) | 160 g | 17 g | 153.4 g (96%) |
+| Rost         | 32 g (107%) | 30 g | 0 | 42.2 g (141%) |
+| Nátrium      | 8098 mg (352%) | 2300 mg | 0 | 8638 mg (376%) |
+
+**Summary of Nutrients:** Calories: 1474 kcal, Protein: 60 g, Fat: 53 g, Carbohydrates: 143 g, Fiber: 32 g, Sodium: 8098 mg
+
+
+**Ételek:**
+- Hashbrown reszelt burgonyából tojással és szivárványsaláta joghurtos szósszal 200g (243 kcal, 11g fehérje, 16g zsír, 10g szénhidrát, 3g rost, 1394mg nátrium)
+- Száraz bableves csicseriborsóval, bébispenóttal és vidéki sertés sonkával 350 ml (337 kcal, 10g fehérje, 9g zsír, 37g szénhidrát, 6g rost, 1718mg nátrium)
+- Lassan főtt marhahús sárgarépával, hagymával, póréhagymával, zellerrel és rizzsel vajjal 250g (268 kcal, 23g fehérje, 11g zsír, 22g szénhidrát, 9g rost, 2875mg nátrium)
+- Vegán csokoládé mousse gojival 120g (206 kcal, 2g fehérje, 2g zsír, 24g szénhidrát, 2g rost, 2mg nátrium)
+- Csicseriborsó fasírt borsópürével és bébi sárgarépával 250g (420 kcal, 14g fehérje, 15g zsír, 50g szénhidrát, 12g rost, 2109mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

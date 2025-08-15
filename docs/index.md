@@ -9,32 +9,6 @@
 
 ---
 
-# 14/08/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1496 kcal (75%) | 2000 kcal | 504 kcal | 1749 kcal (87%) |
-| Fehérje      | 68 g (38%) | 180 g | 112 g | 112 g (62%) |
-| Zsír         | 65 g (93%) | 70 g | 5 g | 67.9 g (97%) |
-| Szénhidrát   | 143 g (89%) | 160 g | 17 g | 153.4 g (96%) |
-| Rost         | 23 g (77%) | 30 g | 7 g | 33.2 g (111%) |
-| Nátrium      | 6323 mg (275%) | 2300 mg | 0 | 6863 mg (298%) |
-
-**Summary of Nutrients:** Calories: 1496 kcal, Protein: 68 g, Fat: 65 g, Carbohydrates: 143 g, Fiber: 23 g, Sodium: 6323 mg
-
-
-**Ételek:**
-- Chia puding joghurttal, étcsokoládéval, mogyoróval és kesudióval 200g (282 kcal, 18g fehérje, 20g zsír, 18g szénhidrát, 3g rost, 1145mg nátrium)
-- Sárga bableves 350ml (226 kcal, 5g fehérje, 10g zsír, 28g szénhidrát, 2g rost, 2875mg nátrium)
-- Egész penne csirkemellel, feta sajttal, szárított paradicsommal és bébispenóttal 250g (309 kcal, 25g fehérje, 8g zsír, 23g szénhidrát, 8g rost, 995mg nátrium)
-- Smoothie mangóval, ananásszal, gyömbérrel és kurkumával 330 ml (381 kcal, 5g fehérje, 13g zsír, 42g szénhidrát, 2g rost, 390mg nátrium)
-- Erdei gombás pite csicseriborsóval és harangsajttal 250g (298 kcal, 15g fehérje, 14g zsír, 32g szénhidrát, 8g rost, 918mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 15/08/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Lassan főtt marhahús sárgarépával, hagymával, póréhagymával, zellerrel és rizzsel vajjal 250g (268 kcal, 23g fehérje, 11g zsír, 22g szénhidrát, 9g rost, 2875mg nátrium)
 - Vegán csokoládé mousse gojival 120g (206 kcal, 2g fehérje, 2g zsír, 24g szénhidrát, 2g rost, 2mg nátrium)
 - Csicseriborsó fasírt borsópürével és bébi sárgarépával 250g (420 kcal, 14g fehérje, 15g zsír, 50g szénhidrát, 12g rost, 2109mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 20/08/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1300 kcal (65%) | 2000 kcal | 700 kcal | 1553 kcal (78%) |
+| Fehérje      | 71 g (39%) | 180 g | 109 g | 115 g (64%) |
+| Zsír         | 76 g (109%) | 70 g | 0 | 78.9 g (113%) |
+| Szénhidrát   | 135 g (84%) | 160 g | 25 g | 145.4 g (91%) |
+| Rost         | 25 g (83%) | 30 g | 5 g | 35.2 g (117%) |
+| Nátrium      | 7670 mg (333%) | 2300 mg | 0 | 8210 mg (357%) |
+
+**Summary of Nutrients:** Calories: 1300 kcal, Protein: 71 g, Fat: 76 g, Carbohydrates: 135 g, Fiber: 25 g, Sodium: 7670 mg
+
+
+**Ételek:**
+- Karfiol tészta bacon és mogyoró darabokkal, sárgarépával, paprikával, zellerrel és zeller salátával 200g (248 kcal, 9g fehérje, 15g zsír, 26g szénhidrát, 8g rost, 1245mg nátrium)
+- Hamis Pacal leves szója- és pleurotusz szeletekből 350ml (378 kcal, 23g fehérje, 17g zsír, 34g szénhidrát, 2g rost, 2501mg nátrium)
+- Kuszkuszos sertéspörkölt zöldségekkel, savanyúsággal 250g (233 kcal, 16g fehérje, 13g zsír, 35g szénhidrát, 6g rost, 1458mg nátrium)
+- Dinnye, körte és ananász smoothie 330ml (85 kcal, 3g fehérje, 2g zsír, 15g szénhidrát, 4g rost, 10mg nátrium)
+- Niçoise saláta tonhallal, főtt burgonyával és zöldbabbal 250g (356 kcal, 20g fehérje, 29g zsír, 25g szénhidrát, 5g rost, 2456mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

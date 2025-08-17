@@ -9,32 +9,6 @@
 
 ---
 
-# 16/08/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1460 kcal (73%) | 2000 kcal | 540 kcal | 1713 kcal (86%) |
-| Fehérje      | 67 g (37%) | 180 g | 113 g | 111 g (62%) |
-| Zsír         | 68 g (97%) | 70 g | 2 g | 70.9 g (101%) |
-| Szénhidrát   | 97 g (61%) | 160 g | 63 g | 107.4 g (67%) |
-| Rost         | 37 g (123%) | 30 g | 0 | 47.2 g (157%) |
-| Nátrium      | 1806 mg (79%) | 2300 mg | 494 mg | 2346 mg (102%) |
-
-**Summary of Nutrients:** Calories: 1460 kcal, Protein: 67 g, Fat: 68 g, Carbohydrates: 97 g, Fiber: 37 g, Sodium: 1806 mg
-
-
-**Ételek:**
-- Frittata sajttal, zöldhagymával és kaporral 200g (350 kcal, 20g fehérje, 28g zsír, 4g szénhidrát, 2g rost, 650mg nátrium)
-- Póréhagyma krémleves sült fokhagymával és csicseriborsóval 350ml (278 kcal, 8g fehérje, 8g zsír, 32g szénhidrát, 5g rost, 556mg nátrium)
-- Marha gulyás burgonyával és vörösbabbal 250g (350 kcal, 25g fehérje, 15g zsír, 25g szénhidrát, 6g rost, 350mg nátrium)
-- Sült sütőtök vaníliaszósszal 120g (162 kcal, 1g fehérje, 0g zsír, 18g szénhidrát, 2g rost, 5mg nátrium)
-- Saláta bivalymozzarellával, paradicsom, olajbogyó és articsóka keverékével 250g (320 kcal, 13g fehérje, 17g zsír, 18g szénhidrát, 22g rost, 245mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 18/08/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Sült sertéskarajból és kínai zöldségekből 250g (307 kcal, 19g fehérje, 5g zsír, 18g szénhidrát, 5g rost, 2875mg nátrium)
 - Banoffee 120g (175 kcal, 5g fehérje, 1g zsír, 22g szénhidrát, 4g rost, 2mg nátrium)
 - Céklasaláta quinoával, fetával, vegyes magvakkal, parmezánnal és valeriánnal 250g (250 kcal, 15g fehérje, 8g zsír, 27g szénhidrát, 5g rost, 2650mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 22/08/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1324 kcal (66%) | 2000 kcal | 676 kcal | 1577 kcal (79%) |
+| Fehérje      | 69 g (38%) | 180 g | 111 g | 113 g (63%) |
+| Zsír         | 59 g (84%) | 70 g | 11 g | 61.9 g (88%) |
+| Szénhidrát   | 193 g (121%) | 160 g | 0 | 203.4 g (127%) |
+| Rost         | 27 g (90%) | 30 g | 3 g | 37.2 g (124%) |
+| Nátrium      | 10762 mg (468%) | 2300 mg | 0 | 11302 mg (491%) |
+
+**Summary of Nutrients:** Calories: 1324 kcal, Protein: 69 g, Fat: 59 g, Carbohydrates: 193 g, Fiber: 27 g, Sodium: 10762 mg
+
+
+**Ételek:**
+- Caprese saláta prosciutto és kekszet vegyes magvakkal 200g (338 kcal, 12g fehérje, 12g zsír, 34g szénhidrát, 6g rost, 2789mg nátrium)
+- Paradicsomkrémleves gnocchival és parmezánnal 350ml (351 kcal, 18g fehérje, 15g zsír, 66g szénhidrát, 3g rost, 3109mg nátrium)
+- Sertésszelet baconnel, kelbimbóval, gombával, brokkolival és vörösboros szósszal 250g (268 kcal, 17g fehérje, 8g zsír, 49g szénhidrát, 9g rost, 2875mg nátrium)
+- Torta krémsajttal, tejföllel és bogyós gyümölcsökkel 120g (175 kcal, 2g fehérje, 10g zsír, 22g szénhidrát, 3g rost, 2mg nátrium)
+- Csicseriborsó saláta bulgurral, Telemea sajttal és nyers zöldségkeverékkel 250g (192 kcal, 20g fehérje, 14g zsír, 22g szénhidrát, 6g rost, 1987mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

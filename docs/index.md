@@ -9,32 +9,6 @@
 
 ---
 
-# 27/08/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1577 kcal (79%) | 2000 kcal | 423 kcal | 1830 kcal (92%) |
-| Fehérje      | 100 g (56%) | 180 g | 80 g | 144 g (80%) |
-| Zsír         | 63 g (90%) | 70 g | 7 g | 65.9 g (94%) |
-| Szénhidrát   | 186 g (116%) | 160 g | 0 | 196.4 g (123%) |
-| Rost         | 61 g (203%) | 30 g | 0 | 71.2 g (237%) |
-| Nátrium      | 7178 mg (312%) | 2300 mg | 0 | 7718 mg (336%) |
-
-**Summary of Nutrients:** Calories: 1577 kcal, Protein: 100 g, Fat: 63 g, Carbohydrates: 186 g, Fiber: 61 g, Sodium: 7178 mg
-
-
-**Ételek:**
-- Fritatta gombával és minisaláta 200g (255 kcal, 12g fehérje, 19g zsír, 10g szénhidrát, 3g rost, 2362mg nátrium)
-- Brokkolikrémleves 350ml (239 kcal, 10g fehérje, 11g zsír, 25g szénhidrát, 13g rost, 1089mg nátrium)
-- Csirkecombok mediterrán zöldfűszerekkel Tabulé salátával 250g (632 kcal, 55g fehérje, 19g zsír, 77g szénhidrát, 29g rost, 1414mg nátrium)
-- Chia puding fekete csokoládéval és meggyel 120g (249 kcal, 7g fehérje, 10g zsír, 36g szénhidrát, 9g rost, 4mg nátrium)
-- Tofu nyárs rizzsel, brokkoli, laskagomba és cukkíni 250g (202 kcal, 16g fehérje, 4g zsír, 38g szénhidrát, 7g rost, 2309mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 28/08/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Chia puding tiramisuval 120g (114 kcal, 1g fehérje, 1g zsír, 30g szénhidrát, 3g rost, 2mg nátrium)
 - Süllő filé borsópürével, brokkoli és bébi répa 250g (197 kcal, 15g fehérje, 6g zsír, 23g szénhidrát, 6g rost, 1987mg nátrium)
 - Falafel, zöldbabbal, zellerrel és édes-savanyú szósszal 250g (268 kcal, 23g fehérje, 11g zsír, 22g szénhidrát, 9g rost, 2875mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 03/09/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1370 kcal (69%) | 2000 kcal | 630 kcal | 1623 kcal (81%) |
+| Fehérje      | 66 g (37%) | 180 g | 114 g | 110 g (61%) |
+| Zsír         | 88 g (126%) | 70 g | 0 | 90.9 g (130%) |
+| Szénhidrát   | 167 g (104%) | 160 g | 0 | 177.4 g (111%) |
+| Rost         | 37 g (123%) | 30 g | 0 | 47.2 g (157%) |
+| Nátrium      | 6198.1 mg (269%) | 2300 mg | 0 | 6738.1 mg (293%) |
+
+**Summary of Nutrients:** Calories: 1370 kcal, Protein: 66 g, Fat: 88 g, Carbohydrates: 167 g, Fiber: 37 g, Sodium: 6198.1 mg
+
+
+**Ételek:**
+- Teljes kiőrlésű kenyér krémsajttal, joghurttal, pestoval, paprikacsíkokkal és olajbogyóval 200g (275 kcal, 9g fehérje, 15g zsír, 26g szénhidrát, 8g rost, 2245mg nátrium)
+- Borjú gulyás 350ml (325 kcal, 18g fehérje, 26g zsír, 52g szénhidrát, 8g rost, 3154mg nátrium)
+- Pulykamell répapürével zellerrel és céklasaláta csicseriborsóval 250g (330 kcal, 17g fehérje, 17g zsír, 60g szénhidrát, 16g rost, 782mg nátrium)
+- Zöld smoothie 330ml (75 kcal, 2g fehérje, 1g zsír, 17g szénhidrát, 3g rost, 13mg nátrium)
+- 4 sajtos saláta 250g (365 kcal, 20g fehérje, 29g zsír, 12g szénhidrát, 2g rost, 4.1mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

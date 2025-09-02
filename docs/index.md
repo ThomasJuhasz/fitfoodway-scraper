@@ -9,32 +9,6 @@
 
 ---
 
-# 01/09/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1379 kcal (69%) | 2000 kcal | 621 kcal | 1632 kcal (82%) |
-| Fehérje      | 86 g (48%) | 180 g | 94 g | 130 g (72%) |
-| Zsír         | 25 g (36%) | 70 g | 45 g | 27.9 g (40%) |
-| Szénhidrát   | 193 g (121%) | 160 g | 0 | 203.4 g (127%) |
-| Rost         | 41 g (137%) | 30 g | 0 | 51.2 g (171%) |
-| Nátrium      | 6139 mg (267%) | 2300 mg | 0 | 6679 mg (290%) |
-
-**Summary of Nutrients:** Calories: 1379 kcal, Protein: 86 g, Fat: 25 g, Carbohydrates: 193 g, Fiber: 41 g, Sodium: 6139 mg
-
-
-**Ételek:**
-- Zabkása diófélékkel, banánnal és fügével 200g (279 kcal, 10g fehérje, 9g zsír, 34g szénhidrát, 4g rost, 2mg nátrium)
-- Zöldségleves 350ml (314 kcal, 12g fehérje, 1g zsír, 66g szénhidrát, 19g rost, 2858mg nátrium)
-- Teljes kiőrlésű penne erdei gombával és prosciutto 250g (373 kcal, 24g fehérje, 8g zsír, 49g szénhidrát, 7g rost, 213mg nátrium)
-- Friss sajttorta 120g (152 kcal, 5g fehérje, 7g zsír, 22g szénhidrát, 4g rost, 22mg nátrium)
-- "Caponata" csirkehússal: Olasz  csirkepörkölt, padlizsán, cukkíni, paprika, paradicsom és bazsalikom 250g (261 kcal, 35g fehérje, 22g szénhidrát, 7g rost, 3044mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 02/09/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Sült körte vanília öntettel, diófélék és fahéj 120g (115 kcal, 2g fehérje, 10g zsír, 22g szénhidrát, 3g rost, 2mg nátrium)
 - Kebab tányéron tálalva 250g (192 kcal, 20g fehérje, 14g zsír, 22g szénhidrát, 6g rost, 1987mg nátrium)
 - Sütőben sült zöldségsaláta szárított paradicsommal, ecetes uborkával, csicseriborsóval, zöld olívabogyóval és olívaolajos bazsalikom szósszal 250g (268 kcal, 17g fehérje, 8g zsír, 49g szénhidrát, 9g rost, 2875mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 06/09/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1262 kcal (63%) | 2000 kcal | 738 kcal | 1515 kcal (76%) |
+| Fehérje      | 83 g (46%) | 180 g | 97 g | 127 g (71%) |
+| Zsír         | 45 g (64%) | 70 g | 25 g | 47.9 g (68%) |
+| Szénhidrát   | 126 g (79%) | 160 g | 34 g | 136.4 g (85%) |
+| Rost         | 12 g (40%) | 30 g | 18 g | 22.2 g (74%) |
+| Nátrium      | 2147 mg (93%) | 2300 mg | 153 mg | 2687 mg (117%) |
+
+**Summary of Nutrients:** Calories: 1262 kcal, Protein: 83 g, Fat: 45 g, Carbohydrates: 126 g, Fiber: 12 g, Sodium: 2147 mg
+
+
+**Ételek:**
+- Papara feta sajttal és olajbogyóval 200g (229 kcal, 10g fehérje, 16g zsír, 12g szénhidrát, 2g rost, 777mg nátrium)
+- Sárgarépa krémleves gyömbérrel 350ml (219 kcal, 3g fehérje, 4g zsír, 46g szénhidrát, 6g rost, 443mg nátrium)
+- Spenótos csirkemáj 250g (292 kcal, 26g fehérje, 12g zsír, 18g szénhidrát, 3g rost, 504mg nátrium)
+- Katalán krém 120g (146 kcal, 4g fehérje, 3g zsír, 24g szénhidrát, 0g rost, 48mg nátrium)
+- Csirkemell fehérboros szósszal és rizzsel 250g (376 kcal, 40g fehérje, 10g zsír, 26g szénhidrát, 1g rost, 375mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

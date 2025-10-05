@@ -9,32 +9,6 @@
 
 ---
 
-# 04/10/2025
-
-| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-|--------------|-------------|----------|------------------|---------------------|
-| Kalória      | 1380 kcal (69%) | 2000 kcal | 620 kcal | 1633 kcal (82%) |
-| Fehérje      | 81.7 g (45%) | 180 g | 98.3 g | 125.7 g (70%) |
-| Zsír         | 83.7 g (120%) | 70 g | 0 | 86.6 g (124%) |
-| Szénhidrát   | 121.7 g (76%) | 160 g | 38.3 g | 132.1 g (83%) |
-| Rost         | 21.1 g (70%) | 30 g | 8.9 g | 31.3 g (104%) |
-| Nátrium      | 2984 mg (130%) | 2300 mg | 0 | 3524 mg (153%) |
-
-**Summary of Nutrients:** Calories: 1380 kcal, Protein: 81.7 g, Fat: 83.7 g, Carbohydrates: 121.7 g, Fiber: 21.1 g, Sodium: 2984 mg
-
-
-**Ételek:**
-- Karfiolmassza kesudióval és padlizsánkrémmel, paradicsommal, paprikával és telemeával 200g (196 kcal, 3.9g fehérje, 10.1g zsír, 23.4g szénhidrát, 4.8g rost, 393mg nátrium)
-- Krémleves kukorica, sárgarépa és paradicsomlé 350ml (235 kcal, 6.2g fehérje, 5.3g zsír, 43.1g szénhidrát, 6.5g rost, 651mg nátrium)
-- Milánó csirke parmezánnal, mozzarellával, paradicsomszósszal és rukkola salátával 250g (461 kcal, 35.7g fehérje, 37.4g zsír, 17.6g szénhidrát, 2.9g rost, 985mg nátrium)
-- Sárgarépapuding mandulatejjel, mákkal és kókuszos 120g (127 kcal, 2.3g fehérje, 7.3g zsír, 19.7g szénhidrát, 3.2g rost, 349mg nátrium)
-- Lassan sült sertéscomb paradicsomszószban rizs curryvel, csicseriborsóval és spenóttal 250g (361 kcal, 33.6g fehérje, 23.6g zsír, 17.9g szénhidrát, 3.7g rost, 606mg nátrium)
-
-
-**Javasolt kiegészítő ételek a cél eléréséhez:**
-- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
-- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
-
 # 06/10/2025
 
 | Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
@@ -133,6 +107,32 @@
 - Egész penne csirkemellel, feta sajttal, szárított paradicsommal és bébispenóttal 250g (309 kcal, 25g fehérje, 8g zsír, 23g szénhidrát, 8g rost, 995mg nátrium)
 - Smoothie mangóval, ananásszal, gyömbérrel és kurkumával 330 ml (381 kcal, 5g fehérje, 13g zsír, 42g szénhidrát, 2g rost, 390mg nátrium)
 - Erdei gombás pite csicseriborsóval és harangsajttal 250g (298 kcal, 15g fehérje, 14g zsír, 32g szénhidrát, 8g rost, 918mg nátrium)
+
+
+**Javasolt kiegészítő ételek a cél eléréséhez:**
+- Fehérjepor shake (1 adag vízzel) × 1 (120 kcal, 24g fehérje, 1.5g zsír, 2g szénhidrát, 150mg nátrium)
+- Fibershake × 1 (133 kcal, 20g fehérje, 1.4g zsír, 8.4g szénhidrát, 10.2g rost, 390mg nátrium)
+
+# 10/10/2025
+
+| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
+|--------------|-------------|----------|------------------|---------------------|
+| Kalória      | 1435 kcal (72%) | 2000 kcal | 565 kcal | 1688 kcal (84%) |
+| Fehérje      | 59 g (33%) | 180 g | 121 g | 103 g (57%) |
+| Zsír         | 67 g (96%) | 70 g | 3 g | 69.9 g (100%) |
+| Szénhidrát   | 147 g (92%) | 160 g | 13 g | 157.4 g (98%) |
+| Rost         | 36 g (120%) | 30 g | 0 | 46.2 g (154%) |
+| Nátrium      | 3988 mg (173%) | 2300 mg | 0 | 4528 mg (197%) |
+
+**Summary of Nutrients:** Calories: 1435 kcal, Protein: 59 g, Fat: 67 g, Carbohydrates: 147 g, Fiber: 36 g, Sodium: 3988 mg
+
+
+**Ételek:**
+- Szendvics csirkemellel, tofuval, paprikával és olajbogyó és uborka keverékével 200g (312 kcal, 12g fehérje, 12g zsír, 34g szénhidrát, 6g rost, 789mg nátrium)
+- Burgonya, paszternák és gorgonzola krémleves 350ml (302 kcal, 12g fehérje, 13g zsír, 36g szénhidrát, 11g rost, 1102mg nátrium)
+- Kacsamell csíkok zellerpürével, érett körtével és cseresznyeszósszal 250g (344 kcal, 19g fehérje, 18g zsír, 12g szénhidrát, 8g rost, 950mg nátrium)
+- Papanasi mascarponéval 120g (150 kcal, 5g fehérje, 7g zsír, 22g szénhidrát, 4g rost, 22mg nátrium)
+- Saláta édesburgonyával, feta sajttal, koktélparadicsommal, gránával, darált dióval, olívabogyóval és rukkolával, olívaolaj 250g (327 kcal, 11g fehérje, 17g zsír, 43g szénhidrát, 7g rost, 1125mg nátrium)
 
 
 **Javasolt kiegészítő ételek a cél eléréséhez:**

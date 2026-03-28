@@ -1,7 +1,9 @@
+const cheerio = require("cheerio");
 const {
   extractNutritions,
   extractComponents,
   markdownForDay,
+  parseDaysFromProgramTimeline,
 } = require("./index");
 
 describe("Application Tests", () => {
@@ -90,5 +92,38 @@ describe("Component Extraction", () => {
       fiber: 3,
       natrium: 2362,
     });
+  });
+});
+
+describe("Protein program timeline parsing", () => {
+  it("parses days and menu items from timeline layout", () => {
+    const html = `
+      <h4>Hétfő 09/02/2026</h4>
+      <a href="/etel/100">Reggeli</a>
+      <a href="/etel/100">- Tojásos reggeli 300g/400g</a>
+      <a href="/etel/100">Teljes tàpèrtèk megtekintèse</a>
+      <a href="/etel/101">Ebéd</a>
+      <a href="/etel/101">- Csirkemell barnarizzsel 350g/500g</a>
+      <h4>Kedd 10/02/2026</h4>
+      <a href="/etel/200">Desszert</a>
+      <a href="/etel/200">- Fehérje desszert 150g/200g</a>
+    `;
+
+    const $ = cheerio.load(html);
+    const days = parseDaysFromProgramTimeline($);
+
+    expect(days).toHaveLength(2);
+    expect(days[0].date).toBe("09/02/2026");
+    expect(days[0].menu).toEqual([
+      {
+        name: "Tojásos reggeli 300g/400g",
+        link: "https://fitfoodway.hu/etel/100",
+      },
+      {
+        name: "Csirkemell barnarizzsel 350g/500g",
+        link: "https://fitfoodway.hu/etel/101",
+      },
+    ]);
+    expect(days[1].menu[0].name).toBe("Fehérje desszert 150g/200g");
   });
 });

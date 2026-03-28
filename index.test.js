@@ -103,6 +103,19 @@ describe("Nutrition Extraction", () => {
       natrium: 2830,
     });
   });
+  it("uses the very last 'Tápérték adatok egy adagra' block when repeated", () => {
+    const desc =
+      "Tápérték adatok egy adagra (350,00 g) Energiaérték (kJ/kcal): 2470,2 / 602,3, Zsír (g): 24,7, Szénhidrát (g): 54,5, Fehérjék (g): 35,7, Só (g): 5,6 valami köztes szöveg Tápérték adatok egy adagra (500,00 g) Energiaérték (kJ/kcal): 3609,9 / 885,9, Zsír (g): 39,6, Szénhidrát (g): 71,5, Fehérjék (g): 53,8, Só (g): 7,2 Allergéneket tartalmaz";
+
+    expect(extractNutritions(desc)).toEqual({
+      calories: 885.9,
+      protein: 53.8,
+      lipids: 39.6,
+      carbohydrate: 71.5,
+      fiber: null,
+      natrium: 2830,
+    });
+  });
 });
 
 describe("Component Extraction", () => {

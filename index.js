@@ -105,15 +105,15 @@ function decodeMojibake(text) {
 }
 
 function extractPreferredServingSection(normalizedDesc) {
-  const servingMarkers = [
-    "tapertek adagonkent",
-    "tapertek adatok egy adagra",
+  const primaryServingMarker = "tapertek adatok egy adagra";
+  const fallbackServingMarkers = [
     "tapertek adatai egy adagra",
+    "tapertek adagonkent",
   ];
-  const start = servingMarkers.reduce(
-    (max, marker) => Math.max(max, normalizedDesc.lastIndexOf(marker)),
-    -1
-  );
+  const start = [
+    normalizedDesc.lastIndexOf(primaryServingMarker),
+    ...fallbackServingMarkers.map((marker) => normalizedDesc.lastIndexOf(marker)),
+  ].find((index) => index !== -1);
 
   if (start === -1) {
     return "";

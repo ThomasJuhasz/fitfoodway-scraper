@@ -68,6 +68,29 @@ describe("Nutrition Extraction", () => {
       natrium: 393,
     });
   });
+  it("parses modern energia (kJ/kcal) labels", () => {
+    const desc =
+      "Energiaérték (kJ/kcal): 1125,2 / 269,1 Fehérjék (g): 28,3 Zsír (g): 8,7 Szénhidrát (g): 19,5 Rost (g): 4,5 Nátrium (mg): 1250";
+    expect(extractNutritions(desc)).toEqual({
+      calories: 269.1,
+      protein: 28.3,
+      lipids: 8.7,
+      carbohydrate: 19.5,
+      fiber: 4.5,
+      natrium: 1250,
+    });
+  });
+  it("converts salt in grams to sodium in milligrams when sodium is missing", () => {
+    const desc = "Kalória: 440 kcal, Fehérje (g): 30, Zsír (g): 10, Só (g): 2,4";
+    expect(extractNutritions(desc)).toEqual({
+      calories: 440,
+      protein: 30,
+      lipids: 10,
+      carbohydrate: null,
+      fiber: null,
+      natrium: 943,
+    });
+  });
 });
 
 describe("Component Extraction", () => {

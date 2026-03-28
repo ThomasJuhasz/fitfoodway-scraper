@@ -8,8 +8,18 @@ const path = require("path");
 const config = require("./config");
 const bestFoodCombination = require("./bestFoodCombination");
 
-const baseProgramUrl = process.argv[3] || process.env.FITFOODWAY_PROGRAM_URL || config.URL;
-const programUrl = baseProgramUrl;
+function resolveProgramUrl() {
+  const cliArg = process.argv[3];
+  const envUrl = process.env.FITFOODWAY_PROGRAM_URL;
+  const candidate = cliArg || envUrl || config.URL;
+  try {
+    return new URL(candidate).href;
+  } catch {
+    return config.URL;
+  }
+}
+
+const programUrl = resolveProgramUrl();
 const dailyRecommended = config.dailyRecommended;
 const additionalFoodItems = config.additionalFoodItems;
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
@@ -32,21 +42,25 @@ async function fetchHtml(url) {
 function extractNutritions(desc) {
   // Hungarian nutrition keywords and regexes
   const regexes = {
-    // Robust: match 'kalória' or 'kalóriák', optional colon/whitespace, number always in group 1
+    // "Energia (kJ/kcal): 1000 / 240" style
+    caloriesKcalPair:
+      /(?:energia(?:érték)?|tápérték)\s*(?:\([^)]*kJ\s*\/\s*kcal[^)]*\))?\s*:?\s*[\d.,]+\s*\/\s*([\d.,]+)/i,
+    // Legacy "Kalória: 240"
     calories: /kalóri[áa]+k?\s*:?\s*([\d.,]+)/i,
-    protein: /fehérj[ée]k?\s*[:]?(\s*[\d.,]+)\s*g?/i,
-    lipids: /(zsír|lipid(?:ek)?)\s*[:]?(\s*[\d.,]+)\s*g/i,
-    carbohydrate: /szénhidrát(?:ok)?\s*[:]?(\s*[\d.,]+)\s*g/i,
-    fiber: /rost(?:ok)?\s*[:]?(\s*[\d.,]+)\s*g/i,
-    natrium: /nátrium\s*[:]?(\s*[\d.,]+)\s*mg/i,
+    protein: /fehérj[ée]k?(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    lipids: /(zsír|lipid(?:ek)?)(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    carbohydrate: /szénhidrát(?:ok)?(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    fiber: /rost(?:ok)?(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    natrium: /nátrium(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)(?:\s*mg)?/i,
+    salt: /só(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)(?:\s*g)?/i,
   };
   const nutritions = {};
   for (const [key, regex] of Object.entries(regexes)) {
     const match = desc.match(regex);
     let value = null;
     if (match) {
-      // For lipids, the value is in the second group
-      const raw = key === "lipids" ? match[2] : match[1];
+      const rawByKey = { lipids: match[2] };
+      const raw = rawByKey[key] || match[1];
       if (raw) {
         // Replace comma with dot, parse as float, then floor to int
         const num = parseFloat(raw.replace(",", "."));
@@ -55,6 +69,15 @@ function extractNutritions(desc) {
     }
     nutritions[key] = value;
   }
+  if (nutritions.calories == null && nutritions.caloriesKcalPair != null) {
+    nutritions.calories = nutritions.caloriesKcalPair;
+  }
+  if (nutritions.natrium == null && nutritions.salt != null) {
+    // Convert salt (g) to sodium (mg) when only "só" is present.
+    nutritions.natrium = Math.round(nutritions.salt * 393);
+  }
+  delete nutritions.caloriesKcalPair;
+  delete nutritions.salt;
   return nutritions;
 }
 

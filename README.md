@@ -16,10 +16,12 @@ npm install
 ## Run the scraper
 
 ```
-node index.js 20
+node index.js 20 https://www.fitfoodway.hu/programok/protein
 ```
 
-This will fetch the data for the next 20 days and generate a markdown file at `public/index.md`.
+This fetches data for the next 20 days from the selected FitFoodWay program URL and generates `docs/index.md`.
+
+If no URL is provided, it uses the default from `config.js`. You can also set `FITFOODWAY_PROGRAM_URL`.
 
 ## Run tests
 

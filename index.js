@@ -1,5 +1,5 @@
 // index.js
-// Script to crawl https://fitfoodway.hu/programok/fogyj-egeszsegesen and extract all days' menus
+// Script to crawl FitFoodWay program pages and extract all days' menus
 
 const axios = require("axios");
 const cheerio = require("cheerio");
@@ -8,10 +8,26 @@ const path = require("path");
 const config = require("./config");
 const bestFoodCombination = require("./bestFoodCombination");
 
-const URL = config.URL;
+const baseProgramUrl = process.argv[3] || process.env.FITFOODWAY_PROGRAM_URL || config.URL;
+const programUrl = baseProgramUrl;
 const dailyRecommended = config.dailyRecommended;
 const additionalFoodItems = config.additionalFoodItems;
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
+
+const requestHeaders = {
+  "User-Agent":
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+  "Accept-Language": "hu-HU,hu;q=0.9,en-US;q=0.8,en;q=0.7",
+  Referer: "https://fitfoodway.hu/",
+};
+
+async function fetchHtml(url) {
+  const response = await axios.get(url, {
+    headers: requestHeaders,
+    timeout: 30000,
+  });
+  return response.data;
+}
 
 function extractNutritions(desc) {
   // Hungarian nutrition keywords and regexes
@@ -68,6 +84,15 @@ function round1(val) {
   return Math.round(val * 10) / 10;
 }
 
+function toAbsoluteUrl(url, baseUrl) {
+  if (!url) return "";
+  try {
+    return new URL(url, baseUrl).href;
+  } catch {
+    return url;
+  }
+}
+
 // prettier-ignore
 async function markdownForDay(day) {
   function percent(val, target) {
@@ -103,10 +128,8 @@ async function markdownForDay(day) {
     extraTotals.natrium += (food.natrium || 0) * food.count;
   }
 
-  md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |
-`;
-  md += `|--------------|-------------|----------|------------------|---------------------|
-`;
+  md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |\n`;
+  md += `|--------------|-------------|----------|------------------|---------------------|\n`;
   const keys = [
     { key: 'calories', label: 'Kalória', unit: 'kcal' },
     { key: 'protein', label: 'Fehérje', unit: 'g' },
@@ -122,8 +145,7 @@ async function markdownForDay(day) {
     const missingVal = missing(day.nutritions[thisKey], dailyRecommended[thisKey], unit);
     const totalWithExtra = round1((day.nutritions[thisKey] || 0) + (extraTotals[thisKey] || 0));
     const totalWithExtraPercent = percent(totalWithExtra, dailyRecommended[thisKey]);
-    md += `| ${label.padEnd(12)} | ${consumed} ${unit} (${consumedPercent}%) | ${recommended} ${unit} | ${missingVal} | ${totalWithExtra} ${unit} (${totalWithExtraPercent}%) |
-`;
+    md += `| ${label.padEnd(12)} | ${consumed} ${unit} (${consumedPercent}%) | ${recommended} ${unit} | ${missingVal} | ${totalWithExtra} ${unit} (${totalWithExtraPercent}%) |\n`;
   }
 
   // Add a simple summary line above the "Ételek" section
@@ -197,9 +219,7 @@ async function fetchAllMenus() {
   // }
 }
 
-async function fetchDays() {
-  const { data } = await axios.get(URL);
-  const $ = cheerio.load(data);
+function parseDaysFromLegacyMenuImages($) {
   const days = [];
 
   $("div.menu-images").each((i, dayDiv) => {
@@ -210,6 +230,65 @@ async function fetchDays() {
   });
 
   return days;
+}
+
+function parseDaysFromProgramTimeline($) {
+  const days = [];
+  const skipLabels = new Set(["Reggeli", "Ebéd", "Vacsora", "Desszert"]);
+
+  $("h4").each((i, header) => {
+    if (days.length >= daysToCollect) return false;
+    const headerText = $(header).text().replace(/\s+/g, " ").trim();
+    const dateMatch = headerText.match(/\d{2}\/\d{2}\/\d{4}/);
+    if (!dateMatch) return;
+
+    const block = $(header).nextUntil("h4");
+    const dayItems = [];
+    const seen = new Set();
+
+    block
+      .filter("a[href]")
+      .add(block.find("a[href]"))
+      .each((j, a) => {
+      const rawText = $(a).text().replace(/\s+/g, " ").trim();
+      if (!rawText) return;
+      if (skipLabels.has(rawText)) return;
+      if (/teljes/i.test(rawText) && /megtekint/i.test(rawText)) return;
+      if (/tedd\s+a\s+kos[áa]rba/i.test(rawText)) return;
+
+      const name = rawText.replace(/^-\s*/, "").trim();
+      if (!name || name.length < 5) return;
+
+      const link = toAbsoluteUrl($(a).attr("href") || "", programUrl);
+      const dedupeKey = `${name}|${link}`;
+      if (seen.has(dedupeKey)) return;
+      seen.add(dedupeKey);
+
+      dayItems.push({ name, link });
+    });
+
+    if (dayItems.length > 0) {
+      days.push({
+        date: dateMatch[0],
+        menu: dayItems,
+      });
+    }
+  });
+
+  return days;
+}
+
+async function fetchDays() {
+  const data = await fetchHtml(programUrl);
+  const $ = cheerio.load(data);
+
+  const legacyDays = parseDaysFromLegacyMenuImages($);
+  if (legacyDays.length > 0) {
+    return legacyDays;
+  }
+
+  const timelineDays = parseDaysFromProgramTimeline($);
+  return timelineDays;
 }
 
 function extractDate($, dayDiv) {
@@ -231,7 +310,7 @@ function extractMenu($, dayDiv) {
         .trim();
       const link =
         $(menuDiv).find(".box-menu-description").first().attr("href") || "";
-      menu.push({ name, link });
+      menu.push({ name, link: toAbsoluteUrl(link, programUrl) });
     });
   return menu;
 }
@@ -241,7 +320,7 @@ async function fetchMenuDetails(days) {
     for (const item of day.menu) {
       if (!item.link) continue;
       try {
-        const { data: itemHtml } = await axios.get(item.link);
+        const itemHtml = await fetchHtml(item.link);
         const _$ = cheerio.load(itemHtml);
         const desc = _$(".short-description").text().trim();
         item.components = extractComponents(desc);
@@ -331,10 +410,15 @@ async function writeMarkdown(days) {
   }
 }
 
-fetchAllMenus();
+if (require.main === module) {
+  fetchAllMenus();
+}
 
 module.exports = {
   extractNutritions,
   extractComponents,
   markdownForDay,
+  parseDaysFromLegacyMenuImages,
+  parseDaysFromProgramTimeline,
+  toAbsoluteUrl,
 };

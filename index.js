@@ -8,8 +8,18 @@ const path = require("path");
 const config = require("./config");
 const bestFoodCombination = require("./bestFoodCombination");
 
-const baseProgramUrl = process.argv[3] || process.env.FITFOODWAY_PROGRAM_URL || config.URL;
-const programUrl = baseProgramUrl;
+function resolveProgramUrl() {
+  const cliArg = process.argv[3];
+  const envUrl = process.env.FITFOODWAY_PROGRAM_URL;
+  const candidate = cliArg || envUrl || config.URL;
+  try {
+    return new URL(candidate).href;
+  } catch {
+    return config.URL;
+  }
+}
+
+const programUrl = resolveProgramUrl();
 const dailyRecommended = config.dailyRecommended;
 const additionalFoodItems = config.additionalFoodItems;
 const daysToCollect = parseInt(process.argv[2], 10) || Infinity;
@@ -30,38 +40,100 @@ async function fetchHtml(url) {
 }
 
 function extractNutritions(desc) {
-  // Hungarian nutrition keywords and regexes
+  const normalizedDesc = normalizeNutritionText(desc);
+  const preferredSection =
+    extractPreferredServingSection(normalizedDesc) || normalizedDesc;
+
   const regexes = {
-    // Robust: match 'kalória' or 'kalóriák', optional colon/whitespace, number always in group 1
-    calories: /kalóri[áa]+k?\s*:?\s*([\d.,]+)/i,
-    protein: /fehérj[ée]k?\s*[:]?(\s*[\d.,]+)\s*g?/i,
-    lipids: /(zsír|lipid(?:ek)?)\s*[:]?(\s*[\d.,]+)\s*g/i,
-    carbohydrate: /szénhidrát(?:ok)?\s*[:]?(\s*[\d.,]+)\s*g/i,
-    fiber: /rost(?:ok)?\s*[:]?(\s*[\d.,]+)\s*g/i,
-    natrium: /nátrium\s*[:]?(\s*[\d.,]+)\s*mg/i,
+    caloriesKcalPair:
+      /(?:energia(?:ertek)?|tapertek)\s*(?:\([^)]*kj\s*\/\s*kcal[^)]*\))?\s*:?\s*[\d.,]+\s*\/\s*([\d.,]+)/i,
+    calories: /kaloriak?\s*:?\s*([\d.,]+)/i,
+    protein: /feherj(?:e|ek)(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    lipids: /(zsir|lipid(?:ek)?)(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    carbohydrate: /szenhidrat(?:ok)?(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    fiber: /rost(?:ok)?(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)\s*g?/i,
+    natrium: /natrium(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)(?:\s*mg)?/i,
+    salt: /so(?:\s*\([^)]*\))?\s*:?\s*([\d.,]+)(?:\s*g)?/i,
   };
+
   const nutritions = {};
   for (const [key, regex] of Object.entries(regexes)) {
-    const match = desc.match(regex);
+    const match = preferredSection.match(regex);
     let value = null;
     if (match) {
-      // For lipids, the value is in the second group
-      const raw = key === "lipids" ? match[2] : match[1];
+      const rawByKey = { lipids: match[2] };
+      const raw = rawByKey[key] || match[1];
       if (raw) {
-        // Replace comma with dot, parse as float, then floor to int
         const num = parseFloat(raw.replace(",", "."));
         value = isNaN(num) ? null : num;
       }
     }
     nutritions[key] = value;
   }
+
+  if (nutritions.calories == null && nutritions.caloriesKcalPair != null) {
+    nutritions.calories = nutritions.caloriesKcalPair;
+  }
+  if (nutritions.natrium == null && nutritions.salt != null) {
+    nutritions.natrium = Math.round(nutritions.salt * 393);
+  }
+
+  delete nutritions.caloriesKcalPair;
+  delete nutritions.salt;
   return nutritions;
 }
 
+function normalizeNutritionText(text) {
+  const decodedText = decodeMojibake(text || "");
+  return decodedText
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLowerCase()
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function decodeMojibake(text) {
+  if (/[ÃÅ]/.test(text)) {
+    return Buffer.from(text, "latin1").toString("utf8");
+  }
+  try {
+    return decodeURIComponent(escape(text));
+  } catch {
+    return text;
+  }
+}
+
+function extractPreferredServingSection(normalizedDesc) {
+  const servingMarkers = [
+    "tapertek adagonkent",
+    "tapertek adatok egy adagra",
+    "tapertek adatai egy adagra",
+  ];
+  const start = servingMarkers.reduce(
+    (max, marker) => Math.max(max, normalizedDesc.lastIndexOf(marker)),
+    -1
+  );
+
+  if (start === -1) {
+    return "";
+  }
+
+  let section = normalizedDesc.slice(start);
+  for (const endMarker of ["allergen", "allergeneket tartalmaz", "*a menuk"]) {
+    const end = section.indexOf(endMarker);
+    if (end !== -1) {
+      section = section.slice(0, end);
+    }
+  }
+
+  return section;
+}
+
 function extractComponents(desc) {
-  // Look for the section after "Összetevők és táplálkozási adatok:\n- " and before "Súly"
+  // Look for the section after "Ã–sszetevÅ‘k Ã©s tÃ¡plÃ¡lkozÃ¡si adatok:\n- " and before "SÃºly"
   const match = desc.match(
-    /Összetevők és táplálkozási adatok:\s*-\s*([\s\S]*?)Súly/i
+    /Ã–sszetevÅ‘k Ã©s tÃ¡plÃ¡lkozÃ¡si adatok:\s*-\s*([\s\S]*?)SÃºly/i
   );
   if (match) {
     // Clean up: remove newlines, extra spaces, and trailing punctuation
@@ -106,6 +178,10 @@ async function markdownForDay(day) {
   }
   let md = `# ${day.date}\n`;
 
+  if (!day.menu || day.menu.length === 0) {
+    return `${md}\nHave fun :)\n`;
+  }
+
   // Calculate missing nutrients
   const missingNutrients = {
     calories: Math.max(0, dailyRecommended.calories - (day.nutritions.calories || 0)),
@@ -128,15 +204,15 @@ async function markdownForDay(day) {
     extraTotals.natrium += (food.natrium || 0) * food.count;
   }
 
-  md += `\n| Tápanyag      | Fogyasztott | Ajánlott | Hiányzik a célig | Extra után összesen |\n`;
+  md += `\n| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |\n`;
   md += `|--------------|-------------|----------|------------------|---------------------|\n`;
   const keys = [
-    { key: 'calories', label: 'Kalória', unit: 'kcal' },
-    { key: 'protein', label: 'Fehérje', unit: 'g' },
-    { key: 'lipids', label: 'Zsír', unit: 'g' },
-    { key: 'carbohydrate', label: 'Szénhidrát', unit: 'g' },
+    { key: 'calories', label: 'KalÃ³ria', unit: 'kcal' },
+    { key: 'protein', label: 'FehÃ©rje', unit: 'g' },
+    { key: 'lipids', label: 'ZsÃ­r', unit: 'g' },
+    { key: 'carbohydrate', label: 'SzÃ©nhidrÃ¡t', unit: 'g' },
     { key: 'fiber', label: 'Rost', unit: 'g' },
-    { key: 'natrium', label: 'Nátrium', unit: 'mg' },
+    { key: 'natrium', label: 'NÃ¡trium', unit: 'mg' },
   ];
   for (const { key: thisKey, label, unit } of keys) {
     const consumed = round1(day.nutritions[thisKey]);
@@ -148,7 +224,6 @@ async function markdownForDay(day) {
     md += `| ${label.padEnd(12)} | ${consumed} ${unit} (${consumedPercent}%) | ${recommended} ${unit} | ${missingVal} | ${totalWithExtra} ${unit} (${totalWithExtraPercent}%) |\n`;
   }
 
-  // Add a simple summary line above the "Ételek" section
   const nutrientSummary = [
     `Calories: ${round1(day.nutritions.calories || 0)} kcal`,
     `Protein: ${round1(day.nutritions.protein || 0)} g`,
@@ -159,7 +234,7 @@ async function markdownForDay(day) {
   ];
   md += `\n**Summary of Nutrients:** ${nutrientSummary.join(", ")}\n\n`;
 
-  md += `\n**Ételek:**\n`;
+  md += `\n**Ã‰telek:**\n`;
   for (const item of day.menu) {
     const n = item.nutritions || {};
     md += `- ${item.name} (`;
@@ -168,19 +243,19 @@ async function markdownForDay(day) {
         ? `${round1(n.calories)} kcal`
         : null,
       n.protein !== null && n.protein !== undefined
-        ? `${round1(n.protein)}g fehérje`
+        ? `${round1(n.protein)}g fehÃ©rje`
         : null,
       n.lipids !== null && n.lipids !== undefined
-        ? `${round1(n.lipids)}g zsír`
+        ? `${round1(n.lipids)}g zsÃ­r`
         : null,
       n.carbohydrate !== null && n.carbohydrate !== undefined
-        ? `${round1(n.carbohydrate)}g szénhidrát`
+        ? `${round1(n.carbohydrate)}g szÃ©nhidrÃ¡t`
         : null,
       n.fiber !== null && n.fiber !== undefined
         ? `${round1(n.fiber)}g rost`
         : null,
       n.natrium !== null && n.natrium !== undefined
-        ? `${round1(n.natrium)}mg nátrium`
+        ? `${round1(n.natrium)}mg nÃ¡trium`
         : null,
     ]
       .filter(Boolean)
@@ -188,18 +263,18 @@ async function markdownForDay(day) {
     md += ")\n";
   }
   if (suggestions.length > 0) {
-    md += `\n\n**Javasolt kiegészítő ételek a cél eléréséhez:**\n`;
+    md += `\n\n**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**\n`;
     for (const food of suggestions) {
       if (food.count > 0) {
         const total = (key) => round1((food[key] || 0) * food.count);
-        md += `- ${food.name} × ${food.count} (` +
+        md += `- ${food.name} Ã— ${food.count} (` +
           [
             total('calories') ? `${total('calories')} kcal` : null,
-            total('protein') ? `${total('protein')}g fehérje` : null,
-            total('lipids') ? `${total('lipids')}g zsír` : null,
-            total('carbohydrate') ? `${total('carbohydrate')}g szénhidrát` : null,
+            total('protein') ? `${total('protein')}g fehÃ©rje` : null,
+            total('lipids') ? `${total('lipids')}g zsÃ­r` : null,
+            total('carbohydrate') ? `${total('carbohydrate')}g szÃ©nhidrÃ¡t` : null,
             total('fiber') ? `${total('fiber')}g rost` : null,
-            total('natrium') ? `${total('natrium')}mg nátrium` : null,
+            total('natrium') ? `${total('natrium')}mg nÃ¡trium` : null,
           ].filter(Boolean).join(', ') +
           `)\n`;
       }
@@ -209,14 +284,10 @@ async function markdownForDay(day) {
 }
 
 async function fetchAllMenus() {
-  // try {
   const days = await fetchDays();
   await fetchMenuDetails(days);
   summarizeNutritions(days);
   await writeMarkdown(days);
-  // } catch (error) {
-  //   console.error("Error fetching menu:", error.message);
-  // }
 }
 
 function parseDaysFromLegacyMenuImages($) {
@@ -234,7 +305,7 @@ function parseDaysFromLegacyMenuImages($) {
 
 function parseDaysFromProgramTimeline($) {
   const days = [];
-  const skipLabels = new Set(["Reggeli", "Ebéd", "Vacsora", "Desszert"]);
+  const skipLabels = new Set(["Reggeli", "EbÃ©d", "Vacsora", "Desszert"]);
 
   $("h4").each((i, header) => {
     if (days.length >= daysToCollect) return false;
@@ -250,29 +321,27 @@ function parseDaysFromProgramTimeline($) {
       .filter("a[href]")
       .add(block.find("a[href]"))
       .each((j, a) => {
-      const rawText = $(a).text().replace(/\s+/g, " ").trim();
-      if (!rawText) return;
-      if (skipLabels.has(rawText)) return;
-      if (/teljes/i.test(rawText) && /megtekint/i.test(rawText)) return;
-      if (/tedd\s+a\s+kos[áa]rba/i.test(rawText)) return;
+        const rawText = $(a).text().replace(/\s+/g, " ").trim();
+        if (!rawText) return;
+        if (skipLabels.has(rawText)) return;
+        if (/teljes/i.test(rawText) && /megtekint/i.test(rawText)) return;
+        if (/tedd\s+a\s+kos[Ã¡a]rba/i.test(rawText)) return;
 
-      const name = rawText.replace(/^-\s*/, "").trim();
-      if (!name || name.length < 5) return;
+        const name = rawText.replace(/^-\s*/, "").trim();
+        if (!name || name.length < 5) return;
 
-      const link = toAbsoluteUrl($(a).attr("href") || "", programUrl);
-      const dedupeKey = `${name}|${link}`;
-      if (seen.has(dedupeKey)) return;
-      seen.add(dedupeKey);
+        const link = toAbsoluteUrl($(a).attr("href") || "", programUrl);
+        const dedupeKey = `${name}|${link}`;
+        if (seen.has(dedupeKey)) return;
+        seen.add(dedupeKey);
 
-      dayItems.push({ name, link });
-    });
-
-    if (dayItems.length > 0) {
-      days.push({
-        date: dateMatch[0],
-        menu: dayItems,
+        dayItems.push({ name, link });
       });
-    }
+
+    days.push({
+      date: dateMatch[0],
+      menu: dayItems,
+    });
   });
 
   return days;
@@ -369,7 +438,6 @@ function addItemNutritionsToSummary(nutritions, summary) {
 }
 
 async function writeMarkdown(days) {
-  // Add dailyRecommended values to the top of the markdown
   let dailyRecommendedMarkdown = `# Daily Recommended Nutritional Values\n\n`;
 
   for (const [key, value] of Object.entries(dailyRecommended)) {
@@ -388,21 +456,17 @@ async function writeMarkdown(days) {
 
   dailyRecommendedMarkdown += `\n---\n\n`;
 
-  // Generate markdown for all days
   let allMarkdown = "";
   for (const day of days) {
     allMarkdown += (await markdownForDay(day)) + "\n";
   }
 
-  // Combine dailyRecommendedMarkdown and allMarkdown
   const finalMarkdown = dailyRecommendedMarkdown + allMarkdown;
 
-  // Write to docs/index.md instead of README.md
   fs.mkdirSync("docs", { recursive: true });
   fs.writeFileSync("docs/index.md", finalMarkdown);
   console.log("Markdown written to docs/index.md");
 
-  // Silence Jekyll SCSS error by ensuring an empty style.scss exists
   const scssPath = "docs/assets/css/style.scss";
   fs.mkdirSync(path.dirname(scssPath), { recursive: true });
   if (!fs.existsSync(scssPath)) {

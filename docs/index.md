@@ -13,21 +13,21 @@
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
 |--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1770 kcal (89%) | 2000 kcal | 230 kcal | 2023 kcal (101%) |
-| FehÃ©rje     | 125 g (69%) | 180 g | 55 g | 169 g (94%) |
-| ZsÃ­r        | 71 g (101%) | 70 g | 0 | 73.9 g (106%) |
-| SzÃ©nhidrÃ¡t | 110 g (69%) | 160 g | 50 g | 120.4 g (75%) |
-| Rost         | 35 g (117%) | 30 g | 0 | 45.2 g (151%) |
-| NÃ¡trium     | 6112 mg (266%) | 2300 mg | 0 | 6652 mg (289%) |
+| KalÃ³ria     | 1597.1 kcal (80%) | 2000 kcal | 402.9 kcal | 1850.1 kcal (93%) |
+| FehÃ©rje     | 101.3 g (56%) | 180 g | 78.7 g | 145.3 g (81%) |
+| ZsÃ­r        | 70.2 g (100%) | 70 g | 0 | 73.1 g (104%) |
+| SzÃ©nhidrÃ¡t | 128.7 g (80%) | 160 g | 31.3 g | 139.1 g (87%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 3065 mg (133%) | 2300 mg | 0 | 3605 mg (157%) |
 
-**Summary of Nutrients:** Calories: 1770 kcal, Protein: 125 g, Fat: 71 g, Carbohydrates: 110 g, Fiber: 35 g, Sodium: 6112 mg
+**Summary of Nutrients:** Calories: 1597.1 kcal, Protein: 101.3 g, Fat: 70.2 g, Carbohydrates: 128.7 g, Fiber: 0 g, Sodium: 3065 mg
 
 
 **Ã‰telek:**
-- Frittata paprikával, koktélparadicsommal és bébispenóttal, prosciutto, articsóka salátával, sült capia paprikával, olajbogyóval, kecskesajttal és pesto rossóval 300g/400g (366 kcal, 14g fehÃ©rje, 19g zsÃ­r, 9g rost, 1182mg nÃ¡trium)
-- Thai mangó csirke kesudióval és vadrizzsel lime-mal 350g/500g (525 kcal, 20g fehÃ©rje, 21g zsÃ­r, 21g szÃ©nhidrÃ¡t, 14g rost, 1686mg nÃ¡trium)
-- Marha steak gombával és tárkonnyal, sárgarépapürével koktélparadicsommal, zellerrel és hagymával sütőben 350g/500g (608 kcal, 61g fehÃ©rje, 25g zsÃ­r, 59g szÃ©nhidrÃ¡t, 9g rost, 1503mg nÃ¡trium)
-- Energizáló cukorkák, cseresznyével és csokoládéval 150g/200g (271 kcal, 30g fehÃ©rje, 6g zsÃ­r, 30g szÃ©nhidrÃ¡t, 3g rost, 1741mg nÃ¡trium)
+- Frittata paprikával, koktélparadicsommal és bébispenóttal, prosciutto, articsóka salátával, sült kápia paprikával, olajbogyóval, kecskesajttal és pesto rossóval 300g/400g (451.7 kcal, 29.2g fehÃ©rje, 30.8g zsÃ­r, 12.4g szÃ©nhidrÃ¡t, 1847mg nÃ¡trium)
+- Thai mangó csirke kesudióval és vadrizzsel lime-mal 350g/500g (582.3 kcal, 52.8g fehÃ©rje, 23.7g zsÃ­r, 36.8g szÃ©nhidrÃ¡t, 1100mg nÃ¡trium)
+- Marha steak gombával és tárkonnyal, sárgarépapürével, sült koktélparadicsommal, zellerrel és hagymával 350g/500g (114.4 kcal, 12.6g fehÃ©rje, 4.4g zsÃ­r, 4.7g szÃ©nhidrÃ¡t)
+- Energizáló cukorkák, cseresznyével és csokoládéval 150g/200g (448.7 kcal, 6.7g fehÃ©rje, 11.3g zsÃ­r, 74.8g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
@@ -38,21 +38,21 @@
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
 |--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2108 kcal (105%) | 2000 kcal | 0 | 2361 kcal (118%) |
-| FehÃ©rje     | 123 g (68%) | 180 g | 57 g | 167 g (93%) |
-| ZsÃ­r        | 121 g (173%) | 70 g | 0 | 123.9 g (177%) |
-| SzÃ©nhidrÃ¡t | 125 g (78%) | 160 g | 35 g | 135.4 g (85%) |
-| Rost         | 21 g (70%) | 30 g | 9 g | 31.2 g (104%) |
-| NÃ¡trium     | 3707 mg (161%) | 2300 mg | 0 | 4247 mg (185%) |
+| KalÃ³ria     | 2486.8 kcal (124%) | 2000 kcal | 0 | 2739.8 kcal (137%) |
+| FehÃ©rje     | 192 g (107%) | 180 g | 0 | 236 g (131%) |
+| ZsÃ­r        | 146.8 g (210%) | 70 g | 0 | 149.7 g (214%) |
+| SzÃ©nhidrÃ¡t | 87.7 g (55%) | 160 g | 72.3 g | 98.1 g (61%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 4599 mg (200%) | 2300 mg | 0 | 5139 mg (223%) |
 
-**Summary of Nutrients:** Calories: 2108 kcal, Protein: 123 g, Fat: 121 g, Carbohydrates: 125 g, Fiber: 21 g, Sodium: 3707 mg
+**Summary of Nutrients:** Calories: 2486.8 kcal, Protein: 192 g, Fat: 146.8 g, Carbohydrates: 87.7 g, Fiber: 0 g, Sodium: 4599 mg
 
 
 **Ã‰telek:**
-- Avokádó sült tojással, bacon, spenót, koktélparadicsom, feta sajt és káposztasaláta olíva keverékkel 300g/400g (528 kcal, 32g fehÃ©rje, 47g zsÃ­r, 11g szÃ©nhidrÃ¡t, 7g rost, 684mg nÃ¡trium)
-- Lassan sült sertéshús zöldbabbal, sült paradicsommal, karamellizált hagymával és szivárványsalátával 350g/500g (611 kcal, 38g fehÃ©rje, 48g zsÃ­r, 34g szÃ©nhidrÃ¡t, 10g rost, 1456mg nÃ¡trium)
-- Pisztrángfilé pirított burgonyával cukkinivel, koktélparadicsommal, szárított paradicsommal, olajbogyóval és kapribogyóval sütőben 350g/500g (598 kcal, 30g fehÃ©rje, 25g zsÃ­r, 35g szÃ©nhidrÃ¡t, 1564mg nÃ¡trium)
-- Raffaello protein cukorka kókuszos és mandula 150g/200g (371 kcal, 23g fehÃ©rje, 1g zsÃ­r, 45g szÃ©nhidrÃ¡t, 4g rost, 3mg nÃ¡trium)
+- Avokádó sült tojással, bacon, spenót, koktélparadicsom, feta sajt és káposztasaláta olíva keverékkel 300g/400g (520.9 kcal, 16.8g fehÃ©rje, 44g zsÃ­r, 8.6g szÃ©nhidrÃ¡t, 1729mg nÃ¡trium)
+- Lassan sült sertéshús zöldbabbal, sült paradicsommal, karamellizált hagymával és szivárványsalátával 350g/500g (633.3 kcal, 76.2g fehÃ©rje, 24.4g zsÃ­r, 18.3g szÃ©nhidrÃ¡t, 904mg nÃ¡trium)
+- Pisztrángfilé sült burgonyával cukkinivel, koktélparadicsommal, szárított paradicsommal, olajbogyóval és kapribogyóval 350g/500g (715.4 kcal, 63.1g fehÃ©rje, 37.8g zsÃ­r, 30.4g szÃ©nhidrÃ¡t, 1769mg nÃ¡trium)
+- Raffaello protein cukorka kókusszal és mandulával 150g/200g (617.2 kcal, 35.9g fehÃ©rje, 40.6g zsÃ­r, 30.4g szÃ©nhidrÃ¡t, 197mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
@@ -63,21 +63,21 @@
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
 |--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1852 kcal (93%) | 2000 kcal | 148 kcal | 2105 kcal (105%) |
-| FehÃ©rje     | 118.2 g (66%) | 180 g | 61.8 g | 162.2 g (90%) |
-| ZsÃ­r        | 76.9 g (110%) | 70 g | 0 | 79.8 g (114%) |
-| SzÃ©nhidrÃ¡t | 104.7 g (65%) | 160 g | 55.3 g | 115.1 g (72%) |
-| Rost         | 22.8 g (76%) | 30 g | 7.2 g | 33 g (110%) |
-| NÃ¡trium     | 4728 mg (206%) | 2300 mg | 0 | 5268 mg (229%) |
+| KalÃ³ria     | 1985.7 kcal (99%) | 2000 kcal | 14.3 kcal | 2238.7 kcal (112%) |
+| FehÃ©rje     | 166.7 g (93%) | 180 g | 13.3 g | 210.7 g (117%) |
+| ZsÃ­r        | 102 g (146%) | 70 g | 0 | 104.9 g (150%) |
+| SzÃ©nhidrÃ¡t | 99.8 g (62%) | 160 g | 60.2 g | 110.2 g (69%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 269245 mg (11706%) | 2300 mg | 0 | 269785 mg (11730%) |
 
-**Summary of Nutrients:** Calories: 1852 kcal, Protein: 118.2 g, Fat: 76.9 g, Carbohydrates: 104.7 g, Fiber: 22.8 g, Sodium: 4728 mg
+**Summary of Nutrients:** Calories: 1985.7 kcal, Protein: 166.7 g, Fat: 102 g, Carbohydrates: 99.8 g, Fiber: 0 g, Sodium: 269245 mg
 
 
 **Ã‰telek:**
-- Pulykamell és saláta keverék citrusfélékkel és nyers zöldségekkel 300g/400g (522 kcal, 43.2g fehÃ©rje, 34.9g zsÃ­r, 12.7g szÃ©nhidrÃ¡t, 4.8g rost, 1122mg nÃ¡trium)
-- Egész penne csirkemellel, feta sajttal, szárított paradicsommal és bébispenóttal 350g/500g (548 kcal, 35g fehÃ©rje, 32g szÃ©nhidrÃ¡t, 11g rost, 1393mg nÃ¡trium)
-- Erdei gombás pite csicseriborsóval, kéksajttal 350g/500g (598 kcal, 24g fehÃ©rje, 24g zsÃ­r, 44g szÃ©nhidrÃ¡t, 5g rost, 1215mg nÃ¡trium)
-- Chia protein puding joghurttal, étcsokoládéval, mogyoróval és kesudióval 150g/200g (184 kcal, 16g fehÃ©rje, 18g zsÃ­r, 16g szÃ©nhidrÃ¡t, 2g rost, 998mg nÃ¡trium)
+- Saláta pulykamellel, citrusfélékkel és nyers zöldségekkel 300g/400g (510.4 kcal, 47.3g fehÃ©rje, 29.4g zsÃ­r, 13.9g szÃ©nhidrÃ¡t, 265943mg nÃ¡trium)
+- Teljeskiörlésű penne csirkemellel, feta sajttal, szárított paradicsommal és bébispenóttal 350g/500g (661.3 kcal, 64.9g fehÃ©rje, 33.7g zsÃ­r, 20.5g szÃ©nhidrÃ¡t, 1376mg nÃ¡trium)
+- Erdei gombaragú polentával és sajttal 350g/500g (303.7 kcal, 12.4g fehÃ©rje, 14.6g zsÃ­r, 33.6g szÃ©nhidrÃ¡t, 1847mg nÃ¡trium)
+- Chia protein puding joghurttal, étcsokoládéval, mogyoróval és kesudióval 150g/200g (510.3 kcal, 42.1g fehÃ©rje, 24.3g zsÃ­r, 31.8g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
@@ -88,21 +88,21 @@
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
 |--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1922 kcal (96%) | 2000 kcal | 78 kcal | 2175 kcal (109%) |
-| FehÃ©rje     | 120 g (67%) | 180 g | 60 g | 164 g (91%) |
-| ZsÃ­r        | 92 g (131%) | 70 g | 0 | 94.9 g (136%) |
-| SzÃ©nhidrÃ¡t | 180 g (113%) | 160 g | 0 | 190.4 g (119%) |
-| Rost         | 37 g (123%) | 30 g | 0 | 47.2 g (157%) |
-| NÃ¡trium     | 4473 mg (194%) | 2300 mg | 0 | 5013 mg (218%) |
+| KalÃ³ria     | 2377.7 kcal (119%) | 2000 kcal | 0 | 2630.7 kcal (132%) |
+| FehÃ©rje     | 169.2 g (94%) | 180 g | 10.8 g | 213.2 g (118%) |
+| ZsÃ­r        | 112.2 g (160%) | 70 g | 0 | 115.1 g (164%) |
+| SzÃ©nhidrÃ¡t | 163.9 g (102%) | 160 g | 0 | 174.3 g (109%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 4048 mg (176%) | 2300 mg | 0 | 4588 mg (199%) |
 
-**Summary of Nutrients:** Calories: 1922 kcal, Protein: 120 g, Fat: 92 g, Carbohydrates: 180 g, Fiber: 37 g, Sodium: 4473 mg
+**Summary of Nutrients:** Calories: 2377.7 kcal, Protein: 169.2 g, Fat: 112.2 g, Carbohydrates: 163.9 g, Fiber: 0 g, Sodium: 4048 mg
 
 
 **Ã‰telek:**
-- Szendvics csirkemellel, tofuval, paprikával és olajbogyó és uborka keverékével (492 kcal, 18g fehÃ©rje, 26g zsÃ­r, 54g szÃ©nhidrÃ¡t, 9g rost, 1182mg nÃ¡trium)
-- Kacsamell csíkok zellerpürével, érett körtével és cseresznyeszósszal (441 kcal, 29g fehÃ©rje, 25g zsÃ­r, 18g szÃ©nhidrÃ¡t, 14g rost, 1686mg nÃ¡trium)
-- Saláta édesburgonyával, feta sajttal, koktélparadicsommal, gránával, darált dióval, olívabogyóval és rukkolával, olívaolaj (637 kcal, 26g fehÃ©rje, 26g zsÃ­r, 53g szÃ©nhidrÃ¡t, 9g rost, 1482mg nÃ¡trium)
-- Papanasi mascarponéval és fehérjeporral (352 kcal, 47g fehÃ©rje, 15g zsÃ­r, 55g szÃ©nhidrÃ¡t, 5g rost, 123mg nÃ¡trium)
+- Szendvics csirkemellel, tofuval, paprikával és olajbogyó és uborka keverékével (529.3 kcal, 59.9g fehÃ©rje, 13.4g zsÃ­r, 36.9g szÃ©nhidrÃ¡t, 1336mg nÃ¡trium)
+- Kacsamell csíkok zellerpürével, érett körtével és cseresznyeszósszal (565.2 kcal, 43.4g fehÃ©rje, 30.1g zsÃ­r, 27.1g szÃ©nhidrÃ¡t, 1415mg nÃ¡trium)
+- Saláta édesburgonyával, feta sajttal, koktélparadicsommal, parmezánnal, darált dióval, olívabogyóval és rukkolával, olívaolaj (618.1 kcal, 25.9g fehÃ©rje, 40.8g zsÃ­r, 32.8g szÃ©nhidrÃ¡t, 1022mg nÃ¡trium)
+- Papanasi mascarponéval és fehérjeporral (665.1 kcal, 40g fehÃ©rje, 27.9g zsÃ­r, 67.1g szÃ©nhidrÃ¡t, 275mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

@@ -9,31 +9,6 @@
 
 ---
 
-# 08/04/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2486.8 kcal (124%) | 2000 kcal | 0 | 2739.8 kcal (137%) |
-| FehÃ©rje     | 192 g (107%) | 180 g | 0 | 236 g (131%) |
-| ZsÃ­r        | 146.8 g (210%) | 70 g | 0 | 149.7 g (214%) |
-| SzÃ©nhidrÃ¡t | 87.7 g (55%) | 160 g | 72.3 g | 98.1 g (61%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 4599 mg (200%) | 2300 mg | 0 | 5139 mg (223%) |
-
-**Summary of Nutrients:** Calories: 2486.8 kcal, Protein: 192 g, Fat: 146.8 g, Carbohydrates: 87.7 g, Fiber: 0 g, Sodium: 4599 mg
-
-
-**Ã‰telek:**
-- Avokádó sült tojással, bacon, spenót, koktélparadicsom, feta sajt és káposztasaláta olíva keverékkel 300g/400g (520.9 kcal, 16.8g fehÃ©rje, 44g zsÃ­r, 8.6g szÃ©nhidrÃ¡t, 1729mg nÃ¡trium)
-- Lassan sült sertéshús zöldbabbal, sült paradicsommal, karamellizált hagymával és szivárványsalátával 350g/500g (633.3 kcal, 76.2g fehÃ©rje, 24.4g zsÃ­r, 18.3g szÃ©nhidrÃ¡t, 904mg nÃ¡trium)
-- Pisztrángfilé sült burgonyával cukkinivel, koktélparadicsommal, szárított paradicsommal, olajbogyóval és kapribogyóval 350g/500g (715.4 kcal, 63.1g fehÃ©rje, 37.8g zsÃ­r, 30.4g szÃ©nhidrÃ¡t, 1769mg nÃ¡trium)
-- Raffaello protein cukorka kókusszal és mandulával 150g/200g (617.2 kcal, 35.9g fehÃ©rje, 40.6g zsÃ­r, 30.4g szÃ©nhidrÃ¡t, 197mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 09/04/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Tortellini ricottával és spenóttal, sajtmártással (497 kcal, 18g fehÃ©rje, 12g zsÃ­r, 40g szÃ©nhidrÃ¡t, 8g rost, 2782mg nÃ¡trium)
 - Tagliata pulykamell rukkola salátával, gránával, gombával, cukkinivel, retekkel, koktélparadicsommal és balzsamecetes szósszal (471 kcal, 29g fehÃ©rje, 13g zsÃ­r, 19g szÃ©nhidrÃ¡t, 1753mg nÃ¡trium)
 - Protein smoothie zabbal, banánnal és mandulatejjel (67 kcal, 40g fehÃ©rje, 0g zsÃ­r, 15g szÃ©nhidrÃ¡t, 2g rost, 18mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 14/04/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1995 kcal (100%) | 2000 kcal | 5 kcal | 2248 kcal (112%) |
+| FehÃ©rje     | 131 g (73%) | 180 g | 49 g | 175 g (97%) |
+| ZsÃ­r        | 76.1 g (109%) | 70 g | 0 | 79 g (113%) |
+| SzÃ©nhidrÃ¡t | 166.4 g (104%) | 160 g | 0 | 176.8 g (111%) |
+| Rost         | 36.3 g (121%) | 30 g | 0 | 46.5 g (155%) |
+| NÃ¡trium     | 4039 mg (176%) | 2300 mg | 0 | 4579 mg (199%) |
+
+**Summary of Nutrients:** Calories: 1995 kcal, Protein: 131 g, Fat: 76.1 g, Carbohydrates: 166.4 g, Fiber: 36.3 g, Sodium: 4039 mg
+
+
+**Ã‰telek:**
+- Lazacfilé kapribogyóval, brokkolival, koktélparadicsommal és spárgával (472 kcal, 38.7g fehÃ©rje, 30.9g zsÃ­r, 10.6g szÃ©nhidrÃ¡t, 4.9g rost, 690mg nÃ¡trium)
+- Lassan főtt marhahús sárgarépával, hagymával, póréhagymával, zellerrel és rizzsel vajjal (469 kcal, 23g fehÃ©rje, 12g zsÃ­r, 32g szÃ©nhidrÃ¡t, 11g rost, 2556mg nÃ¡trium)
+- Citromos csirke borsópürével és bébi sárgarépával (538 kcal, 42g fehÃ©rje, 16g zsÃ­r, 55g szÃ©nhidrÃ¡t, 10g rost, 740mg nÃ¡trium)
+- Csokoládé mousse fehérjeporral és gojival (516 kcal, 27.3g fehÃ©rje, 17.2g zsÃ­r, 68.8g szÃ©nhidrÃ¡t, 10.4g rost, 53mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

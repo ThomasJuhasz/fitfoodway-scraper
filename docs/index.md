@@ -9,31 +9,6 @@
 
 ---
 
-# 10/04/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2377.7 kcal (119%) | 2000 kcal | 0 | 2630.7 kcal (132%) |
-| FehÃ©rje     | 169.2 g (94%) | 180 g | 10.8 g | 213.2 g (118%) |
-| ZsÃ­r        | 112.2 g (160%) | 70 g | 0 | 115.1 g (164%) |
-| SzÃ©nhidrÃ¡t | 163.9 g (102%) | 160 g | 0 | 174.3 g (109%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 4048 mg (176%) | 2300 mg | 0 | 4588 mg (199%) |
-
-**Summary of Nutrients:** Calories: 2377.7 kcal, Protein: 169.2 g, Fat: 112.2 g, Carbohydrates: 163.9 g, Fiber: 0 g, Sodium: 4048 mg
-
-
-**Ã‰telek:**
-- Szendvics csirkemellel, tofuval, paprikával és olajbogyó és uborka keverékével (529.3 kcal, 59.9g fehÃ©rje, 13.4g zsÃ­r, 36.9g szÃ©nhidrÃ¡t, 1336mg nÃ¡trium)
-- Kacsamell csíkok zellerpürével, érett körtével és cseresznyeszósszal (565.2 kcal, 43.4g fehÃ©rje, 30.1g zsÃ­r, 27.1g szÃ©nhidrÃ¡t, 1415mg nÃ¡trium)
-- Saláta édesburgonyával, feta sajttal, koktélparadicsommal, parmezánnal, darált dióval, olívabogyóval és rukkolával, olívaolaj (618.1 kcal, 25.9g fehÃ©rje, 40.8g zsÃ­r, 32.8g szÃ©nhidrÃ¡t, 1022mg nÃ¡trium)
-- Papanasi mascarponéval és fehérjeporral (665.1 kcal, 40g fehÃ©rje, 27.9g zsÃ­r, 67.1g szÃ©nhidrÃ¡t, 275mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 11/04/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Kuszkuszos sertéspörkölt zöldségekkel, savanyúsággal (489 kcal, 26g fehÃ©rje, 21g zsÃ­r, 51g szÃ©nhidrÃ¡t, 8g rost, 1095mg nÃ¡trium)
 - Niçoise saláta tonhalral, főtt burgonyával és zöldbabbal (638 kcal, 24g fehÃ©rje, 19g zsÃ­r, 46g szÃ©nhidrÃ¡t, 9g rost, 4503mg nÃ¡trium)
 - Protein smoothie dinnyével, körtével és ananásszal (303 kcal, 50g fehÃ©rje, 2.3g zsÃ­r, 27.9g szÃ©nhidrÃ¡t, 3.9g rost, 57mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 16/04/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1646 kcal (82%) | 2000 kcal | 354 kcal | 1899 kcal (95%) |
+| FehÃ©rje     | 117.5 g (65%) | 180 g | 62.5 g | 161.5 g (90%) |
+| ZsÃ­r        | 63.4 g (91%) | 70 g | 6.6 g | 66.3 g (95%) |
+| SzÃ©nhidrÃ¡t | 149.3 g (93%) | 160 g | 10.7 g | 159.7 g (100%) |
+| Rost         | 36.1 g (120%) | 30 g | 0 | 46.3 g (154%) |
+| NÃ¡trium     | 7549 mg (328%) | 2300 mg | 0 | 8089 mg (352%) |
+
+**Summary of Nutrients:** Calories: 1646 kcal, Protein: 117.5 g, Fat: 63.4 g, Carbohydrates: 149.3 g, Fiber: 36.1 g, Sodium: 7549 mg
+
+
+**Ã‰telek:**
+- Papara sonkával és gombával, ecetes uborkával (492 kcal, 15g fehÃ©rje, 30g zsÃ­r, 24g szÃ©nhidrÃ¡t, 9g rost, 3519mg nÃ¡trium)
+- Rántott sertéskarajból és kínai zöldségekből (425 kcal, 24g fehÃ©rje, 22g szÃ©nhidrÃ¡t, 14g rost)
+- Céklasaláta quinoával, fetával, vegyes magvakkal, parmezánnal és valerianával (404 kcal, 35g fehÃ©rje, 12g zsÃ­r, 38g szÃ©nhidrÃ¡t, 7g rost, 3710mg nÃ¡trium)
+- Banoffee (325 kcal, 43.5g fehÃ©rje, 21.4g zsÃ­r, 65.3g szÃ©nhidrÃ¡t, 6.1g rost, 320mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

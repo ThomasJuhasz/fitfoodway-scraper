@@ -9,31 +9,6 @@
 
 ---
 
-# 11/04/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2110.8 kcal (106%) | 2000 kcal | 0 | 2363.8 kcal (118%) |
-| FehÃ©rje     | 149 g (83%) | 180 g | 31 g | 193 g (107%) |
-| ZsÃ­r        | 130.3 g (186%) | 70 g | 0 | 133.2 g (190%) |
-| SzÃ©nhidrÃ¡t | 82.1 g (51%) | 160 g | 77.9 g | 92.5 g (58%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 5620 mg (244%) | 2300 mg | 0 | 6160 mg (268%) |
-
-**Summary of Nutrients:** Calories: 2110.8 kcal, Protein: 149 g, Fat: 130.3 g, Carbohydrates: 82.1 g, Fiber: 0 g, Sodium: 5620 mg
-
-
-**Ã‰telek:**
-- Frittata sajttal, zöldhagymával és kaporral, szezonális salátával és prosciuttoval 300g/ 400g (777.8 kcal, 40.5g fehÃ©rje, 59.1g zsÃ­r, 18.9g szÃ©nhidrÃ¡t, 2633mg nÃ¡trium)
-- Marhagulyás burgonyával és vörös babbal 350g/500g (401.1 kcal, 52.2g fehÃ©rje, 9.6g zsÃ­r, 23.2g szÃ©nhidrÃ¡t, 1926mg nÃ¡trium)
-- Saláta bivalymozzarellával,aszalt paradicsommal, olajbogyóval és articsókával 350g/500g (527.8 kcal, 23.6g fehÃ©rje, 38.2g zsÃ­r, 23.6g szÃ©nhidrÃ¡t, 943mg nÃ¡trium)
-- Hidegen sajtolt avokádó, spenót, zeller, körte, kelkáposzta, citrom, chia mag és fehérjepor leve   330 ml (404.1 kcal, 32.7g fehÃ©rje, 23.4g zsÃ­r, 16.4g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 13/04/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Rántott sertéskarajból és kínai zöldségekből (425 kcal, 24g fehÃ©rje, 22g szÃ©nhidrÃ¡t, 14g rost)
 - Céklasaláta quinoával, fetával, vegyes magvakkal, parmezánnal és valerianával (404 kcal, 35g fehÃ©rje, 12g zsÃ­r, 38g szÃ©nhidrÃ¡t, 7g rost, 3710mg nÃ¡trium)
 - Banoffee (325 kcal, 43.5g fehÃ©rje, 21.4g zsÃ­r, 65.3g szÃ©nhidrÃ¡t, 6.1g rost, 320mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 17/04/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1532 kcal (77%) | 2000 kcal | 468 kcal | 1785 kcal (89%) |
+| FehÃ©rje     | 117.6 g (65%) | 180 g | 62.4 g | 161.6 g (90%) |
+| ZsÃ­r        | 56.3 g (80%) | 70 g | 13.7 g | 59.2 g (85%) |
+| SzÃ©nhidrÃ¡t | 173.6 g (109%) | 160 g | 0 | 184 g (115%) |
+| Rost         | 27.4 g (91%) | 30 g | 2.6 g | 37.6 g (125%) |
+| NÃ¡trium     | 7658 mg (333%) | 2300 mg | 0 | 8198 mg (356%) |
+
+**Summary of Nutrients:** Calories: 1532 kcal, Protein: 117.6 g, Fat: 56.3 g, Carbohydrates: 173.6 g, Fiber: 27.4 g, Sodium: 7658 mg
+
+
+**Ã‰telek:**
+- Caprese saláta prosciuttoval és kekszet vegyes magvakkal (492 kcal, 15g fehÃ©rje, 20g zsÃ­r, 69g szÃ©nhidrÃ¡t, 9g rost, 4182mg nÃ¡trium)
+- Sertésszelet baconnel, kelbimbóval, gombával, brokkolival és vörösboros szósszal (376 kcal, 24g fehÃ©rje, 17g zsÃ­r, 19g szÃ©nhidrÃ¡t, 8g rost, 2782mg nÃ¡trium)
+- Tőkehalfilé salátakeverékkel, rukkola, retekkel, paradicsommal, uborkával, kapribogyóval és tejszínes szósszal (348 kcal, 33.6g fehÃ©rje, 15.6g zsÃ­r, 18.2g szÃ©nhidrÃ¡t, 3.8g rost, 690mg nÃ¡trium)
+- Fehérjelé kesudióval, datolyával, banánnal, fahéjjal és agávé sziruppal (316 kcal, 45g fehÃ©rje, 3.7g zsÃ­r, 67.4g szÃ©nhidrÃ¡t, 6.6g rost, 4mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

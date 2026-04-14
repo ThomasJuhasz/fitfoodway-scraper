@@ -9,31 +9,6 @@
 
 ---
 
-# 13/04/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1610.7 kcal (81%) | 2000 kcal | 389.3 kcal | 1863.7 kcal (93%) |
-| FehÃ©rje     | 116.5 g (65%) | 180 g | 63.5 g | 160.5 g (89%) |
-| ZsÃ­r        | 73.4 g (105%) | 70 g | 0 | 76.3 g (109%) |
-| SzÃ©nhidrÃ¡t | 124.2 g (78%) | 160 g | 35.8 g | 134.6 g (84%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 1808 mg (79%) | 2300 mg | 492 mg | 2348 mg (102%) |
-
-**Summary of Nutrients:** Calories: 1610.7 kcal, Protein: 116.5 g, Fat: 73.4 g, Carbohydrates: 124.2 g, Fiber: 0 g, Sodium: 1808 mg
-
-
-**Ã‰telek:**
-- Marhahús fasirt tojással  és zöldségekkel (508.4 kcal, 38.4g fehÃ©rje, 25.7g zsÃ­r, 26.5g szÃ©nhidrÃ¡t, 1218mg nÃ¡trium)
-- Tortellini ricottával és spenóttal, sajtmártással (569.4 kcal, 32.3g fehÃ©rje, 32.9g zsÃ­r, 39.8g szÃ©nhidrÃ¡t, 511mg nÃ¡trium)
-- Pulykamell tagliata rukkola salátával, gránával, gombával, cukkinivel, retekkel, koktélparadicsommal és balzsamecetes szósszal (111.7 kcal, 13.4g fehÃ©rje, 4.6g zsÃ­r, 4.3g szÃ©nhidrÃ¡t)
-- Protein smoothie zabbal, banánnal és mandulatejjel (421.2 kcal, 32.4g fehÃ©rje, 10.2g zsÃ­r, 53.6g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 14/04/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Sertésszelet baconnel, kelbimbóval, gombával, brokkolival és vörösboros szósszal (757.6 kcal, 75.8g fehÃ©rje, 41.7g zsÃ­r, 10.3g szÃ©nhidrÃ¡t, 1729mg nÃ¡trium)
 - Tőkehalfilé salátakeverékkel, rukkolával, retekkel, paradicsommal, uborkával, kapribogyóval és tejszínes szósszal (83.5 kcal, 8.3g fehÃ©rje, 4.1g zsÃ­r, 3.1g szÃ©nhidrÃ¡t)
 - Fehérje smoothie kesudióval, datolyával, banánnal, fahéjjal és agávé sziruppal (356.6 kcal, 25.1g fehÃ©rje, 9.6g zsÃ­r, 45.9g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 18/04/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 0 kcal (0%) | 2000 kcal | 2000 kcal | 253 kcal (13%) |
+| FehÃ©rje     | 0 g (0%) | 180 g | 180 g | 44 g (24%) |
+| ZsÃ­r        | 0 g (0%) | 70 g | 70 g | 2.9 g (4%) |
+| SzÃ©nhidrÃ¡t | 0 g (0%) | 160 g | 160 g | 10.4 g (7%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 0 mg (0%) | 2300 mg | 2300 mg | 540 mg (23%) |
+
+**Summary of Nutrients:** Calories: 0 kcal, Protein: 0 g, Fat: 0 g, Carbohydrates: 0 g, Fiber: 0 g, Sodium: 0 mg
+
+
+**Ã‰telek:**
+-  ()
+-  ()
+-  ()
+-  ()
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

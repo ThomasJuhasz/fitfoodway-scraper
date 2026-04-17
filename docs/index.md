@@ -9,31 +9,6 @@
 
 ---
 
-# 16/04/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1980.4 kcal (99%) | 2000 kcal | 19.6 kcal | 2233.4 kcal (112%) |
-| FehÃ©rje     | 161 g (89%) | 180 g | 19 g | 205 g (114%) |
-| ZsÃ­r        | 110.2 g (157%) | 70 g | 0 | 113.1 g (162%) |
-| SzÃ©nhidrÃ¡t | 84.4 g (53%) | 160 g | 75.6 g | 94.8 g (59%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 6485 mg (282%) | 2300 mg | 0 | 7025 mg (305%) |
-
-**Summary of Nutrients:** Calories: 1980.4 kcal, Protein: 161 g, Fat: 110.2 g, Carbohydrates: 84.4 g, Fiber: 0 g, Sodium: 6485 mg
-
-
-**Ã‰telek:**
-- Rántotta sonkával és gombával, ecetes uborkával (314.2 kcal, 32g fehÃ©rje, 18g zsÃ­r, 5.4g szÃ©nhidrÃ¡t, 2790mg nÃ¡trium)
-- Szeletelt sertéskaraj és kínai zöldségek (425 kcal, 46.6g fehÃ©rje, 21.1g zsÃ­r, 10.2g szÃ©nhidrÃ¡t, 1572mg nÃ¡trium)
-- Céklasaláta quinoával, fetával, vegyes magvakkal, parmezánnal és  madár saláával (782.9 kcal, 48.5g fehÃ©rje, 54.7g zsÃ­r, 21.3g szÃ©nhidrÃ¡t, 1769mg nÃ¡trium)
-- Banoffee (458.3 kcal, 33.9g fehÃ©rje, 16.4g zsÃ­r, 47.5g szÃ©nhidrÃ¡t, 354mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 17/04/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Egész penne paradicsomszósszal, bazsalikommal, rakétával és friss mozzarellával (766 kcal, 46g fehÃ©rje, 9g zsÃ­r, 128g szÃ©nhidrÃ¡t, 16g rost, 1557mg nÃ¡trium)
 - Csirke salata (428 kcal, 42g fehÃ©rje, 8g zsÃ­r, 48g szÃ©nhidrÃ¡t, 10g rost, 1496mg nÃ¡trium)
 - Parfé joghurttal, fehérjeporral és mangóval (271 kcal, 1g fehÃ©rje, 0g zsÃ­r, 45g szÃ©nhidrÃ¡t, 4g rost, 3mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 22/04/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1656 kcal (83%) | 2000 kcal | 344 kcal | 1909 kcal (95%) |
+| FehÃ©rje     | 119 g (66%) | 180 g | 61 g | 163 g (91%) |
+| ZsÃ­r        | 74 g (106%) | 70 g | 0 | 76.9 g (110%) |
+| SzÃ©nhidrÃ¡t | 167 g (104%) | 160 g | 0 | 177.4 g (111%) |
+| Rost         | 50 g (167%) | 30 g | 0 | 60.2 g (201%) |
+| NÃ¡trium     | 8269 mg (360%) | 2300 mg | 0 | 8809 mg (383%) |
+
+**Summary of Nutrients:** Calories: 1656 kcal, Protein: 119 g, Fat: 74 g, Carbohydrates: 167 g, Fiber: 50 g, Sodium: 8269 mg
+
+
+**Ã‰telek:**
+- Frittata gombával, csemege sonkával, paradicsomos mozzarellás karfiollal zsemlemorzsában, parmezánnal (382 kcal, 17g fehÃ©rje, 28g zsÃ­r, 15g szÃ©nhidrÃ¡t, 4g rost, 2542mg nÃ¡trium)
+- Csirkecomb mediterrán fűszernövényekkel tabulé salátával (421 kcal, 33g fehÃ©rje, 11g zsÃ­r, 60g szÃ©nhidrÃ¡t, 22g rost, 1926mg nÃ¡trium)
+- Lazacfilé rizzsel, brokkoli, pleurotus gombával és cukkinivel (429 kcal, 29g fehÃ©rje, 17g zsÃ­r, 40g szÃ©nhidrÃ¡t, 8g rost, 3795mg nÃ¡trium)
+- Chia protein puding étcsokoládéval és cséresznyével (424 kcal, 40g fehÃ©rje, 18g zsÃ­r, 52g szÃ©nhidrÃ¡t, 16g rost, 6mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

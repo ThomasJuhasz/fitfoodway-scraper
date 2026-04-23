@@ -9,31 +9,6 @@
 
 ---
 
-# 22/04/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1993.8 kcal (100%) | 2000 kcal | 6.2 kcal | 2246.8 kcal (112%) |
-| FehÃ©rje     | 179.9 g (100%) | 180 g | 0.1 g | 223.9 g (124%) |
-| ZsÃ­r        | 95.1 g (136%) | 70 g | 0 | 98 g (140%) |
-| SzÃ©nhidrÃ¡t | 95.4 g (60%) | 160 g | 64.6 g | 105.8 g (66%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 4166 mg (181%) | 2300 mg | 0 | 4706 mg (205%) |
-
-**Summary of Nutrients:** Calories: 1993.8 kcal, Protein: 179.9 g, Fat: 95.1 g, Carbohydrates: 95.4 g, Fiber: 0 g, Sodium: 4166 mg
-
-
-**Ã‰telek:**
-- Frittata gombával, csemege sonkával,  mozzarellás paradicsommal és rántott karfiollal (548.5 kcal, 47.2g fehÃ©rje, 32.4g zsÃ­r, 14.7g szÃ©nhidrÃ¡t, 1808mg nÃ¡trium)
-- Csirkecomb mediterrán fűszernövényekkel tabulé salátával (387.1 kcal, 46.6g fehÃ©rje, 10g zsÃ­r, 24.4g szÃ©nhidrÃ¡t, 1022mg nÃ¡trium)
-- Lazacfilé rizzsel, brokkoli, laska gombával és cukkinivel (765.4 kcal, 59g fehÃ©rje, 38.4g zsÃ­r, 43.8g szÃ©nhidrÃ¡t, 1297mg nÃ¡trium)
-- Chia protein puding étcsokoládéval és cséresznyével (292.8 kcal, 27.1g fehÃ©rje, 14.3g zsÃ­r, 12.5g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 23/04/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Teljes kiőrlésű penne tészta erdei gombával és prosciutto sonka 350g/500g (640 kcal, 31g fehÃ©rje, 16g zsÃ­r, 93g szÃ©nhidrÃ¡t, 12g rost, 4358mg nÃ¡trium)
 - "Caponata" csirkehússal: olaszos pörkölt csirkehússal, padlizsán, főzőtök, paprika, paradicsom és bazsalikom 350g/500g (270 kcal, 21g fehÃ©rje, 13g zsÃ­r, 19g szÃ©nhidrÃ¡t, 6g rost, 608mg nÃ¡trium)
 - Friss sajttorta 150g/200g (352 kcal, 8g fehÃ©rje, 18g zsÃ­r, 38g szÃ©nhidrÃ¡t, 14g rost, 89mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 28/04/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1523 kcal (76%) | 2000 kcal | 477 kcal | 1776 kcal (89%) |
+| FehÃ©rje     | 125 g (69%) | 180 g | 55 g | 169 g (94%) |
+| ZsÃ­r        | 75 g (107%) | 70 g | 0 | 77.9 g (111%) |
+| SzÃ©nhidrÃ¡t | 72 g (45%) | 160 g | 88 g | 82.4 g (52%) |
+| Rost         | 26 g (87%) | 30 g | 4 g | 36.2 g (121%) |
+| NÃ¡trium     | 4241 mg (184%) | 2300 mg | 0 | 4781 mg (208%) |
+
+**Summary of Nutrients:** Calories: 1523 kcal, Protein: 125 g, Fat: 75 g, Carbohydrates: 72 g, Fiber: 26 g, Sodium: 4241 mg
+
+
+**Ã‰telek:**
+- Csirke tagliata rukkolával, parmezán sajt, cherry paradicsom, kapri és citromos öntet 300g/400g (339 kcal, 30g fehÃ©rje, 22g zsÃ­r, 5g szÃ©nhidrÃ¡t, 2g rost, 556mg nÃ¡trium)
+- Sertés szűzpecsenye szalonnával (bacon), zöldpaszuly, zeller és édes-savanyú szósz 350g/500g (483 kcal, 43g fehÃ©rje, 22g zsÃ­r, 8g szÃ©nhidrÃ¡t, 3g rost, 811mg nÃ¡trium)
+- Süllő filé borsópürével, brokkoli és baby répa 350g/500g (276 kcal, 20g fehÃ©rje, 9g zsÃ­r, 33g szÃ©nhidrÃ¡t, 8g rost, 2782mg nÃ¡trium)
+- Chia protein puding tiramisuval 150g/200g (425 kcal, 32g fehÃ©rje, 22g zsÃ­r, 26g szÃ©nhidrÃ¡t, 13g rost, 92mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

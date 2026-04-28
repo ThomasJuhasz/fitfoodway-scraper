@@ -9,31 +9,6 @@
 
 ---
 
-# 27/04/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1115 kcal (56%) | 2000 kcal | 885 kcal | 1368 kcal (68%) |
-| FehÃ©rje     | 91 g (51%) | 180 g | 89 g | 135 g (75%) |
-| ZsÃ­r        | 54.4 g (78%) | 70 g | 15.6 g | 57.3 g (82%) |
-| SzÃ©nhidrÃ¡t | 71.3 g (45%) | 160 g | 88.7 g | 81.7 g (51%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 3969 mg (173%) | 2300 mg | 0 | 4509 mg (196%) |
-
-**Summary of Nutrients:** Calories: 1115 kcal, Protein: 91 g, Fat: 54.4 g, Carbohydrates: 71.3 g, Fiber: 0 g, Sodium: 3969 mg
-
-
-**Ã‰telek:**
-- Mediterrán saláta rákkal, parmezán sajt, narancs, vörös áfonya és cherry paradicsom 300g/400g (143.1 kcal, 14.2g fehÃ©rje, 8g zsÃ­r, 3g szÃ©nhidrÃ¡t, 786mg nÃ¡trium)
-- Teljes kiőrlésű penne tészta erdei gombával és prosciutto sonka 350g/500g (576.2 kcal, 43.4g fehÃ©rje, 32.4g zsÃ­r, 37.3g szÃ©nhidrÃ¡t, 3026mg nÃ¡trium)
-- "Caponata" csirkehússal: olaszos pörkölt csirkehússal, padlizsán, főzőtök, paprika, paradicsom és bazsalikom 350g/500g (114.4 kcal, 17g fehÃ©rje, 3.4g zsÃ­r, 2.5g szÃ©nhidrÃ¡t)
-- Sajttorta 150g/200g (281.3 kcal, 16.4g fehÃ©rje, 10.6g zsÃ­r, 28.5g szÃ©nhidrÃ¡t, 157mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 28/04/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Marha steak zöldbors szósszal és parmezánnal sütőben ízesített zöldségekkel 350g/500g (476 kcal, 31g fehÃ©rje, 12g zsÃ­r, 93g szÃ©nhidrÃ¡t, 14g rost, 3686mg nÃ¡trium)
 - Kebab tányéron tálalva 350g/500g (376 kcal, 32g fehÃ©rje, 24g zsÃ­r, 19g szÃ©nhidrÃ¡t, 8g rost, 2782mg nÃ¡trium)
 - Smoothie mandulatejjel, banánnal, kenderliszttel, mézzel 330ml (184 kcal, 19g fehÃ©rje, 3.8g zsÃ­r, 36.4g szÃ©nhidrÃ¡t, 7.5g rost, 87mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 02/05/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1482 kcal (74%) | 2000 kcal | 518 kcal | 1735 kcal (87%) |
+| FehÃ©rje     | 117 g (65%) | 180 g | 63 g | 161 g (89%) |
+| ZsÃ­r        | 23 g (33%) | 70 g | 47 g | 25.9 g (37%) |
+| SzÃ©nhidrÃ¡t | 106 g (66%) | 160 g | 54 g | 116.4 g (73%) |
+| Rost         | 8 g (27%) | 30 g | 22 g | 18.2 g (61%) |
+| NÃ¡trium     | 2142 mg (93%) | 2300 mg | 158 mg | 2682 mg (117%) |
+
+**Summary of Nutrients:** Calories: 1482 kcal, Protein: 117 g, Fat: 23 g, Carbohydrates: 106 g, Fiber: 8 g, Sodium: 2142 mg
+
+
+**Ã‰telek:**
+- Papara feta sajttal és olajbogyóval 300g/400g (343 kcal, 15g fehÃ©rje, 18g szÃ©nhidrÃ¡t, 3g rost, 1166mg nÃ¡trium)
+- Spenótos csirkemáj 350g/500g (408 kcal, 36g fehÃ©rje, 17g zsÃ­r, 24g szÃ©nhidrÃ¡t, 4g rost, 386mg nÃ¡trium)
+- Csirkemell fehérboros szósszal és rizzsel 350g/500g (526 kcal, 56g fehÃ©rje, 36g szÃ©nhidrÃ¡t, 1g rost, 525mg nÃ¡trium)
+- Katalán krém fehérjeporral és karamellizált mogyoróval 150g/ 200g (205 kcal, 10g fehÃ©rje, 6g zsÃ­r, 28g szÃ©nhidrÃ¡t, 0g rost, 65mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

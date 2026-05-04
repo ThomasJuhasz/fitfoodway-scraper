@@ -13,21 +13,21 @@
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
 |--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1687 kcal (84%) | 2000 kcal | 313 kcal | 1940 kcal (97%) |
-| FehÃ©rje     | 114 g (63%) | 180 g | 66 g | 158 g (88%) |
-| ZsÃ­r        | 95 g (136%) | 70 g | 0 | 97.9 g (140%) |
-| SzÃ©nhidrÃ¡t | 215 g (134%) | 160 g | 0 | 225.4 g (141%) |
-| Rost         | 47 g (157%) | 30 g | 0 | 57.2 g (191%) |
-| NÃ¡trium     | 3481 mg (151%) | 2300 mg | 0 | 4021 mg (175%) |
+| KalÃ³ria     | 1974.3 kcal (99%) | 2000 kcal | 25.7 kcal | 2227.3 kcal (111%) |
+| FehÃ©rje     | 204.7 g (114%) | 180 g | 0 | 248.7 g (138%) |
+| ZsÃ­r        | 69.4 g (99%) | 70 g | 0.6 g | 72.3 g (103%) |
+| SzÃ©nhidrÃ¡t | 137.3 g (86%) | 160 g | 22.7 g | 147.7 g (92%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 2240 mg (97%) | 2300 mg | 60 mg | 2780 mg (121%) |
 
-**Summary of Nutrients:** Calories: 1687 kcal, Protein: 114 g, Fat: 95 g, Carbohydrates: 215 g, Fiber: 47 g, Sodium: 3481 mg
+**Summary of Nutrients:** Calories: 1974.3 kcal, Protein: 204.7 g, Fat: 69.4 g, Carbohydrates: 137.3 g, Fiber: 0 g, Sodium: 2240 mg
 
 
 **Ã‰telek:**
-- Haloumi, tofu és bébispenót, paprika, magvak, dió és avokádó keveréke (512 kcal, 19g fehÃ©rje, 44g zsÃ­r, 46g szÃ©nhidrÃ¡t, 16g rost, 670mg nÃ¡trium)
-- Sertés pörkölt gombával és kuszkusszal (516 kcal, 43g fehÃ©rje, 17g zsÃ­r, 54g szÃ©nhidrÃ¡t, 8g rost, 1318mg nÃ¡trium)
-- Pulykamell pirított vöröslencsével és párolt káposzta salátával (489 kcal, 38g fehÃ©rje, 21g zsÃ­r, 71g szÃ©nhidrÃ¡t, 19g rost, 1410mg nÃ¡trium)
-- Fehérjepor tejjel, rizzsel, áfonyával, fahéjjal és vaníliával (170 kcal, 14g fehÃ©rje, 13g zsÃ­r, 44g szÃ©nhidrÃ¡t, 4g rost, 83mg nÃ¡trium)
+- Haloumi, tofu és bébispenót, paprika, magvak, dió és avokádó keveréke (410.7 kcal, 18.2g fehÃ©rje, 30.6g zsÃ­r, 12.1g szÃ©nhidrÃ¡t, 157mg nÃ¡trium)
+- Sertés pörkölt gombával és kuszkusszal (627.3 kcal, 70.7g fehÃ©rje, 25.2g zsÃ­r, 36.4g szÃ©nhidrÃ¡t, 1022mg nÃ¡trium)
+- Pulykamell pirított vöröslencsével és párolt káposzta salátával (536.5 kcal, 81.7g fehÃ©rje, 5.5g zsÃ­r, 35.3g szÃ©nhidrÃ¡t, 1022mg nÃ¡trium)
+- Fehérje tejberizs áfonyával, fahéjjal és vaníliával (399.8 kcal, 34.1g fehÃ©rje, 8.1g zsÃ­r, 53.5g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

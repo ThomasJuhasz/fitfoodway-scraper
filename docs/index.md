@@ -9,31 +9,6 @@
 
 ---
 
-# 18/05/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1395.4 kcal (70%) | 2000 kcal | 604.6 kcal | 1648.4 kcal (82%) |
-| FehÃ©rje     | 148 g (82%) | 180 g | 32 g | 192 g (107%) |
-| ZsÃ­r        | 49.4 g (71%) | 70 g | 20.6 g | 52.3 g (75%) |
-| SzÃ©nhidrÃ¡t | 94.2 g (59%) | 160 g | 65.8 g | 104.6 g (65%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 2673 mg (116%) | 2300 mg | 0 | 3213 mg (140%) |
-
-**Summary of Nutrients:** Calories: 1395.4 kcal, Protein: 148 g, Fat: 49.4 g, Carbohydrates: 94.2 g, Fiber: 0 g, Sodium: 2673 mg
-
-
-**Ã‰telek:**
-- Csirkemell natúr burgonyával, brokkolival és koktélparadicsommal 300g/400g (284.4 kcal, 32.8g fehÃ©rje, 3.1g zsÃ­r, 29.7g szÃ©nhidrÃ¡t, 1258mg nÃ¡trium)
-- Sertésszűz mustáros szószban sütőtökpürével, gombával és brokkolival 350g/500g (544.7 kcal, 62.4g fehÃ©rje, 22.4g zsÃ­r, 26.8g szÃ©nhidrÃ¡t, 1258mg nÃ¡trium)
-- Saláta pulykamellel, szalonnával, főtt tojással, gorgonzolával, parmezánnal és joghurtos szósszal 350g/500g (147.9 kcal, 19.6g fehÃ©rje, 6.8g zsÃ­r, 1.6g szÃ©nhidrÃ¡t)
-- Protein smoothie banánnal, mogyoróvajjal és szentjánoskenyérrel 330 ml (418.4 kcal, 33.2g fehÃ©rje, 17.1g zsÃ­r, 36.1g szÃ©nhidrÃ¡t, 157mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 19/05/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Sertésszelet joghurtos kapros szósszal, párolt borsóval és sárgababbal 350g/500g (515.1 kcal, 51.6g fehÃ©rje, 28g zsÃ­r, 11.5g szÃ©nhidrÃ¡t, 943mg nÃ¡trium)
 - Tészta tofuval, garnélarákkal és zöldségekkel 350g/500g (515.1 kcal, 51.6g fehÃ©rje, 28g zsÃ­r, 11.5g szÃ©nhidrÃ¡t, 943mg nÃ¡trium)
 - Smoothie banánnal, spenóttal, zöldalmával, kivivel, spirulinával és kelkáposztaporral 330 ml (320.6 kcal, 31.8g fehÃ©rje, 5.5g zsÃ­r, 38.7g szÃ©nhidrÃ¡t, 314mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 23/05/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1463.9 kcal (73%) | 2000 kcal | 536.1 kcal | 1716.9 kcal (86%) |
+| FehÃ©rje     | 101.1 g (56%) | 180 g | 78.9 g | 145.1 g (81%) |
+| ZsÃ­r        | 73.2 g (105%) | 70 g | 0 | 76.1 g (109%) |
+| SzÃ©nhidrÃ¡t | 87.5 g (55%) | 160 g | 72.5 g | 97.9 g (61%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 4362 mg (190%) | 2300 mg | 0 | 4902 mg (213%) |
+
+**Summary of Nutrients:** Calories: 1463.9 kcal, Protein: 101.1 g, Fat: 73.2 g, Carbohydrates: 87.5 g, Fiber: 0 g, Sodium: 4362 mg
+
+
+**Ã‰telek:**
+- Csemege sertéskaraj, sült burgonya krokett és spanyol saláta 300g/400g (441.5 kcal, 31.9g fehÃ©rje, 17.7g zsÃ­r, 34.9g szÃ©nhidrÃ¡t, 2397mg nÃ¡trium)
+- Csirkepörkölt padlizsánnal, paprikával, paradicsommal, lencsével és bazsalikommal 350g/500g (418 kcal, 27.2g fehÃ©rje, 25g zsÃ­r, 15.8g szÃ©nhidrÃ¡t, 865mg nÃ¡trium)
+- Sült marhahúsgombóc zöldségekkel és tejfölös szósszal 350g/500g (526.5 kcal, 39.8g fehÃ©rje, 29.1g zsÃ­r, 23.9g szÃ©nhidrÃ¡t, 1061mg nÃ¡trium)
+- Protein smoothie zabbal, banánnal és eperrel 330ml (77.9 kcal, 2.2g fehÃ©rje, 1.4g zsÃ­r, 12.9g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

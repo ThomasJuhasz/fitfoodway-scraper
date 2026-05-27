@@ -9,31 +9,6 @@
 
 ---
 
-# 26/05/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 916 kcal (46%) | 2000 kcal | 1084 kcal | 1169 kcal (58%) |
-| FehÃ©rje     | 93 g (52%) | 180 g | 87 g | 137 g (76%) |
-| ZsÃ­r        | 38.9 g (56%) | 70 g | 31.1 g | 41.8 g (60%) |
-| SzÃ©nhidrÃ¡t | 49.9 g (31%) | 160 g | 110.1 g | 60.3 g (38%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 1808 mg (79%) | 2300 mg | 492 mg | 2348 mg (102%) |
-
-**Summary of Nutrients:** Calories: 916 kcal, Protein: 93 g, Fat: 38.9 g, Carbohydrates: 49.9 g, Fiber: 0 g, Sodium: 1808 mg
-
-
-**Ã‰telek:**
-- Frittata csemege karajjal, feta sajttal és zöldhagymával, brokkolival, póréhagymával, koktélparadicsommal és olajbogyóval (419.7 kcal, 48.2g fehÃ©rje, 21.2g zsÃ­r, 7.8g szÃ©nhidrÃ¡t, 1808mg nÃ¡trium)
-- Sertés szelet magvakkal és barna szósszal, rizzsel, paradicsommal és zöldbabbal tejszínes szószban (159.1 kcal, 11.7g fehÃ©rje, 7.6g zsÃ­r, 11.2g szÃ©nhidrÃ¡t)
-- Marha raguval, bulgurral és paradicsomszósszal töltött paprika (107 kcal, 10.4g fehÃ©rje, 2.8g zsÃ­r, 9.5g szÃ©nhidrÃ¡t)
-- Protein smoothie kókusztejjel, banánnal és szentjánoskenyérrel (230.2 kcal, 22.7g fehÃ©rje, 7.3g zsÃ­r, 21.4g szÃ©nhidrÃ¡t, 0mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 27/05/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Milánó csirke parmezánnal, paradicsomszósszal és rukkola salátával 350g/500g (710.7 kcal, 64.7g fehÃ©rje, 34.4g zsÃ­r, 31g szÃ©nhidrÃ¡t, 1847mg nÃ¡trium)
 - Lassan sült sertéscomb paradicsomszószban rizs curryvel, csicseriborsóval és spenóttal 350g/500g (643.3 kcal, 57.4g fehÃ©rje, 32g zsÃ­r, 31.7g szÃ©nhidrÃ¡t, 1258mg nÃ¡trium)
 - Sárgarépapuding mandulatejjel, mákkal, kókusz- és fehérjeporral 150g/200g (330.9 kcal, 33.1g fehÃ©rje, 16.6g zsÃ­r, 18.1g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 01/06/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 2370.2 kcal (119%) | 2000 kcal | 0 | 2623.2 kcal (131%) |
+| FehÃ©rje     | 204.2 g (113%) | 180 g | 0 | 248.2 g (138%) |
+| ZsÃ­r        | 82.9 g (118%) | 70 g | 0 | 85.8 g (123%) |
+| SzÃ©nhidrÃ¡t | 199.9 g (125%) | 160 g | 0 | 210.3 g (131%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 5109 mg (222%) | 2300 mg | 0 | 5649 mg (246%) |
+
+**Summary of Nutrients:** Calories: 2370.2 kcal, Protein: 204.2 g, Fat: 82.9 g, Carbohydrates: 199.9 g, Fiber: 0 g, Sodium: 5109 mg
+
+
+**Ã‰telek:**
+- Céklás humusz haloumival, tofuval, ricotta sajttal, tahini pasztával, szezámmaggal, nyers zöldségsalátával és teljes kiőrlésű kenyérrel 300g/400g (584.1 kcal, 22.2g fehÃ©rje, 28g zsÃ­r, 51.3g szÃ©nhidrÃ¡t, 1100mg nÃ¡trium)
+- Sertés szelet és gomba szósszal barnarizses rizottóval, spenóttal, fenyőbimbóval, parmezánnal és zöldekkel 350g/500g (764.4 kcal, 73.5g fehÃ©rje, 17.9g zsÃ­r, 80.5g szÃ©nhidrÃ¡t, 1769mg nÃ¡trium)
+- Pulykamell barna szósszal, karfiol, brokkoli, burgonya, paprika, sajt és articsóka au gratin 350g/500g (533.3 kcal, 73.9g fehÃ©rje, 21.7g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 1808mg nÃ¡trium)
+- Tejberizs fehérje porral, málnával és fehér csokoládéval 150g/200g (488.4 kcal, 34.6g fehÃ©rje, 15.3g zsÃ­r, 59.7g szÃ©nhidrÃ¡t, 432mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

@@ -9,31 +9,6 @@
 
 ---
 
-# 01/06/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2370.2 kcal (119%) | 2000 kcal | 0 | 2623.2 kcal (131%) |
-| FehÃ©rje     | 204.2 g (113%) | 180 g | 0 | 248.2 g (138%) |
-| ZsÃ­r        | 82.9 g (118%) | 70 g | 0 | 85.8 g (123%) |
-| SzÃ©nhidrÃ¡t | 199.9 g (125%) | 160 g | 0 | 210.3 g (131%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 5109 mg (222%) | 2300 mg | 0 | 5649 mg (246%) |
-
-**Summary of Nutrients:** Calories: 2370.2 kcal, Protein: 204.2 g, Fat: 82.9 g, Carbohydrates: 199.9 g, Fiber: 0 g, Sodium: 5109 mg
-
-
-**Ã‰telek:**
-- Céklás humusz haloumival, tofuval, ricotta sajttal, tahini pasztával, szezámmaggal, nyers zöldségsalátával és teljes kiőrlésű kenyérrel 300g/400g (584.1 kcal, 22.2g fehÃ©rje, 28g zsÃ­r, 51.3g szÃ©nhidrÃ¡t, 1100mg nÃ¡trium)
-- Sertés szelet és gomba szósszal barnarizses rizottóval, spenóttal, fenyőbimbóval, parmezánnal és zöldekkel 350g/500g (764.4 kcal, 73.5g fehÃ©rje, 17.9g zsÃ­r, 80.5g szÃ©nhidrÃ¡t, 1769mg nÃ¡trium)
-- Pulykamell barna szósszal, karfiol, brokkoli, burgonya, paprika, sajt és articsóka au gratin 350g/500g (533.3 kcal, 73.9g fehÃ©rje, 21.7g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 1808mg nÃ¡trium)
-- Tejberizs fehérje porral, málnával és fehér csokoládéval 150g/200g (488.4 kcal, 34.6g fehÃ©rje, 15.3g zsÃ­r, 59.7g szÃ©nhidrÃ¡t, 432mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 02/06/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Kacsamell csíkok zellerpürével, érett körtével és cseresznyeszósszal (565.2 kcal, 43.4g fehÃ©rje, 30.1g zsÃ­r, 27.1g szÃ©nhidrÃ¡t, 1415mg nÃ¡trium)
 - Saláta édesburgonyával, feta sajttal, koktélparadicsommal, parmezánnal, darált dióval, olívabogyóval és rukkolával, olívaolaj (618.1 kcal, 25.9g fehÃ©rje, 40.8g zsÃ­r, 32.8g szÃ©nhidrÃ¡t, 1022mg nÃ¡trium)
 - Papanasi mascarponéval és fehérjeporral (665.1 kcal, 40g fehÃ©rje, 27.9g zsÃ­r, 67.1g szÃ©nhidrÃ¡t, 275mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 06/06/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 2110.8 kcal (106%) | 2000 kcal | 0 | 2363.8 kcal (118%) |
+| FehÃ©rje     | 149 g (83%) | 180 g | 31 g | 193 g (107%) |
+| ZsÃ­r        | 130.3 g (186%) | 70 g | 0 | 133.2 g (190%) |
+| SzÃ©nhidrÃ¡t | 82.1 g (51%) | 160 g | 77.9 g | 92.5 g (58%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 5620 mg (244%) | 2300 mg | 0 | 6160 mg (268%) |
+
+**Summary of Nutrients:** Calories: 2110.8 kcal, Protein: 149 g, Fat: 130.3 g, Carbohydrates: 82.1 g, Fiber: 0 g, Sodium: 5620 mg
+
+
+**Ã‰telek:**
+- Frittata sajttal, zöldhagymával és kaporral, szezonális salátával és prosciuttoval 300g/ 400g (777.8 kcal, 40.5g fehÃ©rje, 59.1g zsÃ­r, 18.9g szÃ©nhidrÃ¡t, 2633mg nÃ¡trium)
+- Marhagulyás burgonyával és vörös babbal 350g/500g (401.1 kcal, 52.2g fehÃ©rje, 9.6g zsÃ­r, 23.2g szÃ©nhidrÃ¡t, 1926mg nÃ¡trium)
+- Saláta bivalymozzarellával,aszalt paradicsommal, olajbogyóval és articsókával 350g/500g (527.8 kcal, 23.6g fehÃ©rje, 38.2g zsÃ­r, 23.6g szÃ©nhidrÃ¡t, 943mg nÃ¡trium)
+- Hidegen sajtolt avokádó, spenót, zeller, körte, kelkáposzta, citrom, chia mag és fehérjepor leve   330 ml (404.1 kcal, 32.7g fehÃ©rje, 23.4g zsÃ­r, 16.4g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

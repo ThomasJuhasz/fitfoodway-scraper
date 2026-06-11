@@ -9,31 +9,6 @@
 
 ---
 
-# 10/06/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2019.2 kcal (101%) | 2000 kcal | 0 | 2272.2 kcal (114%) |
-| FehÃ©rje     | 139.7 g (78%) | 180 g | 40.3 g | 183.7 g (102%) |
-| ZsÃ­r        | 74.4 g (106%) | 70 g | 0 | 77.3 g (110%) |
-| SzÃ©nhidrÃ¡t | 141.5 g (88%) | 160 g | 18.5 g | 151.9 g (95%) |
-| Rost         | 9 g (30%) | 30 g | 21 g | 19.2 g (64%) |
-| NÃ¡trium     | 7922 mg (344%) | 2300 mg | 0 | 8462 mg (368%) |
-
-**Summary of Nutrients:** Calories: 2019.2 kcal, Protein: 139.7 g, Fat: 74.4 g, Carbohydrates: 141.5 g, Fiber: 9 g, Sodium: 7922 mg
-
-
-**Ã‰telek:**
-- Karfiol krém  bacon és mogyoró darabokkal, tojással, telemeával, sárgarépával, paprikával, zellerrel és zeller salátával (580 kcal, 26.8g fehÃ©rje, 33.6g zsÃ­r, 38.2g szÃ©nhidrÃ¡t, 2004mg nÃ¡trium)
-- Kuszkuszos sertéspörkölt zöldségekkel, savanyúsággal (570.6 kcal, 66.3g fehÃ©rje, 16.8g zsÃ­r, 28.7g szÃ©nhidrÃ¡t, 1376mg nÃ¡trium)
-- Niçoise saláta tonhalral, főtt burgonyával és zöldbabbal (638 kcal, 24g fehÃ©rje, 19g zsÃ­r, 46g szÃ©nhidrÃ¡t, 9g rost, 4503mg nÃ¡trium)
-- Protein smoothie dinnyével, körtével és ananásszal (230.6 kcal, 22.6g fehÃ©rje, 5g zsÃ­r, 28.6g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 11/06/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Sertéspörkölt borsóval és zöldbabbal (329.7 kcal, 39.2g fehÃ©rje, 11.6g zsÃ­r, 13.5g szÃ©nhidrÃ¡t, 1258mg nÃ¡trium)
 - Zöldfűszeres pulykamell natúr burgonyával, brokkolival és koktélparadicsommal (306.6 kcal, 37.8g fehÃ©rje, 2.8g zsÃ­r, 23.9g szÃ©nhidrÃ¡t, 1847mg nÃ¡trium)
 - Tápióka fehérjepuding őszibarackkal (153.2 kcal, 11.2g fehÃ©rje, 3g zsÃ­r, 23.5g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 16/06/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1840.3 kcal (92%) | 2000 kcal | 159.7 kcal | 2093.3 kcal (105%) |
+| FehÃ©rje     | 146.9 g (82%) | 180 g | 33.1 g | 190.9 g (106%) |
+| ZsÃ­r        | 59.3 g (85%) | 70 g | 10.7 g | 62.2 g (89%) |
+| SzÃ©nhidrÃ¡t | 180.1 g (113%) | 160 g | 0 | 190.5 g (119%) |
+| Rost         | 10 g (33%) | 30 g | 20 g | 20.2 g (67%) |
+| NÃ¡trium     | 5190 mg (226%) | 2300 mg | 0 | 5730 mg (249%) |
+
+**Summary of Nutrients:** Calories: 1840.3 kcal, Protein: 146.9 g, Fat: 59.3 g, Carbohydrates: 180.1 g, Fiber: 10 g, Sodium: 5190 mg
+
+
+**Ã‰telek:**
+- Saláta szeletelt sertéskarajjal, tojással és avokádóval (306.4 kcal, 31.8g fehÃ©rje, 17.1g zsÃ­r, 3.1g szÃ©nhidrÃ¡t, 1140mg nÃ¡trium)
+- Teljeskiörlésű penne paradicsomszósszal, bazsalikommal, rakétával és friss mozzarellával (666.6 kcal, 37.1g fehÃ©rje, 18.6g zsÃ­r, 83.9g szÃ©nhidrÃ¡t, 2515mg nÃ¡trium)
+- Csirke salata (428 kcal, 42g fehÃ©rje, 8g zsÃ­r, 48g szÃ©nhidrÃ¡t, 10g rost, 1496mg nÃ¡trium)
+- Parfé joghurttal, fehérjeporral és mangóval (439.3 kcal, 36g fehÃ©rje, 15.6g zsÃ­r, 45.1g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

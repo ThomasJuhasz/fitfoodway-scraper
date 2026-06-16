@@ -9,31 +9,6 @@
 
 ---
 
-# 15/06/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1285.8 kcal (64%) | 2000 kcal | 714.2 kcal | 1538.8 kcal (77%) |
-| FehÃ©rje     | 134.5 g (75%) | 180 g | 45.5 g | 178.5 g (99%) |
-| ZsÃ­r        | 44.2 g (63%) | 70 g | 25.8 g | 47.1 g (67%) |
-| SzÃ©nhidrÃ¡t | 73.1 g (46%) | 160 g | 86.9 g | 83.5 g (52%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 5423 mg (236%) | 2300 mg | 0 | 5963 mg (259%) |
-
-**Summary of Nutrients:** Calories: 1285.8 kcal, Protein: 134.5 g, Fat: 44.2 g, Carbohydrates: 73.1 g, Fiber: 0 g, Sodium: 5423 mg
-
-
-**Ã‰telek:**
-- Diavola csirkemell mexikói zöldségekkel (496.3 kcal, 46.3g fehÃ©rje, 26.8g zsÃ­r, 12.2g szÃ©nhidrÃ¡t, 2279mg nÃ¡trium)
-- Sertéspörkölt borsóval és zöldbabbal (329.7 kcal, 39.2g fehÃ©rje, 11.6g zsÃ­r, 13.5g szÃ©nhidrÃ¡t, 1258mg nÃ¡trium)
-- Zöldfűszeres pulykamell natúr burgonyával, brokkolival és koktélparadicsommal (306.6 kcal, 37.8g fehÃ©rje, 2.8g zsÃ­r, 23.9g szÃ©nhidrÃ¡t, 1847mg nÃ¡trium)
-- Tápióka fehérjepuding őszibarackkal (153.2 kcal, 11.2g fehÃ©rje, 3g zsÃ­r, 23.5g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 16/06/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Sertéskaraj polentával, párolt káposztával és barbeque szósszal (154.1 kcal, 14g fehÃ©rje, 6.3g zsÃ­r, 8.7g szÃ©nhidrÃ¡t, 786mg nÃ¡trium)
 - Görög saláta csirkemellel, feta sajttal, paradicsommal, hagymával, uborkával és olajbogyóval (457.3 kcal, 52.8g fehÃ©rje, 22.5g zsÃ­r, 7.1g szÃ©nhidrÃ¡t, 1454mg nÃ¡trium)
 - Smoothie zabbal, mogyoróvajjal, datolyával és mandulatejjel (378.3 kcal, 30.4g fehÃ©rje, 14.3g zsÃ­r, 34.9g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 20/06/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 2189.4 kcal (109%) | 2000 kcal | 0 | 2442.4 kcal (122%) |
+| FehÃ©rje     | 205.6 g (114%) | 180 g | 0 | 249.6 g (139%) |
+| ZsÃ­r        | 50 g (71%) | 70 g | 20 g | 52.9 g (76%) |
+| SzÃ©nhidrÃ¡t | 189.8 g (119%) | 160 g | 0 | 200.2 g (125%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 5856 mg (255%) | 2300 mg | 0 | 6396 mg (278%) |
+
+**Summary of Nutrients:** Calories: 2189.4 kcal, Protein: 205.6 g, Fat: 50 g, Carbohydrates: 189.8 g, Fiber: 0 g, Sodium: 5856 mg
+
+
+**Ã‰telek:**
+- Müzli érett almával és  görög joghurttal mazsolával és datolyával  és fehérjével 300g/400g (748.9 kcal, 39g fehÃ©rje, 20.5g zsÃ­r, 104g szÃ©nhidrÃ¡t, 2319mg nÃ¡trium)
+- Csirkecomb bulgurral és cukkinivel 250g (611.7 kcal, 62.3g fehÃ©rje, 23.6g zsÃ­r, 34.3g szÃ©nhidrÃ¡t, 2201mg nÃ¡trium)
+- Pulykaragu gombával, bébispenóttal és dióval 350g/500g (510.1 kcal, 79.5g fehÃ©rje, 7.1g szÃ©nhidrÃ¡t, 1336mg nÃ¡trium)
+- Fehérjes turmix bogyós gyümölcsökkel és banánnal 330ml (318.7 kcal, 24.8g fehÃ©rje, 5.9g zsÃ­r, 44.4g szÃ©nhidrÃ¡t, 0mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

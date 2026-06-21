@@ -9,31 +9,6 @@
 
 ---
 
-# 20/06/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2189.4 kcal (109%) | 2000 kcal | 0 | 2442.4 kcal (122%) |
-| FehÃ©rje     | 205.6 g (114%) | 180 g | 0 | 249.6 g (139%) |
-| ZsÃ­r        | 50 g (71%) | 70 g | 20 g | 52.9 g (76%) |
-| SzÃ©nhidrÃ¡t | 189.8 g (119%) | 160 g | 0 | 200.2 g (125%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 5856 mg (255%) | 2300 mg | 0 | 6396 mg (278%) |
-
-**Summary of Nutrients:** Calories: 2189.4 kcal, Protein: 205.6 g, Fat: 50 g, Carbohydrates: 189.8 g, Fiber: 0 g, Sodium: 5856 mg
-
-
-**Ã‰telek:**
-- Müzli érett almával és  görög joghurttal mazsolával és datolyával  és fehérjével 300g/400g (748.9 kcal, 39g fehÃ©rje, 20.5g zsÃ­r, 104g szÃ©nhidrÃ¡t, 2319mg nÃ¡trium)
-- Csirkecomb bulgurral és cukkinivel 250g (611.7 kcal, 62.3g fehÃ©rje, 23.6g zsÃ­r, 34.3g szÃ©nhidrÃ¡t, 2201mg nÃ¡trium)
-- Pulykaragu gombával, bébispenóttal és dióval 350g/500g (510.1 kcal, 79.5g fehÃ©rje, 7.1g szÃ©nhidrÃ¡t, 1336mg nÃ¡trium)
-- Fehérjes turmix bogyós gyümölcsökkel és banánnal 330ml (318.7 kcal, 24.8g fehÃ©rje, 5.9g zsÃ­r, 44.4g szÃ©nhidrÃ¡t, 0mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 22/06/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Chilly con carne 350g/500g (612.8 kcal, 35.3g fehÃ©rje, 39.2g zsÃ­r, 25.4g szÃ©nhidrÃ¡t, 1179mg nÃ¡trium)
 - Csirkemell Provence fűszernövényekkel, sajtmártással, barna rizzsel és serpenyőben sült zöldségekkel 350g/500g (133.9 kcal, 12.1g fehÃ©rje, 5.2g zsÃ­r, 8.9g szÃ©nhidrÃ¡t)
 - Fehérje lime torta 150g/200g (752.1 kcal, 40.4g fehÃ©rje, 49.1g zsÃ­r, 48.4g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 26/06/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 2114.1 kcal (106%) | 2000 kcal | 0 | 2367.1 kcal (118%) |
+| FehÃ©rje     | 181.1 g (101%) | 180 g | 0 | 225.1 g (125%) |
+| ZsÃ­r        | 80.9 g (116%) | 70 g | 0 | 83.8 g (120%) |
+| SzÃ©nhidrÃ¡t | 150.1 g (94%) | 160 g | 9.9 g | 160.5 g (100%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 4049 mg (176%) | 2300 mg | 0 | 4589 mg (200%) |
+
+**Summary of Nutrients:** Calories: 2114.1 kcal, Protein: 181.1 g, Fat: 80.9 g, Carbohydrates: 150.1 g, Fiber: 0 g, Sodium: 4049 mg
+
+
+**Ã‰telek:**
+- Teljes kiörlésű palacsinta banánnal, mogyoróvajjal 300g/400g (562.1 kcal, 22.6g fehÃ©rje, 18.3g zsÃ­r, 74g szÃ©nhidrÃ¡t, 197mg nÃ¡trium)
+- Marha steak zöldbors szósszal és parmezánnal sütőben ízesített zöldségekkel 350g/500g (604.2 kcal, 65.4g fehÃ©rje, 28.2g zsÃ­r, 17.4g szÃ©nhidrÃ¡t, 2201mg nÃ¡trium)
+- Kebab tányéron tálalva 350g/500g (634.4 kcal, 63.5g fehÃ©rje, 26.1g zsÃ­r, 27.7g szÃ©nhidrÃ¡t, 1572mg nÃ¡trium)
+- Smoothie mandulatejjel, banánnal, kenderliszttel, mézzel 330ml (313.4 kcal, 29.6g fehÃ©rje, 8.3g zsÃ­r, 31g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

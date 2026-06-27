@@ -9,31 +9,6 @@
 
 ---
 
-# 26/06/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2114.1 kcal (106%) | 2000 kcal | 0 | 2367.1 kcal (118%) |
-| FehÃ©rje     | 181.1 g (101%) | 180 g | 0 | 225.1 g (125%) |
-| ZsÃ­r        | 80.9 g (116%) | 70 g | 0 | 83.8 g (120%) |
-| SzÃ©nhidrÃ¡t | 150.1 g (94%) | 160 g | 9.9 g | 160.5 g (100%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 4049 mg (176%) | 2300 mg | 0 | 4589 mg (200%) |
-
-**Summary of Nutrients:** Calories: 2114.1 kcal, Protein: 181.1 g, Fat: 80.9 g, Carbohydrates: 150.1 g, Fiber: 0 g, Sodium: 4049 mg
-
-
-**Ã‰telek:**
-- Teljes kiörlésű palacsinta banánnal, mogyoróvajjal 300g/400g (562.1 kcal, 22.6g fehÃ©rje, 18.3g zsÃ­r, 74g szÃ©nhidrÃ¡t, 197mg nÃ¡trium)
-- Marha steak zöldbors szósszal és parmezánnal sütőben ízesített zöldségekkel 350g/500g (604.2 kcal, 65.4g fehÃ©rje, 28.2g zsÃ­r, 17.4g szÃ©nhidrÃ¡t, 2201mg nÃ¡trium)
-- Kebab tányéron tálalva 350g/500g (634.4 kcal, 63.5g fehÃ©rje, 26.1g zsÃ­r, 27.7g szÃ©nhidrÃ¡t, 1572mg nÃ¡trium)
-- Smoothie mandulatejjel, banánnal, kenderliszttel, mézzel 330ml (313.4 kcal, 29.6g fehÃ©rje, 8.3g zsÃ­r, 31g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 27/06/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Kemencében sült sertés szűzpecsenye vörösbabbal, csicseriborsóval és céklasalátával ecetes uborkával (115.8 kcal, 14.9g fehÃ©rje, 2.5g zsÃ­r, 6.3g szÃ©nhidrÃ¡t)
 - Pisztrángfilé pesto szósszal sárgarépával és zöldbabbal (505.9 kcal, 34.8g fehÃ©rje, 37.3g zsÃ­r, 14.9g szÃ©nhidrÃ¡t, 1454mg nÃ¡trium)
 - Protein smoothie  eperrel és banánnal (273.4 kcal, 28.5g fehÃ©rje, 7.7g zsÃ­r, 27.7g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 02/07/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 2050.3 kcal (103%) | 2000 kcal | 0 | 2303.3 kcal (115%) |
+| FehÃ©rje     | 185 g (103%) | 180 g | 0 | 229 g (127%) |
+| ZsÃ­r        | 77.9 g (111%) | 70 g | 0 | 80.8 g (115%) |
+| SzÃ©nhidrÃ¡t | 147.3 g (92%) | 160 g | 12.7 g | 157.7 g (99%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 4834 mg (210%) | 2300 mg | 0 | 5374 mg (234%) |
+
+**Summary of Nutrients:** Calories: 2050.3 kcal, Protein: 185 g, Fat: 77.9 g, Carbohydrates: 147.3 g, Fiber: 0 g, Sodium: 4834 mg
+
+
+**Ã‰telek:**
+- Pulykamell spenóttal, tojással és sajttal (464.8 kcal, 25.9g fehÃ©rje, 32.9g zsÃ­r, 13.8g szÃ©nhidrÃ¡t, 1886mg nÃ¡trium)
+- Teljeskiörlésű penne marharaguval (685.6 kcal, 78.3g fehÃ©rje, 20.9g zsÃ­r, 43.6g szÃ©nhidrÃ¡t, 1611mg nÃ¡trium)
+- Joghurtban és lime-ban pácolt  csirkecombfilé rizzsel és zöldségekkel (478.7 kcal, 48.4g fehÃ©rje, 13.9g zsÃ­r, 36.3g szÃ©nhidrÃ¡t, 1258mg nÃ¡trium)
+- Protein smoothie banánnal, zabbal és mandulatejjel (421.2 kcal, 32.4g fehÃ©rje, 10.2g zsÃ­r, 53.6g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

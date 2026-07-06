@@ -9,31 +9,6 @@
 
 ---
 
-# 06/07/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1959.8 kcal (98%) | 2000 kcal | 40.2 kcal | 2212.8 kcal (111%) |
-| FehÃ©rje     | 190 g (106%) | 180 g | 0 | 234 g (130%) |
-| ZsÃ­r        | 93.2 g (133%) | 70 g | 0 | 96.1 g (137%) |
-| SzÃ©nhidrÃ¡t | 92.2 g (58%) | 160 g | 67.8 g | 102.6 g (64%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 3497 mg (152%) | 2300 mg | 0 | 4037 mg (176%) |
-
-**Summary of Nutrients:** Calories: 1959.8 kcal, Protein: 190 g, Fat: 93.2 g, Carbohydrates: 92.2 g, Fiber: 0 g, Sodium: 3497 mg
-
-
-**Ã‰telek:**
-- Saláta prosciutto crudoval, gorgonzolával, körtével, koktélparadicsommal és szőlővel (556.9 kcal, 29.2g fehÃ©rje, 39.2g zsÃ­r, 20.9g szÃ©nhidrÃ¡t, 1100mg nÃ¡trium)
-- Tavaszi penne (781.4 kcal, 82.6g fehÃ©rje, 31.9g zsÃ­r, 40g szÃ©nhidrÃ¡t, 1297mg nÃ¡trium)
-- Pulykamell borsóval, paprikával, sárgarépával és hagymával (431.9 kcal, 55.8g fehÃ©rje, 17.2g zsÃ­r, 13.2g szÃ©nhidrÃ¡t, 1061mg nÃ¡trium)
-- Protein smoothie barackkal, utifűmaghéj, zabbal és mandulatejjel (189.6 kcal, 22.4g fehÃ©rje, 4.9g zsÃ­r, 18.1g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 07/07/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Afrikai lecsó csirkével (394.8 kcal, 55.4g fehÃ©rje, 6.4g zsÃ­r, 22.2g szÃ©nhidrÃ¡t, 2004mg nÃ¡trium)
 - Tőkehal filé zsemlemorzsában és parmezános bundában ,gombás rizottóval (726.8 kcal, 64.2g fehÃ©rje, 17g zsÃ­r, 83.8g szÃ©nhidrÃ¡t, 2044mg nÃ¡trium)
 - Protein sajt torta (379.2 kcal, 31.2g fehÃ©rje, 13.6g zsÃ­r, 35.9g szÃ©nhidrÃ¡t, 314mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 11/07/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1967.3 kcal (98%) | 2000 kcal | 32.7 kcal | 2220.3 kcal (111%) |
+| FehÃ©rje     | 117.9 g (65%) | 180 g | 62.1 g | 161.9 g (90%) |
+| ZsÃ­r        | 56.5 g (81%) | 70 g | 13.5 g | 59.4 g (85%) |
+| SzÃ©nhidrÃ¡t | 40 g (25%) | 160 g | 120 g | 50.4 g (32%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 3380 mg (147%) | 2300 mg | 0 | 3920 mg (170%) |
+
+**Summary of Nutrients:** Calories: 1967.3 kcal, Protein: 117.9 g, Fat: 56.5 g, Carbohydrates: 40 g, Fiber: 0 g, Sodium: 3380 mg
+
+
+**Ã‰telek:**
+- Ratatoille garnélarákkal és szalonnával 300g/400g (503.4 kcal, 63.6g fehÃ©rje, 20.2g zsÃ­r, 10.5g szÃ©nhidrÃ¡t, 3262mg nÃ¡trium)
+- Sertéssült fűszerekkel és zöldségekkel sütőben pirított káposztával 350g/500g (595 kcal, 10.2g fehÃ©rje, 11.8g zsÃ­r, 6.2g szÃ©nhidrÃ¡t)
+- Marhapörkölt paszternákpürével 350g/500g (521 kcal, 14.6g fehÃ©rje, 5.4g zsÃ­r, 7.5g szÃ©nhidrÃ¡t)
+- Répatorta joghurtos fehérje krémmel 150g/200g (347.9 kcal, 29.5g fehÃ©rje, 19.1g zsÃ­r, 15.8g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

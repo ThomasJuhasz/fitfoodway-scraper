@@ -9,31 +9,6 @@
 
 ---
 
-# 17/07/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2061.6 kcal (103%) | 2000 kcal | 0 | 2314.6 kcal (116%) |
-| FehÃ©rje     | 182.2 g (101%) | 180 g | 0 | 226.2 g (126%) |
-| ZsÃ­r        | 108.7 g (155%) | 70 g | 0 | 111.6 g (159%) |
-| SzÃ©nhidrÃ¡t | 84.3 g (53%) | 160 g | 75.7 g | 94.7 g (59%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 4126 mg (179%) | 2300 mg | 0 | 4666 mg (203%) |
-
-**Summary of Nutrients:** Calories: 2061.6 kcal, Protein: 182.2 g, Fat: 108.7 g, Carbohydrates: 84.3 g, Fiber: 0 g, Sodium: 4126 mg
-
-
-**Ã‰telek:**
-- Benedektojás hollandi szósszal (buggyantott tojás, sült karaj, sajt, teljes kiőrlésű kenyér, koktélparadicsom és uborkarúd) 300g/400g (710.8 kcal, 47.2g fehÃ©rje, 47.2g zsÃ­r, 22.6g szÃ©nhidrÃ¡t, 1926mg nÃ¡trium)
-- Sertésszelet joghurtos kapros szósszal, párolt borsóval és sárgababbal 350g/500g (515.1 kcal, 51.6g fehÃ©rje, 28g zsÃ­r, 11.5g szÃ©nhidrÃ¡t, 943mg nÃ¡trium)
-- Tészta tofuval, garnélarákkal és zöldségekkel 350g/500g (515.1 kcal, 51.6g fehÃ©rje, 28g zsÃ­r, 11.5g szÃ©nhidrÃ¡t, 943mg nÃ¡trium)
-- Smoothie banánnal, spenóttal, zöldalmával, kivivel, spirulinával és kelkáposztaporral 330 ml (320.6 kcal, 31.8g fehÃ©rje, 5.5g zsÃ­r, 38.7g szÃ©nhidrÃ¡t, 314mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 18/07/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Fűszeres pulykamell burgonyával, sárgarépával, zellerrel és paszternákkal sütőben (132.6 kcal, 15.9g fehÃ©rje, 4.6g zsÃ­r, 6.6g szÃ©nhidrÃ¡t)
 - Falafel  tabbouleh salátával és grillezett haloumival (181.5 kcal, 7.6g fehÃ©rje, 8.9g zsÃ­r, 16g szÃ©nhidrÃ¡t)
 - Smoothie banánnal és eperrel (54 kcal, 2.6g fehÃ©rje, 1.1g zsÃ­r, 8.3g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 23/07/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1194.3 kcal (60%) | 2000 kcal | 805.7 kcal | 1447.3 kcal (72%) |
+| FehÃ©rje     | 114.8 g (64%) | 180 g | 65.2 g | 158.8 g (88%) |
+| ZsÃ­r        | 34.2 g (49%) | 70 g | 35.8 g | 37.1 g (53%) |
+| SzÃ©nhidrÃ¡t | 102.5 g (64%) | 160 g | 57.5 g | 112.9 g (71%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 1768 mg (77%) | 2300 mg | 532 mg | 2308 mg (100%) |
+
+**Summary of Nutrients:** Calories: 1194.3 kcal, Protein: 114.8 g, Fat: 34.2 g, Carbohydrates: 102.5 g, Fiber: 0 g, Sodium: 1768 mg
+
+
+**Ã‰telek:**
+- Quesadilla csirkemellel, sajttal és babaspenóttal, paradicsomsalsával, vörösbabbal és kukoricával (646.5 kcal, 63.8g fehÃ©rje, 19g zsÃ­r, 48g szÃ©nhidrÃ¡t, 1729mg nÃ¡trium)
+- Paella garnélarákkal és tőkehalfilével (87.5 kcal, 9.3g fehÃ©rje, 1.5g zsÃ­r, 9.4g szÃ©nhidrÃ¡t)
+- Sült csirkemell édesburgonyapürével, gombával, brokkolival, olajbogyóval és gránátalmás vörösboros szósszal (150.1 kcal, 14.8g fehÃ©rje, 6.8g zsÃ­r, 4.9g szÃ©nhidrÃ¡t)
+- Protein smoothie banánnal és cseresznyével (310.2 kcal, 26.9g fehÃ©rje, 6.9g zsÃ­r, 40.2g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

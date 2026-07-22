@@ -9,31 +9,6 @@
 
 ---
 
-# 22/07/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 1211.5 kcal (61%) | 2000 kcal | 788.5 kcal | 1464.5 kcal (73%) |
-| FehÃ©rje     | 84.3 g (47%) | 180 g | 95.7 g | 128.3 g (71%) |
-| ZsÃ­r        | 80.4 g (115%) | 70 g | 0 | 83.3 g (119%) |
-| SzÃ©nhidrÃ¡t | 53.6 g (34%) | 160 g | 106.4 g | 64 g (40%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 1925 mg (84%) | 2300 mg | 375 mg | 2465 mg (107%) |
-
-**Summary of Nutrients:** Calories: 1211.5 kcal, Protein: 84.3 g, Fat: 80.4 g, Carbohydrates: 53.6 g, Fiber: 0 g, Sodium: 1925 mg
-
-
-**Ã‰telek:**
-- Krémsajt trió kacsamájjal, főtt tojással, tarka paprikával, uborkával és tökmaggal (843.4 kcal, 58.2g fehÃ©rje, 65.8g zsÃ­r, 22.7g szÃ©nhidrÃ¡t, 1886mg nÃ¡trium)
-- Fűszeres pulykamell burgonyával, sárgarépával, zellerrel és paszternákkal sütőben (132.6 kcal, 15.9g fehÃ©rje, 4.6g zsÃ­r, 6.6g szÃ©nhidrÃ¡t)
-- Falafel  tabbouleh salátával és grillezett haloumival (181.5 kcal, 7.6g fehÃ©rje, 8.9g zsÃ­r, 16g szÃ©nhidrÃ¡t)
-- Smoothie banánnal és eperrel (54 kcal, 2.6g fehÃ©rje, 1.1g zsÃ­r, 8.3g szÃ©nhidrÃ¡t, 39mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 23/07/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Sertés szelet és gomba szósszal barnarizses rizottóval, spenóttal, fenyőbimbóval, parmezánnal és zöldekkel 350g/500g (764.4 kcal, 73.5g fehÃ©rje, 17.9g zsÃ­r, 80.5g szÃ©nhidrÃ¡t, 1769mg nÃ¡trium)
 - Pulykamell barna szósszal, karfiol, brokkoli, burgonya, paprika, sajt és articsóka au gratin 350g/500g (533.3 kcal, 73.9g fehÃ©rje, 21.7g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 1808mg nÃ¡trium)
 - Tejberizs fehérje porral, málnával és fehér csokoládéval 150g/200g (488.4 kcal, 34.6g fehÃ©rje, 15.3g zsÃ­r, 59.7g szÃ©nhidrÃ¡t, 432mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 28/07/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1597.1 kcal (80%) | 2000 kcal | 402.9 kcal | 1850.1 kcal (93%) |
+| FehÃ©rje     | 101.3 g (56%) | 180 g | 78.7 g | 145.3 g (81%) |
+| ZsÃ­r        | 70.2 g (100%) | 70 g | 0 | 73.1 g (104%) |
+| SzÃ©nhidrÃ¡t | 128.7 g (80%) | 160 g | 31.3 g | 139.1 g (87%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 3065 mg (133%) | 2300 mg | 0 | 3605 mg (157%) |
+
+**Summary of Nutrients:** Calories: 1597.1 kcal, Protein: 101.3 g, Fat: 70.2 g, Carbohydrates: 128.7 g, Fiber: 0 g, Sodium: 3065 mg
+
+
+**Ã‰telek:**
+- Frittata paprikával, koktélparadicsommal és bébispenóttal, prosciutto, articsóka salátával, sült kápia paprikával, olajbogyóval, kecskesajttal és pesto rossóval 300g/400g (451.7 kcal, 29.2g fehÃ©rje, 30.8g zsÃ­r, 12.4g szÃ©nhidrÃ¡t, 1847mg nÃ¡trium)
+- Thai mangó csirke kesudióval és vadrizzsel lime-mal 350g/500g (582.3 kcal, 52.8g fehÃ©rje, 23.7g zsÃ­r, 36.8g szÃ©nhidrÃ¡t, 1100mg nÃ¡trium)
+- Marha steak gombával és tárkonnyal, sárgarépapürével, sült koktélparadicsommal, zellerrel és hagymával 350g/500g (114.4 kcal, 12.6g fehÃ©rje, 4.4g zsÃ­r, 4.7g szÃ©nhidrÃ¡t)
+- Energizáló cukorkák, cseresznyével és csokoládéval 150g/200g (448.7 kcal, 6.7g fehÃ©rje, 11.3g zsÃ­r, 74.8g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**

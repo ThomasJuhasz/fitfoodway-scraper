@@ -9,31 +9,6 @@
 
 ---
 
-# 20/08/2026
-
-| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
-|--------------|-------------|----------|------------------|---------------------|
-| KalÃ³ria     | 2196.2 kcal (110%) | 2000 kcal | 0 | 2449.2 kcal (122%) |
-| FehÃ©rje     | 139.3 g (77%) | 180 g | 40.7 g | 183.3 g (102%) |
-| ZsÃ­r        | 114.9 g (164%) | 70 g | 0 | 117.8 g (168%) |
-| SzÃ©nhidrÃ¡t | 153.8 g (96%) | 160 g | 6.2 g | 164.2 g (103%) |
-| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
-| NÃ¡trium     | 2122 mg (92%) | 2300 mg | 178 mg | 2662 mg (116%) |
-
-**Summary of Nutrients:** Calories: 2196.2 kcal, Protein: 139.3 g, Fat: 114.9 g, Carbohydrates: 153.8 g, Fiber: 0 g, Sodium: 2122 mg
-
-
-**Ã‰telek:**
-- Burrito csirkével, mozzarellával, avokádóval, vörös babbal, rizzsel és paradicsomos salsával 300g/400g (697.4 kcal, 51.5g fehÃ©rje, 21.4g zsÃ­r, 71.1g szÃ©nhidrÃ¡t, 825mg nÃ¡trium)
-- Chilly con carne 350g/500g (612.8 kcal, 35.3g fehÃ©rje, 39.2g zsÃ­r, 25.4g szÃ©nhidrÃ¡t, 1179mg nÃ¡trium)
-- Csirkemell Provence fűszernövényekkel, sajtmártással, barna rizzsel és serpenyőben sült zöldségekkel 350g/500g (133.9 kcal, 12.1g fehÃ©rje, 5.2g zsÃ­r, 8.9g szÃ©nhidrÃ¡t)
-- Fehérje lime torta 150g/200g (752.1 kcal, 40.4g fehÃ©rje, 49.1g zsÃ­r, 48.4g szÃ©nhidrÃ¡t, 118mg nÃ¡trium)
-
-
-**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
-- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
-- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
-
 # 24/08/2026
 
 | TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
@@ -128,6 +103,31 @@
 - Teljeskiörlésű penne marharaguval (685.6 kcal, 78.3g fehÃ©rje, 20.9g zsÃ­r, 43.6g szÃ©nhidrÃ¡t, 1611mg nÃ¡trium)
 - Joghurtban és lime-ban pácolt  csirkecombfilé rizzsel és zöldségekkel (478.7 kcal, 48.4g fehÃ©rje, 13.9g zsÃ­r, 36.3g szÃ©nhidrÃ¡t, 1258mg nÃ¡trium)
 - Protein smoothie banánnal, zabbal és mandulatejjel (421.2 kcal, 32.4g fehÃ©rje, 10.2g zsÃ­r, 53.6g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
+
+
+**Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
+- Fehérjepor shake (1 adag vízzel) Ã— 1 (120 kcal, 24g fehÃ©rje, 1.5g zsÃ­r, 2g szÃ©nhidrÃ¡t, 150mg nÃ¡trium)
+- Fibershake Ã— 1 (133 kcal, 20g fehÃ©rje, 1.4g zsÃ­r, 8.4g szÃ©nhidrÃ¡t, 10.2g rost, 390mg nÃ¡trium)
+
+# 28/08/2026
+
+| TÃ¡panyag      | Fogyasztott | AjÃ¡nlott | HiÃ¡nyzik a cÃ©lig | Extra utÃ¡n Ã¶sszesen |
+|--------------|-------------|----------|------------------|---------------------|
+| KalÃ³ria     | 1793.6 kcal (90%) | 2000 kcal | 206.4 kcal | 2046.6 kcal (102%) |
+| FehÃ©rje     | 127.3 g (71%) | 180 g | 52.7 g | 171.3 g (95%) |
+| ZsÃ­r        | 89.1 g (127%) | 70 g | 0 | 92 g (131%) |
+| SzÃ©nhidrÃ¡t | 111.4 g (70%) | 160 g | 48.6 g | 121.8 g (76%) |
+| Rost         | 0 g (0%) | 30 g | 30 g | 10.2 g (34%) |
+| NÃ¡trium     | 3890 mg (169%) | 2300 mg | 0 | 4430 mg (193%) |
+
+**Summary of Nutrients:** Calories: 1793.6 kcal, Protein: 127.3 g, Fat: 89.1 g, Carbohydrates: 111.4 g, Fiber: 0 g, Sodium: 3890 mg
+
+
+**Ã‰telek:**
+- Edesburgonya saláta, feta sajt, koktélparadicsom, parmezánnal, darált dióval, olajbogyóval és rukkolával, olívaolajjal (591.3 kcal, 22.5g fehÃ©rje, 33.2g zsÃ­r, 46.2g szÃ©nhidrÃ¡t, 825mg nÃ¡trium)
+- Kacsamell narancsmártással vöröskáposzta ágyon (370.1 kcal, 32.4g fehÃ©rje, 17.6g zsÃ­r, 15.6g szÃ©nhidrÃ¡t, 1886mg nÃ¡trium)
+- Szezámos csirkemell avokádóval, mandulával és érett paradicsommal (484.6 kcal, 41.3g fehÃ©rje, 24.7g zsÃ­r, 21.7g szÃ©nhidrÃ¡t, 1100mg nÃ¡trium)
+- Fehérje joghurt zabpehellyel, chia maggal, őszibarackkal, ananásszal, kókusszal és gránátalmával (347.6 kcal, 31.1g fehÃ©rje, 13.6g zsÃ­r, 27.9g szÃ©nhidrÃ¡t, 79mg nÃ¡trium)
 
 
 **Javasolt kiegÃ©szÃ­tÅ‘ Ã©telek a cÃ©l elÃ©rÃ©sÃ©hez:**
